@@ -16,7 +16,7 @@ conda activate .\venv
 or 
 
 ```bash
-mkdir
+mkdir venv
 mamba env create ./venv -f environment.yml
 conda activate .\venv
 ```
