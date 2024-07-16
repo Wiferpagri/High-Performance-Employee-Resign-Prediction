@@ -1,0 +1,2021 @@
+id_colaborador,id_ultimo_jefe,seniority,modalidad_trabajo,distancia_oficina,dias_baja_salud,genero,canal_reclutamiento,permanencia_promedio,salario,performance_score,psi_score,estado_civil,age,join_year,join_month,performance
+100486,102115.0,1,Híbrida,0.795,2,Hombre,Ferias & Networking,2,181654,99,81,Soltero,24,2021,7,high
+103752,102074.0,1,Híbrida,1.715,1,Mujer,Ferias & Networking,1,140986,97,75,Soltero,18,2018,1,high
+103937,102150.0,1,Híbrida,2.375,1,Hombre,Portal Web,6,406690,96,69,Soltero,37,2022,4,high
+101744,102172.0,1,Híbrida,2.185,3,Hombre,Linkedin,3,249107,95,73,Casado,30,2023,5,high
+101037,102060.0,1,Híbrida,4.66,3,Hombre,Referidos,10,698318,95,81,Viudo,45,2015,6,high
+103465,102172.0,1,Híbrida,2.16,3,Hombre,Linkedin,3,245356,95,73,Casado,30,2023,5,high
+103718,102078.0,1,Híbrida,0.925,2,Mujer,Portal Web,3,370517,95,70,Soltero,30,2017,3,high
+103206,102060.0,1,Híbrida,4.965,2,Mujer,Referidos,11,676490,95,74,Viudo,45,2016,7,high
+102932,102060.0,1,Híbrida,4.665,3,Hombre,Referidos,10,697802,95,81,Viudo,45,2015,6,high
+103179,102144.0,1,Híbrida,1.715,7,Mujer,Linkedin,5,856648,95,65,Soltero,55,2022,9,high
+101424,102039.0,1,Híbrida,2.345,3,Mujer,Portal Web,5,412667,94,76,Casado,30,2015,4,high
+103534,102039.0,1,Híbrida,2.365,2,Mujer,Portal Web,5,407037,94,76,Casado,30,2015,4,high
+101680,102061.0,1,Híbrida,5.21,8,Mujer,Linkedin,10,677898,92,87,Divorciado,45,2016,7,high
+100332,102140.0,1,Híbrida,4.34,10,Hombre,Portal Web,9,854702,92,75,Viudo,54,2022,8,high
+103739,102070.0,1,Híbrida,1.545,3,Hombre,Ferias & Networking,2,228780,92,76,Soltero,23,2017,3,high
+100086,102140.0,1,Híbrida,3.98,1,Hombre,Referidos,1,82596,91,75,Soltero,19,2022,4,high
+101520,102015.0,1,Híbrida,5.94,2,Mujer,Referidos,1,102758,91,80,Casado,11,2012,9,high
+101657,102118.0,1,Híbrida,1.745,2,Mujer,Referidos,3,138291,91,77,Soltero,21,2020,8,high
+101410,102044.0,1,Híbrida,5.175,3,Hombre,Portal Web,2,141023,91,72,Casado,13,2013,2,high
+101277,102083.0,1,Híbrida,1.075,2,Mujer,Referidos,4,164792,91,73,Soltero,19,2017,7,high
+101655,102117.0,1,Híbrida,2.76,2,Hombre,Linkedin,1,231963,91,78,Casado,27,2021,10,high
+101753,102125.0,1,Híbrida,2.21,0,Hombre,Ferias & Networking,5,305031,91,79,Soltero,30,2020,12,high
+101737,102112.0,1,Híbrida,1.11,0,Mujer,Portal Web,7,329714,91,74,Casado,30,2019,7,high
+101275,102050.0,1,Híbrida,1.055,2,Hombre,Portal Web,2,327251,91,78,Soltero,25,2014,8,high
+100408,102022.0,1,Híbrida,2.53,5,Mujer,Linkedin,5,351175,91,73,Soltero,25,2014,2,high
+100158,102134.0,1,Híbrida,5.64,3,Hombre,Referidos,4,428085,91,72,Soltero,38,2022,10,high
+100729,102113.0,1,Híbrida,3.325,1,Hombre,Linkedin,5,448262,91,70,Casado,37,2020,12,high
+100851,102104.0,1,Híbrida,3.74,5,Hombre,Linkedin,10,430638,91,77,Soltero,37,2020,11,high
+101000,102071.0,1,Híbrida,3.43,1,Hombre,Referidos,11,428419,91,76,Soltero,32,2016,6,high
+101409,102031.0,1,Híbrida,5.405,3,Hombre,Portal Web,4,473280,91,63,Casado,31,2013,1,high
+101824,102045.0,1,Híbrida,1.605,9,Hombre,Linkedin,11,252043,91,83,Soltero,33,2012,11,high
+101259,102045.0,1,Híbrida,1.575,2,Mujer,Linkedin,5,257498,91,81,Soltero,37,2015,7,high
+100736,102042.0,1,Híbrida,2.705,2,Mujer,Ferias & Networking,10,378369,91,64,Casado,36,2014,5,high
+101903,102054.0,1,Híbrida,2.28,2,Mujer,Portal Web,14,282057,91,78,Divorciado,37,2013,6,high
+100171,102159.0,1,Híbrida,2.34,1,Mujer,Linkedin,11,294147,91,70,Viudo,48,2023,4,high
+101949,102153.0,1,Híbrida,3.79,1,Hombre,Ferias & Networking,3,400367,91,76,Divorciado,47,2022,8,high
+101371,102073.0,1,Híbrida,0.86,0,Hombre,Referidos,8,680247,91,82,Viudo,44,2015,4,high
+100451,102043.0,1,Híbrida,1.58,5,Mujer,Portal Web,11,761732,91,74,Divorciado,44,2014,4,high
+101952,102077.0,1,Híbrida,2.81,3,Mujer,Linkedin,7,815402,91,76,Divorciado,49,2018,3,high
+101721,102129.0,1,Híbrida,2.72,2,Hombre,Portal Web,4,895670,91,68,Viudo,57,2020,4,high
+102802,102133.0,1,Híbrida,5.1,0,Mujer,Ferias & Networking,1,141446,91,77,Soltero,20,2020,12,high
+103824,102026.0,1,Híbrida,1.85,6,Hombre,Portal Web,3,120417,91,76,Soltero,11,2012,7,high
+104042,102132.0,1,Híbrida,3.44,2,Mujer,Portal Web,3,142128,91,85,Soltero,22,2021,4,high
+103566,102069.0,1,Híbrida,2.19,2,Hombre,Linkedin,3,140841,91,81,Soltero,16,2014,11,high
+104031,102084.0,1,Híbrida,1.5,2,Hombre,Ferias & Networking,3,183516,91,74,Soltero,19,2016,7,high
+103381,102142.0,1,Híbrida,3.18,6,Hombre,Portal Web,4,209682,91,74,Casado,28,2023,3,high
+103594,102065.0,1,Híbrida,2.09,2,Mujer,Portal Web,5,251797,91,77,Casado,23,2016,9,high
+103053,102050.0,1,Híbrida,2.255,4,Mujer,Portal Web,7,284920,91,73,Casado,22,2013,9,high
+102297,102025.0,1,Híbrida,4.695,3,Hombre,Portal Web,3,291458,91,76,Casado,22,2013,1,high
+103210,102068.0,1,Híbrida,3.99,0,Mujer,Linkedin,4,305028,91,73,Soltero,27,2016,12,high
+103521,102069.0,1,Híbrida,3.265,8,Mujer,Portal Web,5,309212,91,77,Divorciado,27,2016,10,high
+104099,102080.0,1,Híbrida,5.185,3,Hombre,Portal Web,2,327551,91,79,Casado,27,2016,7,high
+103121,102050.0,1,Híbrida,1.1,1,Hombre,Portal Web,2,333345,91,78,Soltero,25,2014,8,high
+103168,102126.0,1,Híbrida,1.865,1,Hombre,Referidos,7,370173,91,70,Casado,36,2022,8,high
+102526,102158.0,1,Híbrida,3.785,1,Mujer,Portal Web,10,390316,91,81,Casado,37,2022,11,high
+103712,102044.0,1,Híbrida,2.33,1,Mujer,Ferias & Networking,6,391289,91,61,Soltero,28,2013,8,high
+102670,102040.0,1,Híbrida,1.18,1,Hombre,Portal Web,9,427278,91,81,Soltero,30,2014,2,high
+103556,102067.0,1,Híbrida,3.91,3,Hombre,Linkedin,5,831125,91,73,Soltero,32,2014,9,high
+102817,102028.0,1,Híbrida,2.06,11,Mujer,Linkedin,10,464595,91,73,Soltero,31,2013,2,high
+102391,102031.0,1,Híbrida,5.405,3,Hombre,Portal Web,4,467480,91,63,Casado,31,2013,1,high
+104145,102119.0,1,Híbrida,1.285,0,Mujer,Portal Web,14,254905,91,81,Divorciado,42,2022,1,high
+102944,102086.0,1,Híbrida,3.88,3,Mujer,Referidos,6,248830,91,80,Soltero,39,2018,8,high
+103705,102056.0,1,Híbrida,2.52,5,Mujer,Portal Web,7,911302,91,73,Casado,34,2013,11,high
+102682,102133.0,1,Híbrida,3.58,3,Hombre,Portal Web,13,255157,91,65,Soltero,41,2020,1,high
+103690,102142.0,1,Híbrida,2.365,1,Hombre,Portal Web,13,264979,91,89,Soltero,44,2022,8,high
+104076,102054.0,1,Híbrida,2.27,2,Mujer,Portal Web,14,274224,91,78,Divorciado,37,2013,6,high
+104094,102039.0,1,Híbrida,4.91,21,Mujer,Portal Web,15,413558,91,81,Soltero,38,2013,12,high
+103592,102103.0,1,Híbrida,4.505,2,Mujer,Linkedin,15,300844,91,66,Divorciado,44,2019,6,high
+102681,102064.0,1,Híbrida,4.805,2,Hombre,Ferias & Networking,10,778707,91,73,Viudo,46,2017,4,high
+104049,102084.0,1,Híbrida,2.235,10,Hombre,Linkedin,16,676291,91,80,Divorciado,47,2018,10,high
+102598,102061.0,1,Híbrida,4.665,1,Mujer,Portal Web,8,679378,91,76,Casado,43,2014,4,high
+104082,102077.0,1,Híbrida,2.82,3,Mujer,Linkedin,7,816455,91,76,Divorciado,49,2018,3,high
+103544,102068.0,1,Híbrida,3.04,1,Hombre,Ferias & Networking,18,741713,91,71,Divorciado,49,2017,2,high
+102954,102068.0,1,Híbrida,1.23,2,Hombre,Ferias & Networking,6,733700,91,80,Viudo,48,2015,5,high
+101362,102082.0,1,Híbrida,1.42,2,Mujer,Referidos,1,78932,90,89,Soltero,14,2016,8,high
+100255,102127.0,1,Híbrida,1.425,7,Hombre,Linkedin,1,142966,90,71,Soltero,21,2020,3,high
+100647,102156.0,1,Híbrida,2.155,1,Mujer,Portal Web,3,188544,90,87,Soltero,26,2022,8,high
+101953,102067.0,1,Híbrida,4.285,0,Mujer,Portal Web,1,186190,90,68,Soltero,20,2016,7,high
+101339,102171.0,1,Híbrida,2.295,1,Hombre,Portal Web,5,210218,90,66,Soltero,28,2023,6,high
+101826,102126.0,1,Híbrida,3.475,2,Hombre,Ferias & Networking,3,207356,90,86,Soltero,26,2021,6,high
+100415,102141.0,1,Híbrida,1.555,1,Hombre,Referidos,3,248798,90,73,Casado,29,2022,6,high
+101170,102036.0,1,Híbrida,2.715,1,Mujer,Portal Web,5,267679,90,74,Casado,21,2013,12,high
+100850,102050.0,1,Híbrida,2.22,4,Mujer,Portal Web,7,292096,90,73,Casado,22,2013,9,high
+101984,102074.0,1,Híbrida,1.55,1,Mujer,Linkedin,6,288111,90,64,Soltero,26,2017,5,high
+100419,102024.0,1,Híbrida,4.59,0,Mujer,Portal Web,4,311613,90,59,Soltero,22,2012,7,high
+100062,102126.0,1,Híbrida,1.875,1,Hombre,Referidos,7,370388,90,70,Casado,35,2022,8,high
+100800,102158.0,1,Híbrida,3.79,2,Mujer,Portal Web,10,389553,90,81,Casado,37,2022,11,high
+100353,102129.0,1,Híbrida,1.82,3,Hombre,Ferias & Networking,2,384951,90,66,Soltero,36,2022,1,high
+101200,102035.0,1,Híbrida,3.375,3,Mujer,Ferias & Networking,11,406978,90,74,Soltero,28,2013,3,high
+101397,102003.0,1,Híbrida,1.735,6,Mujer,Linkedin,8,772441,90,77,Soltero,27,2012,3,high
+101820,102052.0,1,Híbrida,2.635,3,Hombre,Ferias & Networking,4,769448,90,80,Casado,34,2016,5,high
+100079,102028.0,1,Híbrida,2.03,10,Mujer,Linkedin,10,466737,90,73,Soltero,31,2013,2,high
+100650,102105.0,1,Híbrida,1.485,1,Hombre,Referidos,3,529395,90,77,Casado,41,2020,4,high
+100634,102086.0,1,Híbrida,3.855,3,Mujer,Referidos,6,245459,90,80,Soltero,39,2018,8,high
+101026,102042.0,1,Híbrida,6.465,1,Mujer,Portal Web,13,272032,90,73,Casado,35,2013,5,high
+101908,102142.0,1,Híbrida,2.4,2,Hombre,Portal Web,13,267966,90,89,Soltero,45,2022,8,high
+101472,102126.0,1,Híbrida,2.645,9,Mujer,Portal Web,7,281771,90,73,Casado,45,2021,8,high
+100757,102078.0,1,Híbrida,1.45,10,Hombre,Linkedin,10,275691,90,73,Casado,41,2018,2,high
+100251,102012.0,1,Híbrida,1.87,1,Mujer,Portal Web,14,293524,90,75,Viudo,38,2013,2,high
+101474,102028.0,1,Híbrida,1.495,1,Hombre,Portal Web,13,387143,90,71,Soltero,40,2014,8,high
+101588,102034.0,1,Híbrida,2.725,0,Hombre,Portal Web,14,642641,90,68,Casado,41,2014,2,high
+101745,102106.0,1,Híbrida,1.505,4,Hombre,Portal Web,4,675783,90,74,Soltero,49,2019,6,high
+100847,102061.0,1,Híbrida,4.66,0,Mujer,Portal Web,8,680049,90,76,Casado,43,2014,4,high
+100549,102100.0,1,Híbrida,3.68,1,Hombre,Portal Web,19,718149,90,87,Divorciado,49,2017,8,high
+101868,102114.0,1,Híbrida,6.385,11,Mujer,Linkedin,7,917317,90,74,Viudo,50,2018,9,high
+102121,unknown,2,Híbrida,1.63,2,Hombre,Portal Web,4,1616000,90,77,Divorciado,44,2012,2,high
+104154,102127.0,1,Híbrida,1.42,6,Hombre,Linkedin,1,141787,90,71,Soltero,21,2020,3,high
+102865,102124.0,1,Híbrida,1.005,1,Mujer,Referidos,2,180573,90,66,Casado,23,2019,7,high
+102313,102067.0,1,Híbrida,4.275,1,Mujer,Portal Web,1,185388,90,68,Soltero,20,2016,7,high
+103025,102117.0,1,Híbrida,2.76,2,Hombre,Linkedin,1,232322,90,78,Casado,28,2021,10,high
+103717,102074.0,1,Híbrida,1.55,1,Mujer,Linkedin,6,292555,90,64,Soltero,26,2017,5,high
+103229,102112.0,1,Híbrida,1.105,1,Mujer,Portal Web,7,326478,90,74,Casado,30,2019,7,high
+104002,102022.0,1,Híbrida,2.525,6,Mujer,Linkedin,5,350184,90,73,Soltero,25,2014,2,high
+103635,102111.0,1,Híbrida,3.165,1,Hombre,Ferias & Networking,2,366504,90,67,Soltero,32,2019,7,high
+103688,102035.0,1,Híbrida,3.365,2,Mujer,Ferias & Networking,11,404653,90,74,Soltero,28,2013,3,high
+103734,102003.0,1,Híbrida,1.73,6,Mujer,Linkedin,8,769704,90,77,Casado,28,2012,3,high
+103871,102042.0,1,Híbrida,5.555,1,Mujer,Portal Web,3,424477,90,74,Viudo,28,2012,9,high
+102712,102045.0,1,Híbrida,1.605,9,Hombre,Linkedin,11,246554,90,83,Soltero,33,2012,11,high
+103495,102099.0,1,Híbrida,4.17,5,Hombre,Portal Web,3,269781,90,65,Divorciado,39,2017,2,high
+103942,102126.0,1,Híbrida,2.65,8,Mujer,Portal Web,7,281601,90,73,Casado,45,2021,8,high
+103213,102078.0,1,Híbrida,1.45,9,Hombre,Linkedin,10,275572,90,73,Casado,41,2018,2,high
+102374,102012.0,1,Híbrida,1.905,1,Mujer,Portal Web,14,299734,90,75,Viudo,38,2013,2,high
+102520,102034.0,1,Híbrida,2.015,7,Hombre,Linkedin,5,299717,90,80,Casado,37,2012,1,high
+103779,102082.0,1,Híbrida,1.625,2,Hombre,Portal Web,7,774688,90,65,Divorciado,45,2017,12,high
+102300,102034.0,1,Híbrida,2.755,1,Hombre,Portal Web,14,634294,90,68,Casado,41,2014,2,high
+102287,102079.0,1,Híbrida,2.32,0,Mujer,Portal Web,15,817952,90,70,Casado,44,2016,4,high
+102535,102112.0,1,Híbrida,0.88,1,Hombre,Portal Web,10,701522,90,72,Soltero,51,2021,2,high
+103986,102100.0,1,Híbrida,3.705,1,Hombre,Portal Web,19,721711,90,87,Divorciado,49,2017,8,high
+100100,102125.0,1,Híbrida,1.91,5,Mujer,Portal Web,2,209741,89,62,Casado,27,2021,7,high
+101631,102042.0,1,Híbrida,5.58,2,Mujer,Portal Web,3,426271,89,74,Viudo,28,2012,9,high
+101989,102068.0,1,Híbrida,1.475,1,Mujer,Ferias & Networking,5,430836,88,68,Casado,31,2015,8,high
+101232,102064.0,1,Híbrida,2.215,0,Hombre,Referidos,7,696295,88,78,Viudo,45,2015,5,high
+102438,102059.0,1,Híbrida,1.335,0,Hombre,Linkedin,4,425511,88,68,Soltero,33,2017,1,high
+102291,102064.0,1,Híbrida,2.2,1,Hombre,Referidos,7,694163,88,78,Viudo,45,2015,5,high
+100643,102054.0,1,Híbrida,1.505,1,Hombre,Portal Web,2,180814,87,88,Casado,18,2015,11,high
+100287,102059.0,1,Híbrida,1.315,1,Hombre,Linkedin,4,427406,87,68,Soltero,33,2017,1,high
+101786,102035.0,1,Híbrida,3.01,1,Mujer,Ferias & Networking,4,287978,87,78,Casado,37,2012,7,high
+100382,102035.0,1,Híbrida,2.155,0,Mujer,Ferias & Networking,2,661749,87,76,Soltero,40,2012,4,high
+102650,102054.0,1,Híbrida,1.495,0,Hombre,Portal Web,2,183947,87,88,Casado,18,2015,11,high
+102588,102106.0,1,Híbrida,1.475,3,Mujer,Portal Web,6,788525,87,62,Soltero,36,2021,2,high
+103283,102035.0,1,Híbrida,3.005,1,Mujer,Ferias & Networking,5,290314,87,78,Casado,37,2012,7,high
+100737,102092.0,1,Híbrida,5.28,1,Mujer,Ferias & Networking,1,121171,86,90,Soltero,18,2018,8,high
+102373,102064.0,1,Híbrida,2.315,2,Hombre,Ferias & Networking,6,307294,86,78,Casado,24,2014,10,high
+102224,102017.0,1,Híbrida,5.41,2,Mujer,Portal Web,13,277708,86,86,Casado,36,2012,10,high
+102565,102035.0,1,Híbrida,2.195,0,Mujer,Ferias & Networking,2,659393,86,76,Soltero,40,2012,4,high
+103614,102066.0,1,Híbrida,2.64,2,Hombre,Referidos,7,780052,86,75,Viudo,47,2016,3,high
+101875,102063.0,1,Híbrida,1.03,3,Hombre,Ferias & Networking,3,168402,85,83,Soltero,17,2015,3,high
+101457,102091.0,1,Híbrida,5.27,0,Mujer,Portal Web,5,425593,85,73,Soltero,34,2017,11,high
+101635,102142.0,1,Híbrida,3.41,11,Hombre,Portal Web,8,301780,85,74,Divorciado,48,2022,4,high
+101815,102066.0,1,Híbrida,2.605,2,Hombre,Referidos,7,774831,85,75,Viudo,47,2016,3,high
+102666,102137.0,1,Híbrida,3.4,12,Mujer,Portal Web,10,386747,85,73,Casado,45,2023,4,high
+101372,102087.0,1,Híbrida,2.47,2,Mujer,Referidos,4,143282,84,77,Soltero,17,2016,11,high
+101158,102117.0,1,Híbrida,2.97,0,Mujer,Referidos,6,247486,84,73,Soltero,40,2020,3,high
+100858,102137.0,1,Híbrida,3.38,11,Mujer,Portal Web,10,384696,84,73,Casado,45,2023,4,high
+104156,102063.0,1,Híbrida,1.04,2,Hombre,Ferias & Networking,3,164991,84,83,Soltero,17,2015,3,high
+103917,102108.0,1,Híbrida,1.8,2,Hombre,Portal Web,4,269267,84,73,Soltero,27,2019,1,high
+101400,102061.0,1,Híbrida,1.835,3,Hombre,Portal Web,16,774236,83,78,Soltero,44,2014,3,high
+101441,102086.0,1,Híbrida,2.665,14,Hombre,Ferias & Networking,6,426429,82,86,Soltero,35,2018,8,high
+100233,102031.0,1,Híbrida,1.47,7,Mujer,Linkedin,4,839816,82,78,Casado,42,2013,2,high
+100830,102134.0,1,Híbrida,1.92,3,Hombre,Referidos,4,209256,81,80,Soltero,28,2023,4,high
+101511,102028.0,1,Híbrida,1.825,4,Mujer,Portal Web,6,331238,81,79,Casado,25,2013,7,high
+100996,102038.0,1,Híbrida,3.44,1,Mujer,Portal Web,9,505872,81,79,Casado,35,2014,9,high
+100054,102060.0,1,Híbrida,4.705,6,Hombre,Portal Web,16,310561,81,84,Viudo,42,2016,1,high
+102474,102134.0,1,Híbrida,1.89,3,Hombre,Referidos,4,212769,81,80,Soltero,28,2023,4,high
+103253,102060.0,1,Híbrida,4.74,6,Hombre,Portal Web,16,306316,81,84,Viudo,42,2016,1,high
+103539,102042.0,1,Híbrida,6.385,3,Hombre,Linkedin,3,634592,81,74,Divorciado,42,2014,10,high
+103019,102031.0,1,Híbrida,1.43,7,Mujer,Linkedin,4,833884,81,78,Casado,42,2013,2,high
+100081,102056.0,1,Híbrida,2.925,3,Hombre,Portal Web,6,309463,81,67,Casado,24,2014,3,high
+100165,102144.0,1,Híbrida,2.195,1,Mujer,Portal Web,7,489901,83,79,Casado,42,2023,1,high
+100652,102076.0,1,Híbrida,3.29,2,Hombre,Linkedin,9,512929,83,72,Divorciado,37,2017,1,high
+101503,102031.0,1,Híbrida,6.775,2,Hombre,Ferias & Networking,8,277183,82,77,Casado,37,2014,2,high
+103069,102085.0,1,Híbrida,3.485,2,Mujer,Referidos,3,145034,81,63,Soltero,18,2016,3,high
+103036,102028.0,1,Híbrida,1.81,4,Mujer,Portal Web,6,329443,87,79,Casado,25,2013,7,high
+102483,102076.0,1,Híbrida,3.26,2,Hombre,Linkedin,9,507016,93,72,Divorciado,37,2017,1,high
+103847,102052.0,1,Híbrida,2.09,2,Mujer,Linkedin,6,507656,84,75,Casado,35,2015,9,high
+102581,102108.0,1,Híbrida,1.04,3,Mujer,Linkedin,4,255758,96,78,Divorciado,42,2021,2,high
+100990,102037.0,1,Híbrida,6.995,7,Hombre,Linkedin,1,140589,86,74,Soltero,13,2013,10,high
+100836,102108.0,1,Híbrida,1.05,4,Mujer,Linkedin,4,261381,96,78,Divorciado,42,2021,2,high
+100844,102143.0,1,Híbrida,2.135,7,Hombre,Linkedin,5,259594,90,89,Soltero,42,2021,1,high
+103749,102133.0,1,Híbrida,1.895,2,Mujer,Ferias & Networking,1,117204,91,75,Soltero,21,2022,9,high
+104151,102037.0,1,Híbrida,7.015,7,Hombre,Linkedin,1,141097,80,74,Soltero,13,2013,10,high
+102906,102056.0,1,Híbrida,2.925,3,Hombre,Portal Web,6,313655,91,67,Casado,24,2014,3,high
+102826,102103.0,1,Híbrida,2.98,1,Hombre,Portal Web,3,389604,95,82,Casado,33,2019,2,high
+103140,102094.0,1,Híbrida,3.085,2,Mujer,Portal Web,14,642595,96,87,Casado,44,2017,8,high
+102586,102154.0,1,Híbrida,1.73,2,Hombre,Linkedin,1,901603,88,76,Viudo,55,2023,2,high
+100484,102041.0,1,Híbrida,4.35,1,Hombre,Ferias & Networking,1,115391,89,80,Soltero,14,2015,7,high
+100700,102040.0,1,Híbrida,1.77,8,Hombre,Portal Web,1,118314,82,63,Soltero,14,2015,3,high
+101747,102160.0,1,Híbrida,2.29,2,Hombre,Referidos,4,165624,84,65,Soltero,25,2022,6,high
+101623,102131.0,1,Híbrida,4.205,2,Hombre,Linkedin,5,490460,95,80,Casado,40,2021,2,high
+101803,102033.0,1,Híbrida,4.675,3,Hombre,Linkedin,8,288057,92,74,Divorciado,37,2012,10,high
+101975,102107.0,1,Híbrida,2.74,8,Mujer,Portal Web,14,312306,92,73,Casado,45,2019,4,high
+102978,102039.0,1,Híbrida,6.935,1,Hombre,Portal Web,4,206350,87,64,Casado,18,2012,11,high
+103281,102075.0,1,Híbrida,3.105,1,Hombre,Linkedin,9,332572,86,77,Soltero,29,2017,7,high
+103523,102129.0,1,Híbrida,1.265,2,Hombre,Referidos,8,468281,84,67,Soltero,41,2022,5,high
+102328,102131.0,1,Híbrida,4.19,2,Hombre,Linkedin,5,490891,82,80,Casado,40,2021,2,high
+102707,102134.0,1,Híbrida,1.79,3,Hombre,Linkedin,7,489873,84,78,Casado,40,2020,2,high
+103420,102033.0,1,Híbrida,4.66,2,Hombre,Linkedin,8,291042,83,74,Divorciado,37,2012,10,high
+104018,102042.0,1,Híbrida,5.74,11,Mujer,Linkedin,3,287253,89,79,Soltero,36,2012,7,high
+103170,102011.0,1,Híbrida,2.455,1,Mujer,Linkedin,15,304412,96,73,Viudo,38,2012,6,high
+100032,102094.0,1,Híbrida,6.22,3,Mujer,Ferias & Networking,5,351231,90,77,Soltero,28,2016,8,high
+101139,102067.0,1,Híbrida,1.645,1,Mujer,Referidos,3,366822,88,73,Soltero,28,2014,12,high
+101886,102134.0,1,Híbrida,3.885,11,Mujer,Linkedin,4,466002,87,59,Divorciado,40,2022,11,high
+102133,unknown,2,Híbrida,2.61,2,Hombre,Linkedin,4,1255430,98,65,Soltero,35,2018,2,high
+101449,102151.0,1,Híbrida,2.935,8,Hombre,Linkedin,15,280724,92,73,Casado,45,2023,2,high
+100172,102049.0,1,Híbrida,2.08,11,Hombre,Portal Web,13,781171,83,70,Viudo,41,2013,9,high
+100201,102028.0,1,Híbrida,5.71,6,Hombre,Linkedin,15,639005,89,76,Casado,40,2013,4,high
+103251,102041.0,1,Híbrida,4.35,1,Hombre,Ferias & Networking,1,123145,89,80,Soltero,14,2015,7,high
+103965,102096.0,1,Híbrida,2.12,5,Hombre,Linkedin,2,168731,94,80,Soltero,22,2019,12,high
+103729,102105.0,1,Híbrida,2.34,2,Hombre,Portal Web,2,190540,86,71,Soltero,24,2020,11,high
+103295,102094.0,1,Híbrida,6.22,2,Mujer,Ferias & Networking,5,348107,82,77,Soltero,28,2016,8,high
+103394,102122.0,1,Híbrida,2.13,2,Mujer,Portal Web,7,391176,91,65,Soltero,33,2019,3,high
+103738,102130.0,1,Híbrida,5.595,0,Mujer,Portal Web,4,447108,81,77,Soltero,37,2020,8,high
+102980,102060.0,1,Híbrida,2.07,2,Mujer,Ferias & Networking,5,432682,81,65,Soltero,31,2015,3,high
+102773,102134.0,1,Híbrida,1.99,1,Hombre,Linkedin,7,445164,90,83,Casado,37,2020,1,high
+102733,102160.0,1,Híbrida,7.17,3,Hombre,Portal Web,10,489576,85,87,Soltero,41,2022,6,high
+103845,102172.0,1,Híbrida,2.075,1,Mujer,Ferias & Networking,13,396914,82,74,Soltero,44,2022,12,high
+103864,102131.0,1,Híbrida,2.78,1,Hombre,Ferias & Networking,10,781434,82,73,Divorciado,47,2020,2,high
+104058,102049.0,1,Híbrida,2.08,11,Hombre,Portal Web,13,774948,95,70,Viudo,41,2013,9,high
+101544,102055.0,1,Híbrida,2.565,4,Hombre,Portal Web,8,406928,90,70,Divorciado,30,2015,8,high
+100945,102080.0,1,Híbrida,4.015,3,Mujer,Portal Web,8,469298,83,66,Casado,34,2016,8,high
+100446,102172.0,1,Híbrida,2.075,1,Mujer,Ferias & Networking,13,399733,83,74,Soltero,44,2022,12,high
+101534,102026.0,1,Híbrida,6.765,1,Mujer,Linkedin,5,262300,95,81,Casado,35,2014,4,high
+101998,102002.0,1,Híbrida,2.525,1,Mujer,Portal Web,4,271551,85,74,Soltero,34,2012,2,high
+101028,102130.0,1,Híbrida,1.225,1,Mujer,Portal Web,12,634324,95,74,Casado,48,2020,12,high
+101124,102129.0,1,Híbrida,2.175,1,Mujer,Portal Web,15,696574,87,71,Viudo,52,2022,1,high
+100936,102124.0,1,Híbrida,1.705,2,Hombre,Linkedin,5,741716,88,70,Casado,51,2019,4,high
+102493,102046.0,1,Híbrida,3.685,2,Mujer,Portal Web,6,269828,82,79,Casado,24,2015,12,high
+102936,102055.0,1,Híbrida,2.58,3,Hombre,Portal Web,8,412142,94,70,Divorciado,30,2015,8,high
+102963,102170.0,1,Híbrida,3.785,2,Mujer,Portal Web,7,785378,87,78,Casado,39,2023,6,high
+103952,102162.0,1,Híbrida,1.58,2,Hombre,Portal Web,10,472417,82,69,Casado,41,2023,4,high
+103559,102102.0,1,Híbrida,2.57,9,Mujer,Portal Web,11,407030,90,83,Casado,41,2019,7,high
+102632,102002.0,1,Híbrida,2.515,0,Mujer,Portal Web,4,263689,86,74,Soltero,34,2012,2,high
+103217,102146.0,1,Híbrida,5.18,5,Mujer,Portal Web,8,274088,82,77,Soltero,44,2021,8,high
+102543,102054.0,1,Híbrida,7.555,0,Mujer,Portal Web,4,284916,80,70,Casado,38,2013,6,high
+103532,102140.0,1,Híbrida,6.89,1,Hombre,Referidos,10,676357,83,76,Divorciado,51,2022,4,high
+102734,102106.0,1,Híbrida,1.77,0,Hombre,Ferias & Networking,20,801620,92,80,Divorciado,47,2018,10,high
+103359,102129.0,1,Híbrida,2.19,1,Mujer,Portal Web,15,696061,93,71,Viudo,52,2022,1,high
+101113,102014.0,1,Híbrida,3.505,5,Mujer,Portal Web,1,82186,92,81,Soltero,10,2013,4,high
+101011,102097.0,1,Híbrida,2.965,0,Mujer,Portal Web,3,119998,88,61,Soltero,18,2019,8,high
+101012,102068.0,1,Híbrida,1.94,2,Mujer,Ferias & Networking,1,101487,85,83,Soltero,16,2017,12,high
+101914,102051.0,1,Híbrida,1.52,0,Mujer,Referidos,4,288245,85,66,Divorciado,25,2016,7,high
+101798,102122.0,1,Híbrida,5.125,1,Hombre,Referidos,5,811507,80,87,Casado,38,2018,12,high
+100159,102097.0,1,Híbrida,3.2,3,Mujer,Linkedin,6,261390,89,73,Viudo,39,2018,2,high
+100124,102102.0,1,Híbrida,2.56,9,Mujer,Portal Web,11,406373,81,83,Casado,41,2019,7,high
+100943,102090.0,1,Híbrida,3.595,1,Mujer,Linkedin,13,309188,95,81,Viudo,43,2016,10,high
+101187,102152.0,1,Híbrida,2.56,1,Mujer,Portal Web,8,720127,95,63,Casado,53,2021,9,high
+101881,102051.0,1,Híbrida,3.96,2,Hombre,Referidos,12,914684,80,76,Casado,46,2014,5,high
+103227,102014.0,1,Híbrida,3.525,5,Mujer,Portal Web,1,77097,93,81,Soltero,11,2013,4,high
+103772,102158.0,1,Híbrida,5.595,1,Hombre,Referidos,2,230031,82,85,Casado,28,2022,3,high
+103627,102051.0,1,Híbrida,1.545,1,Mujer,Referidos,4,285575,87,66,Divorciado,26,2016,7,high
+102334,102128.0,1,Híbrida,1.65,1,Mujer,Portal Web,3,371196,96,73,Casado,34,2020,7,high
+102955,102080.0,1,Híbrida,4.035,3,Mujer,Portal Web,8,471092,92,66,Casado,34,2016,8,high
+102991,102143.0,1,Híbrida,2.55,8,Hombre,Linkedin,5,273716,98,87,Soltero,44,2021,6,high
+103435,102124.0,1,Híbrida,1.73,2,Hombre,Linkedin,5,735216,91,70,Casado,51,2019,4,high
+100821,102088.0,1,Híbrida,5.205,0,Mujer,Portal Web,2,208240,84,71,Soltero,24,2019,4,high
+100722,102113.0,1,Híbrida,1.95,2,Mujer,Linkedin,2,211088,90,77,Casado,23,2018,8,high
+101814,102158.0,1,Híbrida,5.575,0,Hombre,Referidos,2,228396,87,85,Casado,28,2022,3,high
+100924,102128.0,1,Híbrida,1.695,1,Mujer,Portal Web,3,370483,89,73,Casado,34,2020,7,high
+103157,102047.0,1,Híbrida,1.65,2,Hombre,Ferias & Networking,3,504839,98,80,Soltero,35,2015,5,high
+103216,102097.0,1,Híbrida,3.225,3,Mujer,Linkedin,6,257510,93,73,Viudo,39,2018,2,high
+100559,102062.0,1,Híbrida,2.405,0,Hombre,Portal Web,2,386000,89,73,Casado,28,2014,1,high
+103294,102062.0,1,Híbrida,2.435,0,Hombre,Portal Web,2,387304,86,73,Casado,28,2014,1,high
+101591,102107.0,1,Híbrida,3.68,3,Mujer,Referidos,2,142094,82,75,Soltero,19,2019,2,high
+100607,102099.0,1,Híbrida,1.8,8,Mujer,Portal Web,5,291624,88,83,Soltero,28,2019,6,high
+100225,102113.0,1,Híbrida,1.525,2,Hombre,Linkedin,13,311094,85,91,Viudo,45,2019,1,high
+100709,102012.0,1,Híbrida,3.08,1,Hombre,Referidos,7,642683,98,73,Casado,40,2012,10,high
+102396,102150.0,1,Híbrida,3.185,2,Mujer,Referidos,7,281661,80,83,Soltero,44,2021,12,high
+102758,102012.0,1,Híbrida,3.06,0,Hombre,Referidos,7,634492,82,73,Casado,40,2012,10,high
+100816,102081.0,1,Híbrida,1.19,2,Mujer,Portal Web,17,720841,81,88,Casado,49,2018,2,high
+103280,102023.0,1,Híbrida,1.97,1,Hombre,Portal Web,2,102719,84,66,Soltero,11,2013,5,high
+102253,102107.0,1,Híbrida,3.67,3,Mujer,Referidos,2,140792,98,75,Soltero,19,2019,2,high
+104090,102081.0,1,Híbrida,1.17,3,Mujer,Portal Web,17,717126,90,88,Casado,49,2018,2,high
+101957,102054.0,1,Híbrida,2.27,2,Mujer,Referidos,3,407200,94,79,Casado,29,2014,6,high
+100450,102134.0,1,Híbrida,1.335,0,Mujer,Portal Web,12,816997,97,64,Casado,49,2021,9,high
+102992,102011.0,1,Híbrida,2.72,2,Mujer,Portal Web,8,441648,85,78,Casado,37,2012,10,high
+101669,102131.0,1,Híbrida,2.905,2,Hombre,Ferias & Networking,2,118801,97,74,Soltero,22,2022,8,high
+102730,102049.0,1,Híbrida,6.75,1,Mujer,Linkedin,1,185949,80,84,Casado,17,2012,11,high
+103611,102068.0,1,Híbrida,1.215,1,Hombre,Linkedin,3,225522,95,77,Viudo,22,2016,8,high
+103570,102023.0,1,Híbrida,2.74,2,Mujer,Portal Web,6,306754,91,76,Soltero,23,2013,11,high
+102638,102064.0,1,Híbrida,6.09,1,Hombre,Ferias & Networking,8,351896,87,71,Soltero,27,2015,3,high
+103888,102134.0,1,Híbrida,2.855,0,Mujer,Portal Web,12,505481,87,67,Casado,42,2022,11,high
+102999,102115.0,1,Híbrida,5.25,0,Hombre,Portal Web,12,279134,97,71,Casado,42,2018,12,high
+101983,102068.0,1,Híbrida,1.225,1,Hombre,Linkedin,3,226438,88,77,Viudo,22,2016,8,high
+101967,102023.0,1,Híbrida,2.77,3,Mujer,Referidos,6,307880,92,76,Soltero,23,2013,11,high
+100301,102143.0,1,Híbrida,3.49,1,Mujer,Linkedin,11,827629,86,71,Casado,40,2021,10,high
+102836,102064.0,1,Híbrida,1.92,1,Mujer,Referidos,1,146993,82,74,Soltero,18,2017,3,high
+103248,102124.0,1,Híbrida,6.71,2,Mujer,Portal Web,6,268165,93,86,Casado,29,2021,4,high
+102510,102059.0,1,Híbrida,4.345,3,Hombre,Ferias & Networking,4,386354,86,69,Soltero,30,2016,7,high
+104077,102054.0,1,Híbrida,1.825,3,Hombre,Linkedin,13,265162,88,77,Divorciado,38,2016,2,high
+100793,102124.0,1,Híbrida,6.725,1,Mujer,Portal Web,6,270932,94,86,Casado,29,2021,4,high
+100035,102150.0,1,Híbrida,1.79,1,Hombre,Referidos,5,425866,83,72,Casado,39,2023,4,high
+100367,102145.0,1,Híbrida,5.505,1,Hombre,Referidos,9,468469,97,76,Casado,40,2022,2,high
+100991,102076.0,1,Híbrida,4.36,2,Hombre,Linkedin,13,266712,88,80,Soltero,37,2015,8,high
+101966,102118.0,1,Híbrida,1.39,2,Hombre,Referidos,8,319452,93,70,Divorciado,46,2019,11,high
+104147,102109.0,1,Híbrida,1.84,2,Hombre,Portal Web,1,144569,96,75,Soltero,22,2020,12,high
+103698,102145.0,1,Híbrida,5.515,2,Hombre,Referidos,9,470520,90,76,Casado,40,2022,2,high
+103741,102150.0,1,Híbrida,4.26,2,Mujer,Referidos,11,443635,98,80,Divorciado,43,2022,6,high
+103340,102118.0,1,Híbrida,1.39,2,Hombre,Referidos,8,319609,80,70,Divorciado,46,2019,11,high
+100033,102109.0,1,Híbrida,1.855,1,Hombre,Portal Web,1,144872,90,75,Soltero,22,2020,12,high
+103388,102076.0,1,Híbrida,4.355,3,Hombre,Linkedin,13,265975,98,80,Soltero,37,2015,8,high
+103296,102032.0,1,Híbrida,4.0,6,Hombre,Portal Web,17,681511,94,73,Casado,42,2013,4,high
+101446,102127.0,1,Híbrida,2.23,1,Mujer,Portal Web,8,330668,96,74,Casado,33,2022,3,high
+100808,102119.0,1,Híbrida,6.985,1,Hombre,Portal Web,7,308775,80,67,Soltero,32,2021,10,high
+101394,102127.0,1,Híbrida,2.17,5,Hombre,Linkedin,7,465192,94,80,Soltero,38,2020,6,high
+100641,102050.0,1,Híbrida,1.865,6,Mujer,Portal Web,12,807538,97,66,Casado,32,2013,9,high
+100529,102129.0,1,Híbrida,2.78,10,Mujer,Portal Web,11,917445,81,70,Soltero,47,2019,9,high
+101272,102100.0,1,Híbrida,2.235,7,Mujer,Portal Web,8,858522,87,79,Soltero,46,2018,5,high
+102788,102098.0,1,Híbrida,6.6,1,Mujer,Linkedin,6,410330,88,73,Casado,34,2019,4,high
+102858,102050.0,1,Híbrida,1.885,5,Mujer,Portal Web,12,811396,85,66,Casado,31,2013,9,high
+100907,102071.0,1,Híbrida,1.99,0,Hombre,Portal Web,1,84347,97,79,Soltero,12,2014,10,high
+100598,102042.0,1,Híbrida,1.39,8,Hombre,Portal Web,4,164920,84,73,Soltero,18,2015,10,high
+101842,102095.0,1,Híbrida,1.455,1,Mujer,Linkedin,7,309884,85,75,Soltero,28,2017,12,high
+103261,102071.0,1,Híbrida,1.99,1,Hombre,Portal Web,1,79070,84,79,Soltero,11,2014,10,high
+103859,102042.0,1,Híbrida,1.395,8,Hombre,Portal Web,4,168808,87,73,Soltero,18,2015,10,high
+103768,102110.0,1,Híbrida,3.82,3,Hombre,Portal Web,4,183599,94,72,Casado,25,2021,3,high
+102846,102095.0,1,Híbrida,1.46,0,Mujer,Linkedin,7,313021,93,75,Soltero,28,2017,12,high
+103836,102072.0,1,Híbrida,1.645,3,Mujer,Referidos,5,411629,89,81,Casado,31,2016,8,high
+102330,102007.0,1,Híbrida,1.88,3,Mujer,Portal Web,4,259970,86,83,Casado,33,2012,2,high
+101801,102046.0,1,Híbrida,1.595,0,Hombre,Portal Web,5,261229,84,77,Soltero,35,2014,5,high
+101765,102128.0,1,Híbrida,2.265,11,Mujer,Headhunter,13,301057,83,69,Casado,47,2022,8,high
+103517,102047.0,1,Híbrida,2.82,2,Mujer,Referidos,4,428330,88,88,Casado,30,2013,9,high
+103761,102054.0,1,Híbrida,1.465,2,Mujer,Linkedin,5,381819,85,87,Soltero,35,2014,11,high
+100949,102139.0,1,Híbrida,4.79,1,Mujer,Portal Web,3,208884,97,71,Casado,25,2021,3,high
+102104,unknown,2,Híbrida,6.72,1,Mujer,Portal Web,6,743000,91,61,Soltero,30,2023,4,high
+100375,102129.0,1,Híbrida,1.425,3,Mujer,Referidos,4,431734,86,80,Soltero,38,2021,6,high
+103520,102172.0,1,Híbrida,2.49,2,Hombre,Portal Web,7,305135,84,67,Casado,33,2023,1,high
+102205,102038.0,1,Híbrida,4.89,1,Hombre,Portal Web,7,371567,83,73,Soltero,27,2014,5,high
+102956,102129.0,1,Híbrida,1.42,2,Mujer,Referidos,4,430964,85,80,Soltero,38,2021,6,high
+102910,102046.0,1,Híbrida,1.635,0,Hombre,Portal Web,5,259833,86,77,Soltero,35,2014,5,high
+101546,102123.0,1,Híbrida,4.91,1,Hombre,Linkedin,5,716735,92,75,Divorciado,51,2019,4,high
+103707,102087.0,1,Híbrida,1.405,1,Hombre,Portal Web,4,328697,92,60,Casado,29,2017,9,high
+103953,102074.0,1,Híbrida,2.45,11,Mujer,Portal Web,6,391429,81,73,Soltero,30,2015,5,high
+103374,102059.0,1,Híbrida,2.445,0,Mujer,Linkedin,3,717366,86,80,Casado,44,2014,1,high
+101055,102134.0,1,Híbrida,1.605,2,Mujer,Ferias & Networking,2,116906,80,71,Soltero,20,2021,4,high
+101297,102142.0,1,Híbrida,3.65,1,Hombre,Ferias & Networking,1,227685,97,75,Casado,28,2021,10,high
+101396,102087.0,1,Híbrida,1.42,1,Hombre,Portal Web,4,326924,93,60,Casado,29,2017,9,high
+100819,102023.0,1,Híbrida,3.21,0,Mujer,Linkedin,7,365292,91,73,Casado,25,2012,4,high
+101819,102125.0,1,Híbrida,5.825,3,Mujer,Portal Web,14,276802,81,74,Casado,45,2021,8,high
+101096,102115.0,1,Híbrida,4.84,2,Hombre,Portal Web,9,390386,98,76,Soltero,45,2020,6,high
+103582,102134.0,1,Híbrida,1.58,3,Mujer,Portal Web,2,115484,93,71,Soltero,20,2021,4,high
+103928,102042.0,1,Híbrida,4.51,11,Mujer,Linkedin,3,863449,83,81,Casado,35,2015,5,high
+102883,102040.0,1,Híbrida,1.855,1,Mujer,Portal Web,12,301002,82,73,Casado,39,2014,1,high
+103608,102123.0,1,Híbrida,4.925,2,Hombre,Linkedin,5,717745,91,75,Divorciado,51,2019,4,high
+100494,102069.0,1,Híbrida,2.85,1,Hombre,Ferias & Networking,1,142592,84,76,Soltero,14,2014,12,high
+100128,102130.0,1,Híbrida,5.805,8,Mujer,Linkedin,3,205851,88,73,Casado,28,2023,2,high
+100676,102060.0,1,Híbrida,1.5,9,Mujer,Linkedin,1,225508,97,67,Soltero,20,2014,6,high
+100708,102045.0,1,Híbrida,2.965,4,Hombre,Linkedin,6,287046,83,73,Casado,24,2014,12,high
+101125,102122.0,1,Híbrida,1.885,10,Hombre,Linkedin,9,425333,98,74,Divorciado,47,2020,10,high
+102541,102069.0,1,Híbrida,2.895,0,Hombre,Ferias & Networking,1,144093,95,76,Soltero,14,2014,12,high
+103546,102138.0,1,Híbrida,4.41,3,Mujer,Linkedin,5,210944,97,73,Soltero,28,2023,6,high
+103844,102045.0,1,Híbrida,2.94,3,Hombre,Linkedin,6,291530,82,73,Casado,24,2014,12,high
+103603,102143.0,1,Híbrida,0.805,4,Mujer,Referidos,8,366632,96,76,Soltero,34,2020,12,high
+102897,102023.0,1,Híbrida,3.21,1,Mujer,Linkedin,7,368755,80,73,Casado,25,2012,4,high
+103313,102115.0,1,Híbrida,2.575,0,Hombre,Portal Web,8,453171,80,70,Casado,36,2019,5,high
+103745,102115.0,1,Híbrida,4.815,3,Hombre,Portal Web,9,386619,86,76,Soltero,45,2020,6,high
+103347,102122.0,1,Híbrida,1.88,11,Hombre,Linkedin,9,427337,97,74,Divorciado,47,2020,10,high
+103969,102041.0,1,Híbrida,1.755,2,Hombre,Portal Web,13,799982,89,69,Soltero,43,2015,1,high
+102528,102092.0,1,Híbrida,5.41,1,Mujer,Linkedin,9,856756,93,82,Divorciado,49,2017,4,high
+103721,102144.0,1,Híbrida,7.175,3,Hombre,Linkedin,11,880763,92,76,Casado,54,2021,10,high
+101888,102054.0,1,Híbrida,1.865,2,Hombre,Linkedin,2,185944,97,85,Soltero,18,2015,5,high
+102619,102054.0,1,Híbrida,1.865,2,Hombre,Linkedin,2,181818,94,85,Soltero,18,2015,5,high
+103861,102130.0,1,Híbrida,5.81,7,Mujer,Linkedin,3,205890,92,73,Casado,28,2023,2,high
+102499,102124.0,1,Híbrida,2.64,2,Mujer,Ferias & Networking,15,412009,81,73,Casado,43,2020,10,high
+103192,102051.0,1,Híbrida,2.585,1,Mujer,Portal Web,7,878939,92,79,Viudo,49,2013,5,high
+101726,102055.0,1,Híbrida,4.245,1,Mujer,Portal Web,1,226087,92,76,Casado,22,2016,1,high
+102834,102055.0,1,Híbrida,4.27,0,Mujer,Portal Web,1,226976,90,76,Casado,22,2016,1,high
+103547,102101.0,1,Híbrida,4.135,2,Mujer,Portal Web,9,312171,80,74,Soltero,46,2019,3,high
+103398,102140.0,1,Híbrida,1.95,1,Mujer,Referidos,6,734031,80,66,Soltero,53,2021,8,high
+101473,102116.0,1,Híbrida,2.335,0,Hombre,Ferias & Networking,3,265665,91,79,Casado,28,2019,9,high
+103232,102049.0,1,Híbrida,3.305,2,Mujer,Portal Web,5,271492,83,79,Soltero,37,2015,9,high
+102243,102085.0,1,Híbrida,1.195,3,Hombre,Linkedin,5,299666,94,70,Casado,44,2019,5,high
+103480,102151.0,1,Híbrida,3.4,1,Hombre,Ferias & Networking,13,739512,80,85,Casado,55,2023,3,high
+101102,102075.0,1,Híbrida,2.56,2,Mujer,Portal Web,7,276677,98,71,Soltero,39,2016,4,high
+101702,102151.0,1,Híbrida,3.385,0,Hombre,Ferias & Networking,13,735351,93,85,Casado,55,2023,3,high
+102931,102116.0,1,Híbrida,2.305,0,Hombre,Ferias & Networking,3,271026,95,79,Casado,28,2019,9,high
+101864,102122.0,1,Híbrida,3.905,1,Hombre,Referidos,2,101622,93,77,Soltero,20,2022,1,high
+102995,102122.0,1,Híbrida,3.935,2,Hombre,Referidos,2,98968,85,77,Soltero,20,2022,1,high
+102199,102075.0,1,Híbrida,3.085,1,Hombre,Linkedin,7,329140,83,73,Casado,26,2015,1,high
+100637,102107.0,1,Híbrida,3.125,8,Hombre,Linkedin,1,115713,87,77,Soltero,18,2018,6,high
+101129,102009.0,1,Híbrida,4.465,5,Hombre,Portal Web,4,213899,96,75,Soltero,17,2012,2,high
+100053,102094.0,1,Híbrida,3.35,0,Hombre,Referidos,9,347600,98,88,Soltero,31,2018,12,high
+101666,102060.0,1,Híbrida,5.36,1,Hombre,Referidos,10,386117,85,74,Casado,30,2015,8,high
+101466,102095.0,1,Híbrida,2.6,8,Mujer,Linkedin,6,469352,86,82,Soltero,36,2018,5,high
+100480,102134.0,1,Híbrida,3.195,2,Hombre,Linkedin,5,699680,81,78,Casado,52,2021,8,high
+103092,102087.0,1,Híbrida,6.68,0,Hombre,Ferias & Networking,4,191184,87,73,Soltero,21,2017,9,high
+102281,102086.0,1,Híbrida,3.97,0,Mujer,Portal Web,5,233953,81,79,Soltero,22,2016,7,high
+103264,102143.0,1,Híbrida,3.215,0,Mujer,Referidos,3,313610,95,67,Soltero,32,2022,1,high
+102559,102094.0,1,Híbrida,3.345,0,Hombre,Referidos,9,352077,91,88,Soltero,31,2018,12,high
+103645,102048.0,1,Híbrida,6.505,7,Hombre,Linkedin,6,367729,90,78,Soltero,26,2012,10,high
+103114,102022.0,1,Híbrida,0.91,1,Mujer,Ferias & Networking,3,449462,87,81,Casado,29,2013,2,high
+103628,102139.0,1,Híbrida,4.47,4,Hombre,Portal Web,7,381081,88,84,Casado,43,2021,5,high
+102425,102134.0,1,Híbrida,3.15,2,Hombre,Linkedin,5,694026,84,78,Casado,51,2021,8,high
+100071,102088.0,1,Híbrida,2.07,2,Mujer,Referidos,3,220469,84,81,Casado,22,2017,6,high
+101207,102051.0,1,Híbrida,3.33,0,Mujer,Portal Web,1,207036,96,83,Casado,19,2013,11,high
+101046,102086.0,1,Híbrida,3.985,0,Mujer,Portal Web,5,227009,85,79,Soltero,22,2016,7,high
+101304,102108.0,1,Híbrida,4.1,2,Mujer,Linkedin,4,247579,93,77,Divorciado,26,2018,10,high
+100492,102071.0,1,Híbrida,3.73,11,Mujer,Portal Web,3,385425,91,76,Casado,31,2017,9,high
+101352,102109.0,1,Híbrida,2.62,9,Mujer,Portal Web,9,387957,88,61,Soltero,32,2018,2,high
+100003,102138.0,1,Híbrida,4.0,2,Mujer,Linkedin,10,311884,92,88,Viudo,47,2021,9,high
+101960,102060.0,1,Híbrida,1.72,0,Mujer,Ferias & Networking,13,657562,96,73,Divorciado,43,2014,9,high
+101210,102101.0,1,Híbrida,1.825,1,Mujer,Portal Web,7,696894,96,73,Soltero,47,2018,1,high
+100405,102013.0,1,Híbrida,3.645,3,Mujer,Portal Web,13,699131,96,85,Casado,43,2012,5,high
+100057,102121.0,1,Híbrida,6.945,1,Hombre,Linkedin,8,721063,93,78,Casado,50,2019,8,high
+103369,102066.0,1,Híbrida,1.51,0,Mujer,Ferias & Networking,1,139917,94,65,Soltero,17,2016,10,high
+102587,102088.0,1,Híbrida,2.075,3,Mujer,Referidos,3,225041,91,81,Casado,22,2017,6,high
+103126,102051.0,1,Híbrida,3.34,1,Mujer,Portal Web,1,205118,88,83,Casado,19,2013,11,high
+102569,102009.0,1,Híbrida,4.475,4,Hombre,Portal Web,4,206775,83,75,Soltero,17,2012,2,high
+102854,102040.0,1,Híbrida,1.305,2,Hombre,Referidos,2,293269,91,78,Soltero,22,2012,9,high
+102434,102139.0,1,Híbrida,2.145,1,Hombre,Linkedin,4,332010,80,74,Soltero,34,2022,7,high
+103878,102041.0,1,Híbrida,1.935,7,Hombre,Portal Web,11,811916,83,73,Casado,33,2013,5,high
+104053,102138.0,1,Híbrida,4.02,3,Mujer,Linkedin,10,304846,80,88,Viudo,47,2021,9,high
+102765,102060.0,1,Híbrida,1.71,0,Mujer,Ferias & Networking,13,657156,90,73,Divorciado,43,2014,9,high
+102318,102075.0,1,Híbrida,1.785,0,Hombre,Linkedin,20,854695,91,82,Casado,52,2018,7,high
+100085,102137.0,1,Híbrida,2.84,2,Mujer,Referidos,3,119090,88,81,Soltero,21,2022,6,high
+100187,102070.0,1,Híbrida,3.92,5,Hombre,Referidos,4,205349,82,74,Soltero,20,2014,11,high
+101013,102143.0,1,Híbrida,2.07,0,Mujer,Referidos,6,418984,91,74,Viudo,48,2023,3,high
+100638,102129.0,1,Híbrida,0.825,1,Mujer,Referidos,12,293562,93,72,Viudo,48,2023,1,high
+101611,102137.0,1,Híbrida,3.88,1,Hombre,Linkedin,16,799729,82,73,Casado,51,2022,3,high
+100655,102049.0,1,Híbrida,5.11,2,Mujer,Referidos,3,778780,87,66,Viudo,45,2015,8,high
+102051,unknown,2,Híbrida,1.39,1,Hombre,Portal Web,11,1616000,83,76,Casado,46,2019,11,high
+101357,102075.0,1,Híbrida,1.77,1,Hombre,Linkedin,20,861708,85,82,Casado,53,2018,7,high
+103095,102086.0,1,Híbrida,1.77,2,Hombre,Referidos,1,210974,87,73,Casado,21,2016,6,high
+103277,102070.0,1,Híbrida,3.935,5,Hombre,Referidos,4,210510,95,74,Soltero,20,2014,11,high
+103590,102108.0,1,Híbrida,4.13,1,Mujer,Linkedin,4,253079,93,77,Divorciado,26,2018,10,high
+103029,102060.0,1,Híbrida,4.41,0,Mujer,Ferias & Networking,8,508151,87,76,Divorciado,35,2014,9,high
+103052,102120.0,1,Híbrida,7.59,2,Hombre,Ferias & Networking,8,426918,93,73,Soltero,44,2022,1,high
+102314,102104.0,1,Híbrida,1.655,3,Mujer,Linkedin,15,451250,91,81,Divorciado,45,2019,11,high
+102757,102049.0,1,Híbrida,5.105,3,Mujer,Referidos,3,776268,86,66,Viudo,45,2015,8,high
+104085,102127.0,1,Híbrida,2.395,0,Hombre,Linkedin,11,721980,83,86,Divorciado,53,2021,7,high
+101276,102017.0,1,Híbrida,1.705,3,Mujer,Portal Web,1,188783,94,68,Soltero,14,2012,2,high
+100503,102111.0,1,Híbrida,1.81,2,Hombre,Ferias & Networking,7,826997,84,74,Casado,36,2019,12,high
+101724,102048.0,1,Híbrida,0.9,1,Mujer,Linkedin,9,831923,87,81,Soltero,36,2015,7,high
+100092,102060.0,1,Híbrida,4.43,1,Mujer,Ferias & Networking,8,511100,85,76,Divorciado,35,2014,9,high
+100784,102128.0,1,Híbrida,2.935,3,Mujer,Referidos,14,678378,92,78,Divorciado,50,2021,1,high
+100330,102101.0,1,Híbrida,4.01,9,Hombre,Linkedin,11,674546,92,76,Soltero,50,2020,9,high
+101863,102086.0,1,Híbrida,2.24,1,Hombre,Portal Web,8,677435,80,76,Soltero,47,2018,7,high
+101197,102045.0,1,Híbrida,2.51,1,Hombre,Linkedin,6,675829,80,76,Divorciado,44,2015,6,high
+100448,102131.0,1,Híbrida,6.78,2,Hombre,Ferias & Networking,6,875123,91,76,Casado,51,2021,3,high
+100501,102107.0,1,Híbrida,3.53,6,Mujer,Portal Web,10,717483,87,73,Divorciado,49,2017,10,high
+103545,102064.0,1,Híbrida,4.94,9,Hombre,Portal Web,1,186861,93,66,Soltero,18,2015,8,high
+103113,102036.0,1,Híbrida,1.4,8,Hombre,Portal Web,14,656915,83,73,Divorciado,40,2012,11,high
+102845,102128.0,1,Híbrida,2.92,2,Mujer,Referidos,14,675600,86,78,Divorciado,50,2021,1,high
+103034,102101.0,1,Híbrida,4.01,8,Hombre,Linkedin,11,673844,96,76,Soltero,50,2020,9,high
+102229,102126.0,1,Híbrida,3.065,1,Mujer,Referidos,2,200896,94,83,Casado,23,2019,5,high
+102985,102111.0,1,Híbrida,1.805,2,Hombre,Ferias & Networking,7,826324,80,74,Casado,36,2019,12,high
+103119,102149.0,1,Híbrida,7.495,3,Hombre,Ferias & Networking,13,268966,83,81,Soltero,44,2022,6,high
+103801,102086.0,1,Híbrida,2.21,0,Hombre,Portal Web,8,680824,85,76,Soltero,47,2018,7,high
+100351,102074.0,1,Híbrida,1.775,1,Mujer,Portal Web,2,331232,87,71,Soltero,29,2017,3,high
+101010,102150.0,1,Híbrida,1.4,10,Mujer,Portal Web,4,278933,94,74,Divorciado,46,2022,8,high
+100197,102075.0,1,Híbrida,0.825,3,Mujer,Portal Web,4,274104,81,81,Soltero,40,2016,10,high
+102772,102010.0,1,Híbrida,1.69,2,Mujer,Linkedin,3,205758,95,74,Soltero,17,2012,1,high
+102401,102152.0,1,Híbrida,2.955,3,Hombre,Portal Web,7,328883,87,77,Casado,33,2021,8,high
+103267,102115.0,1,Híbrida,1.235,3,Hombre,Referidos,6,386663,81,73,Soltero,33,2019,12,high
+103704,102150.0,1,Híbrida,1.42,11,Mujer,Portal Web,4,281904,98,74,Divorciado,46,2022,8,high
+101315,102056.0,1,Híbrida,1.71,0,Hombre,Ferias & Networking,3,141647,82,81,Soltero,17,2016,2,high
+100050,102032.0,1,Híbrida,4.445,5,Mujer,Portal Web,5,250902,85,74,Soltero,19,2012,4,high
+101448,102152.0,1,Híbrida,2.96,3,Hombre,Portal Web,7,327880,82,77,Casado,33,2021,9,high
+101958,102033.0,1,Híbrida,2.075,1,Mujer,Portal Web,2,333217,92,76,Soltero,25,2013,12,high
+101385,102115.0,1,Híbrida,1.24,2,Hombre,Referidos,6,385398,97,73,Divorciado,34,2019,12,high
+101201,102074.0,1,Híbrida,4.09,5,Hombre,Portal Web,5,444837,94,73,Casado,34,2017,10,high
+100308,102171.0,1,Híbrida,6.04,1,Mujer,Linkedin,3,850829,90,74,Casado,41,2023,2,high
+100265,102144.0,1,Híbrida,1.53,1,Hombre,Linkedin,8,411141,83,73,Divorciado,46,2021,6,high
+101354,102172.0,1,Híbrida,4.42,4,Hombre,Portal Web,4,660407,82,71,Divorciado,51,2022,8,high
+101997,102034.0,1,Híbrida,1.6,9,Hombre,Portal Web,10,834719,88,81,Viudo,45,2012,5,high
+102111,unknown,2,Híbrida,2.04,1,Mujer,Referidos,15,1616000,94,67,Soltero,50,2021,5,high
+101081,102097.0,1,Híbrida,1.16,3,Hombre,Portal Web,15,893169,85,71,Casado,50,2016,12,high
+102789,102070.0,1,Híbrida,3.52,1,Hombre,Ferias & Networking,3,347780,98,74,Casado,27,2015,5,high
+102891,102068.0,1,Híbrida,1.73,1,Hombre,Portal Web,3,392561,98,80,Casado,29,2015,3,high
+102671,102020.0,1,Híbrida,0.92,1,Mujer,Linkedin,4,444684,97,78,Soltero,31,2013,9,high
+103376,102171.0,1,Híbrida,6.02,1,Mujer,Linkedin,3,844805,81,74,Casado,41,2023,2,high
+102971,102048.0,1,Híbrida,2.725,3,Hombre,Portal Web,5,270783,92,80,Casado,37,2014,9,high
+103439,102109.0,1,Híbrida,5.14,2,Hombre,Portal Web,7,439139,92,88,Casado,45,2020,10,high
+103580,102144.0,1,Híbrida,1.565,1,Hombre,Portal Web,8,406193,95,73,Divorciado,46,2021,6,high
+102320,102097.0,1,Híbrida,1.21,3,Hombre,Portal Web,15,893179,85,71,Casado,50,2016,12,high
+103834,102093.0,1,Híbrida,2.28,4,Mujer,Portal Web,24,916784,85,79,Viudo,58,2018,12,high
+101874,102054.0,1,Híbrida,4.435,2,Hombre,Linkedin,1,144710,89,83,Soltero,15,2014,2,high
+101565,102097.0,1,Híbrida,2.09,2,Hombre,Referidos,4,333566,98,74,Casado,30,2018,10,high
+100270,102098.0,1,Híbrida,2.37,1,Mujer,Portal Web,7,526330,94,66,Casado,41,2020,5,high
+100474,102109.0,1,Híbrida,5.145,1,Hombre,Portal Web,7,437552,91,88,Casado,45,2020,10,high
+100210,102011.0,1,Híbrida,5.33,0,Hombre,Linkedin,13,285285,85,66,Casado,37,2012,9,high
+100278,102063.0,1,Híbrida,2.135,3,Hombre,Ferias & Networking,9,461495,91,73,Viudo,41,2016,4,high
+100515,102153.0,1,Híbrida,3.445,1,Mujer,Ferias & Networking,5,310264,92,74,Soltero,49,2023,4,high
+103879,102032.0,1,Híbrida,4.435,5,Mujer,Portal Web,5,248635,83,74,Soltero,19,2012,4,high
+103010,102033.0,1,Híbrida,2.115,2,Mujer,Portal Web,2,327485,89,76,Soltero,25,2013,12,high
+102390,102046.0,1,Híbrida,4.94,1,Mujer,Linkedin,8,350174,85,75,Casado,24,2012,9,high
+102786,102098.0,1,Híbrida,2.335,2,Mujer,Portal Web,7,530829,82,66,Casado,41,2020,5,high
+104029,102109.0,1,Híbrida,1.905,3,Hombre,Portal Web,9,658553,81,76,Soltero,49,2021,3,high
+101568,102023.0,1,Híbrida,3.15,0,Mujer,Ferias & Networking,2,78711,81,86,Soltero,9,2012,3,high
+101242,102095.0,1,Híbrida,1.73,2,Mujer,Referidos,1,141950,83,65,Soltero,19,2018,7,high
+101370,102141.0,1,Híbrida,6.64,1,Hombre,Portal Web,7,309009,87,77,Casado,33,2022,12,high
+102125,unknown,2,Híbrida,4.0,2,Mujer,Referidos,5,692000,87,82,Casado,29,2022,7,high
+100933,102096.0,1,Híbrida,2.045,1,Mujer,Referidos,3,349694,97,86,Soltero,29,2017,7,high
+100221,102043.0,1,Híbrida,3.39,2,Hombre,Portal Web,5,532714,80,74,Soltero,34,2013,6,high
+101832,102141.0,1,Híbrida,2.185,2,Hombre,Portal Web,8,638209,89,76,Casado,47,2020,8,high
+102430,102054.0,1,Híbrida,4.43,2,Hombre,Linkedin,1,146279,96,83,Soltero,15,2014,2,high
+103322,102123.0,1,Híbrida,1.715,2,Mujer,Referidos,2,310183,90,72,Soltero,29,2019,6,high
+103885,102120.0,1,Híbrida,2.14,0,Mujer,Portal Web,3,297287,97,73,Casado,46,2021,3,high
+102455,102011.0,1,Híbrida,5.37,0,Hombre,Linkedin,13,291614,93,66,Casado,36,2012,9,high
+102361,102133.0,1,Híbrida,4.705,4,Hombre,Portal Web,10,298751,98,77,Casado,46,2021,8,high
+103841,102101.0,1,Híbrida,3.485,10,Mujer,Linkedin,8,441593,93,70,Casado,46,2020,5,high
+103817,102141.0,1,Híbrida,2.21,2,Hombre,Portal Web,8,635973,95,76,Casado,47,2020,8,high
+101791,102122.0,1,Híbrida,2.08,1,Hombre,Portal Web,3,168591,86,67,Casado,23,2021,4,high
+101350,102151.0,1,Híbrida,4.42,1,Hombre,Linkedin,3,269439,96,67,Casado,30,2022,4,high
+100498,102126.0,1,Híbrida,3.465,2,Mujer,Ferias & Networking,3,405488,95,78,Soltero,37,2022,2,high
+100216,102145.0,1,Híbrida,0.92,3,Hombre,Ferias & Networking,4,845837,88,74,Soltero,40,2021,10,high
+101613,102116.0,1,Híbrida,1.22,3,Hombre,Portal Web,10,466536,93,79,Casado,37,2019,9,high
+100760,102154.0,1,Híbrida,2.545,2,Hombre,Linkedin,12,376202,80,74,Soltero,46,2021,9,high
+101287,102133.0,1,Híbrida,4.68,4,Hombre,Portal Web,10,294642,98,77,Casado,46,2021,8,high
+100766,102143.0,1,Híbrida,3.765,2,Hombre,Portal Web,3,426959,98,73,Casado,46,2020,11,high
+100758,102101.0,1,Híbrida,3.51,10,Mujer,Linkedin,8,441166,81,70,Casado,46,2020,5,high
+101407,102133.0,1,Híbrida,3.645,2,Hombre,Referidos,3,714494,95,83,Viudo,53,2022,10,high
+103482,102095.0,1,Híbrida,1.74,3,Mujer,Referidos,1,138657,91,65,Soltero,19,2018,7,high
+102722,102151.0,1,Híbrida,4.39,2,Hombre,Linkedin,3,264985,87,67,Casado,30,2022,4,high
+102614,102137.0,1,Híbrida,1.845,2,Mujer,Referidos,5,268174,93,65,Viudo,30,2022,3,high
+103265,102121.0,1,Híbrida,2.85,2,Mujer,Linkedin,5,292015,90,80,Casado,31,2021,12,high
+103410,102077.0,1,Híbrida,5.535,2,Mujer,Linkedin,4,346511,97,82,Casado,30,2017,3,high
+103188,102102.0,1,Híbrida,2.61,8,Hombre,Linkedin,6,366942,87,73,Soltero,33,2020,3,high
+102853,102126.0,1,Híbrida,3.445,1,Mujer,Ferias & Networking,3,407539,90,78,Soltero,37,2022,2,high
+103455,102057.0,1,Híbrida,5.5,2,Mujer,Referidos,7,827504,84,67,Soltero,30,2014,2,high
+103872,102145.0,1,Híbrida,0.895,2,Hombre,Ferias & Networking,4,845200,87,74,Soltero,40,2021,10,high
+102916,102116.0,1,Híbrida,1.215,2,Hombre,Referidos,10,473086,96,79,Casado,37,2019,9,high
+101711,102112.0,1,Híbrida,1.66,3,Hombre,Ferias & Networking,5,266059,95,69,Casado,29,2021,3,high
+101003,102098.0,1,Híbrida,1.93,2,Mujer,Referidos,2,367604,87,74,Soltero,30,2017,5,high
+101716,102045.0,1,Híbrida,6.925,1,Hombre,Ferias & Networking,7,413062,86,79,Casado,29,2014,5,high
+101118,102061.0,1,Híbrida,5.47,1,Mujer,Portal Web,7,269541,93,76,Soltero,39,2017,5,high
+102498,102122.0,1,Híbrida,2.1,1,Hombre,Portal Web,3,163767,92,67,Casado,23,2021,4,high
+103432,102159.0,1,Híbrida,2.19,0,Mujer,Portal Web,6,229565,80,73,Divorciado,29,2022,6,high
+102609,102112.0,1,Híbrida,1.705,2,Hombre,Ferias & Networking,5,265508,82,69,Casado,29,2021,3,high
+102266,102034.0,1,Híbrida,3.05,1,Hombre,Portal Web,4,302401,83,84,Casado,40,2015,2,high
+102521,102065.0,1,Híbrida,3.355,2,Hombre,Linkedin,7,659453,95,73,Divorciado,44,2016,2,high
+100521,102109.0,1,Híbrida,1.97,2,Hombre,Portal Web,2,123199,97,64,Soltero,18,2018,7,high
+100748,102149.0,1,Híbrida,5.985,0,Hombre,Ferias & Networking,12,795452,93,81,Casado,49,2021,6,high
+104001,102106.0,1,Híbrida,1.44,3,Hombre,Portal Web,4,280861,83,73,Soltero,43,2019,10,high
+103266,102082.0,1,Híbrida,3.555,2,Hombre,Linkedin,5,289296,97,80,Viudo,40,2015,12,high
+101681,102037.0,1,Híbrida,1.68,2,Hombre,Portal Web,1,118639,97,67,Soltero,11,2012,7,high
+103686,102037.0,1,Híbrida,1.7,2,Hombre,Portal Web,1,115638,98,67,Soltero,11,2012,7,high
+100058,102113.0,1,Híbrida,2.79,1,Hombre,Linkedin,6,366459,89,73,Casado,32,2018,9,high
+101741,102063.0,1,Híbrida,2.64,10,Hombre,Linkedin,4,268991,89,77,Soltero,24,2015,6,high
+102105,unknown,2,Híbrida,2.07,0,Hombre,Linkedin,8,1616000,85,71,Viudo,45,2017,3,high
+101005,102113.0,1,Híbrida,1.53,7,Mujer,Portal Web,15,921943,94,72,Viudo,57,2020,11,high
+104168,102063.0,1,Híbrida,2.625,10,Hombre,Linkedin,4,272969,89,77,Soltero,24,2015,6,high
+103468,102044.0,1,Híbrida,1.32,2,Mujer,Referidos,6,325139,80,80,Soltero,25,2013,12,high
+103080,102049.0,1,Híbrida,2.14,2,Hombre,Portal Web,5,308042,81,73,Casado,40,2013,7,high
+103764,102113.0,1,Híbrida,1.535,8,Mujer,Portal Web,15,913615,95,72,Viudo,56,2020,11,high
+101383,102149.0,1,Híbrida,0.995,0,Mujer,Portal Web,3,190242,92,74,Soltero,27,2023,3,high
+102293,102052.0,1,Híbrida,6.6,3,Hombre,Linkedin,10,397132,84,78,Casado,35,2013,12,high
+101313,102049.0,1,Híbrida,1.345,4,Mujer,Portal Web,2,326037,81,84,Casado,24,2013,3,high
+101859,102052.0,1,Híbrida,6.61,3,Hombre,Ferias & Networking,10,393264,89,78,Casado,35,2013,11,high
+101361,102149.0,1,Híbrida,2.62,0,Mujer,Linkedin,7,713815,85,69,Casado,53,2022,3,high
+100051,102023.0,1,Híbrida,1.54,2,Hombre,Referidos,11,740808,84,69,Casado,45,2013,4,high
+102467,102064.0,1,Híbrida,3.575,1,Hombre,Portal Web,5,420760,81,75,Soltero,39,2016,10,high
+102690,102017.0,1,Híbrida,6.935,1,Hombre,Portal Web,4,300116,92,73,Viudo,38,2013,1,high
+102547,102023.0,1,Híbrida,1.56,2,Hombre,Referidos,11,737424,85,69,Casado,46,2013,4,high
+100934,102111.0,1,Híbrida,4.535,11,Mujer,Portal Web,7,453282,81,74,Divorciado,37,2020,2,high
+101885,102113.0,1,Híbrida,2.635,8,Hombre,Portal Web,11,404235,97,84,Soltero,45,2019,2,high
+100162,102061.0,1,Híbrida,3.025,3,Hombre,Portal Web,7,695683,88,74,Viudo,46,2016,7,high
+102198,102145.0,1,Híbrida,1.045,2,Mujer,Referidos,1,102858,96,74,Soltero,19,2021,8,high
+102784,102111.0,1,Híbrida,4.575,12,Mujer,Portal Web,7,450734,95,74,Divorciado,36,2020,2,high
+104112,102024.0,1,Híbrida,1.55,8,Mujer,Portal Web,10,276193,87,80,Soltero,36,2013,7,high
+103509,102113.0,1,Híbrida,2.645,8,Hombre,Portal Web,11,405691,87,84,Soltero,45,2019,2,high
+103792,102061.0,1,Híbrida,3.025,2,Hombre,Portal Web,7,701239,97,74,Viudo,47,2016,7,high
+103293,102031.0,1,Híbrida,3.08,1,Mujer,Linkedin,10,716224,86,86,Soltero,45,2014,3,high
+102305,102101.0,1,Híbrida,1.075,2,Hombre,Referidos,12,916390,95,66,Viudo,57,2019,8,high
+100893,102061.0,1,Híbrida,5.935,1,Hombre,Referidos,2,83704,94,74,Soltero,11,2014,6,high
+100900,102126.0,1,Híbrida,2.865,6,Hombre,Linkedin,4,449327,81,78,Casado,37,2020,9,high
+103511,102078.0,1,Híbrida,2.165,1,Mujer,Portal Web,6,271697,87,79,Soltero,24,2015,11,high
+103271,102055.0,1,Híbrida,3.085,5,Hombre,Portal Web,9,326776,97,80,Soltero,25,2014,5,high
+103691,102126.0,1,Híbrida,2.895,6,Hombre,Linkedin,4,446047,82,78,Casado,37,2020,9,high
+100376,102046.0,1,Híbrida,2.835,1,Mujer,Referidos,1,81686,93,75,Divorciado,13,2015,11,high
+102669,102061.0,1,Híbrida,5.905,2,Hombre,Referidos,2,76694,84,74,Soltero,11,2014,6,high
+100181,102077.0,1,Híbrida,1.035,2,Mujer,Portal Web,1,160461,81,88,Soltero,20,2017,12,high
+102484,102046.0,1,Híbrida,2.855,1,Mujer,Referidos,1,77082,87,75,Divorciado,13,2015,11,high
+104166,102077.0,1,Híbrida,1.03,2,Mujer,Portal Web,1,162787,90,88,Soltero,20,2017,12,high
+103990,102120.0,1,Híbrida,7.92,2,Mujer,Portal Web,8,290405,91,84,Soltero,30,2020,6,high
+102466,102091.0,1,Híbrida,3.455,5,Mujer,Portal Web,10,384814,89,79,Soltero,31,2017,5,high
+102578,102040.0,1,Híbrida,5.955,0,Mujer,Ferias & Networking,16,657156,85,73,Soltero,41,2013,2,high
+103702,102079.0,1,Híbrida,0.855,2,Hombre,Ferias & Networking,5,698070,80,66,Soltero,48,2018,3,high
+103578,102021.0,1,Híbrida,2.215,17,Mujer,Portal Web,4,333545,83,81,Casado,25,2013,7,high
+100519,102115.0,1,Híbrida,2.84,2,Mujer,Portal Web,8,472675,86,73,Soltero,40,2021,12,high
+102706,102089.0,1,Híbrida,2.46,3,Hombre,Portal Web,1,389958,88,83,Divorciado,38,2017,1,high
+101020,102114.0,1,Híbrida,1.29,2,Mujer,Portal Web,4,386323,85,77,Casado,36,2021,6,high
+101947,102089.0,1,Híbrida,2.455,3,Hombre,Portal Web,1,391073,88,83,Divorciado,38,2017,1,high
+102882,102044.0,1,Híbrida,4.9,3,Hombre,Ferias & Networking,12,467977,90,65,Casado,34,2015,7,high
+101934,102123.0,1,Híbrida,2.835,1,Mujer,Ferias & Networking,4,791071,87,79,Casado,35,2019,3,high
+101910,102113.0,1,Híbrida,3.94,1,Mujer,Portal Web,6,838763,87,67,Viudo,50,2021,3,high
+103808,102113.0,1,Híbrida,3.965,1,Mujer,Portal Web,6,834959,81,67,Viudo,50,2021,3,high
+102710,102087.0,1,Híbrida,2.665,3,Mujer,Referidos,8,717061,81,62,Soltero,47,2016,4,high
+100531,102159.0,1,Híbrida,4.475,0,Mujer,Referidos,3,186707,95,68,Casado,26,2023,3,high
+100754,102023.0,1,Híbrida,4.735,2,Mujer,Ferias & Networking,7,289606,93,74,Casado,21,2012,2,high
+102860,102023.0,1,Híbrida,4.765,2,Mujer,Ferias & Networking,7,292423,80,74,Casado,21,2012,2,high
+101425,102065.0,1,Híbrida,3.645,2,Mujer,Referidos,2,124196,86,75,Soltero,16,2017,7,high
+101586,102054.0,1,Híbrida,1.535,2,Mujer,Linkedin,2,161547,89,66,Soltero,15,2013,10,high
+101700,102140.0,1,Híbrida,2.835,1,Mujer,Linkedin,4,267576,82,77,Casado,32,2023,12,high
+101994,102159.0,1,Híbrida,1.06,2,Hombre,Linkedin,6,307576,93,68,Casado,34,2023,10,high
+100968,102150.0,1,Híbrida,3.44,1,Hombre,Ferias & Networking,7,349639,89,84,Soltero,36,2023,8,high
+100166,102145.0,1,Híbrida,1.155,2,Hombre,Portal Web,12,505195,88,78,Casado,44,2023,10,high
+100443,102172.0,1,Híbrida,5.055,3,Mujer,Referidos,11,251089,90,78,Soltero,44,2023,9,high
+101056,102171.0,1,Híbrida,1.155,2,Mujer,Portal Web,7,252126,90,71,Soltero,44,2023,8,high
+100588,102172.0,1,Híbrida,4.375,0,Mujer,Linkedin,4,269039,97,61,Casado,45,2023,8,high
+102076,unknown,2,Híbrida,1.95,1,Hombre,Referidos,9,1616000,95,82,Soltero,53,2023,9,high
+104055,102168.0,1,Híbrida,1.68,3,Mujer,Portal Web,1,75575,86,82,Soltero,21,2023,10,high
+104033,102172.0,1,Híbrida,1.56,9,Mujer,Portal Web,2,95941,90,76,Soltero,21,2023,7,high
+102855,102140.0,1,Híbrida,2.815,1,Mujer,Linkedin,4,266226,86,77,Soltero,32,2023,12,high
+103440,102172.0,1,Híbrida,2.91,3,Hombre,Referidos,9,346306,83,72,Casado,36,2023,9,high
+103424,102150.0,1,Híbrida,3.43,2,Hombre,Ferias & Networking,7,345768,86,84,Soltero,36,2023,8,high
+103689,102154.0,1,Híbrida,3.2,4,Mujer,Linkedin,2,406239,92,73,Soltero,38,2023,10,high
+102893,102137.0,1,Híbrida,3.475,1,Mujer,Portal Web,8,788922,90,75,Soltero,38,2023,7,high
+103956,102145.0,1,Híbrida,1.13,2,Hombre,Portal Web,12,504835,82,78,Divorciado,43,2023,10,high
+104012,102172.0,1,Híbrida,5.06,3,Mujer,Referidos,11,247302,97,78,Soltero,44,2023,9,high
+103924,102171.0,1,Híbrida,1.14,3,Mujer,Portal Web,7,251388,95,71,Soltero,44,2023,8,high
+102905,102171.0,1,Híbrida,1.39,0,Hombre,Ferias & Networking,4,320234,95,66,Casado,50,2023,7,high
+103793,102143.0,1,Híbrida,5.365,9,Mujer,Linkedin,5,701890,95,71,Viudo,54,2023,10,high
+101901,102113.0,1,Presencial,7.575,9,Hombre,Linkedin,4,305190,98,63,Soltero,31,2020,8,high
+101660,102038.0,1,Presencial,1.51,7,Hombre,Portal Web,4,365596,98,80,Soltero,25,2012,4,high
+101018,102144.0,1,Presencial,2.34,1,Hombre,Linkedin,1,103239,97,83,Soltero,20,2021,10,high
+103254,102053.0,1,Presencial,1.92,0,Hombre,Portal Web,6,333504,97,83,Soltero,26,2015,3,high
+102869,102038.0,1,Presencial,1.535,8,Hombre,Portal Web,4,364718,97,80,Soltero,25,2012,4,high
+100978,102082.0,1,Presencial,2.7,1,Hombre,Linkedin,4,142413,96,76,Soltero,19,2018,6,high
+101746,102040.0,1,Presencial,5.6,3,Hombre,Referidos,6,347841,96,84,Casado,27,2015,9,high
+100318,102053.0,1,Presencial,1.93,1,Hombre,Portal Web,6,328519,96,83,Soltero,26,2015,3,high
+101237,102029.0,1,Presencial,2.17,2,Hombre,Portal Web,8,369467,96,84,Soltero,27,2014,2,high
+100191,102045.0,1,Presencial,1.49,1,Mujer,Ferias & Networking,11,740305,96,79,Casado,48,2015,7,high
+103667,102108.0,1,Presencial,2.29,3,Hombre,Portal Web,3,186538,96,86,Casado,22,2018,8,high
+102525,102029.0,1,Presencial,2.12,1,Hombre,Referidos,8,370294,96,84,Soltero,27,2014,2,high
+102899,102046.0,1,Presencial,3.845,0,Hombre,Portal Web,5,372499,96,60,Casado,25,2012,12,high
+103101,102074.0,1,Presencial,3.045,1,Mujer,Referidos,9,919132,96,60,Casado,48,2015,12,high
+100721,102150.0,1,Presencial,1.88,2,Hombre,Ferias & Networking,2,118445,95,78,Soltero,22,2022,7,high
+101730,102105.0,1,Presencial,6.365,0,Mujer,Portal Web,4,188838,95,69,Soltero,23,2019,4,high
+101100,102046.0,1,Presencial,3.85,0,Hombre,Portal Web,5,369697,95,60,Casado,25,2012,12,high
+100156,102069.0,1,Presencial,1.42,2,Hombre,Ferias & Networking,10,406690,95,78,Casado,32,2017,7,high
+100834,102126.0,1,Presencial,2.2,2,Mujer,Referidos,5,277679,95,79,Casado,43,2020,3,high
+103767,102082.0,1,Presencial,2.685,0,Hombre,Linkedin,4,148029,95,76,Soltero,19,2018,6,high
+102317,102112.0,1,Presencial,2.445,2,Hombre,Linkedin,5,447340,95,69,Casado,36,2018,12,high
+103890,102093.0,1,Presencial,1.505,2,Hombre,Linkedin,5,486851,95,75,Casado,38,2019,1,high
+103923,102145.0,1,Presencial,4.675,3,Hombre,Ferias & Networking,11,441957,95,75,Soltero,44,2021,1,high
+100047,102107.0,1,Presencial,2.465,9,Hombre,Portal Web,7,390504,94,71,Casado,31,2017,10,high
+101652,102093.0,1,Presencial,1.525,3,Hombre,Linkedin,5,486356,94,75,Casado,38,2019,1,high
+100889,102089.0,1,Presencial,5.195,2,Mujer,Portal Web,11,491085,94,82,Soltero,35,2016,8,high
+102115,unknown,2,Presencial,2.0,2,Mujer,Portal Web,4,1616000,94,76,Soltero,35,2018,12,high
+102959,102116.0,1,Presencial,1.99,0,Mujer,Portal Web,8,413318,94,77,Soltero,34,2018,11,high
+103470,102069.0,1,Presencial,1.42,2,Hombre,Ferias & Networking,10,406721,94,78,Casado,32,2017,7,high
+103200,102100.0,1,Presencial,1.65,1,Hombre,Ferias & Networking,10,301343,94,71,Soltero,44,2019,8,high
+100245,102025.0,1,Presencial,4.75,2,Mujer,Ferias & Networking,16,741195,93,75,Casado,46,2013,11,high
+103275,102103.0,1,Presencial,3.84,3,Mujer,Ferias & Networking,2,188490,93,76,Viudo,24,2020,10,high
+103902,102089.0,1,Presencial,5.18,3,Mujer,Portal Web,11,489516,93,82,Soltero,35,2016,8,high
+100133,102172.0,1,Presencial,1.685,0,Mujer,Ferias & Networking,1,145872,92,68,Soltero,24,2023,6,high
+101323,102133.0,1,Presencial,2.53,1,Mujer,Referidos,4,186663,92,71,Casado,25,2021,4,high
+101263,102080.0,1,Presencial,1.735,1,Mujer,Referidos,3,325734,92,76,Soltero,27,2016,8,high
+101715,102105.0,1,Presencial,1.835,2,Hombre,Ferias & Networking,14,697860,92,74,Viudo,47,2017,10,high
+102996,102133.0,1,Presencial,2.55,1,Mujer,Referidos,4,186551,92,71,Casado,25,2021,4,high
+102560,102095.0,1,Presencial,3.15,5,Mujer,Linkedin,6,491616,92,66,Casado,39,2020,1,high
+100719,102031.0,1,Presencial,1.95,1,Hombre,Linkedin,1,77478,91,69,Soltero,11,2014,7,high
+100135,102080.0,1,Presencial,3.25,2,Mujer,Portal Web,1,104382,91,72,Soltero,16,2018,6,high
+100860,102116.0,1,Presencial,5.955,2,Mujer,Ferias & Networking,1,119561,91,67,Soltero,19,2020,5,high
+100236,102134.0,1,Presencial,2.38,1,Mujer,Linkedin,2,139283,91,75,Casado,22,2022,7,high
+100473,102084.0,1,Presencial,2.555,0,Mujer,Linkedin,2,137943,91,76,Soltero,19,2018,6,high
+101834,102080.0,1,Presencial,1.56,0,Mujer,Portal Web,1,144399,91,78,Soltero,18,2017,11,high
+100547,102052.0,1,Presencial,1.43,0,Hombre,Referidos,3,136629,91,83,Soltero,14,2013,10,high
+100703,102135.0,1,Presencial,5.17,2,Hombre,Ferias & Networking,3,145957,91,75,Casado,22,2021,6,high
+101915,102105.0,1,Presencial,1.51,1,Hombre,Portal Web,3,165327,91,71,Soltero,20,2018,5,high
+100826,102004.0,1,Presencial,4.59,0,Mujer,Ferias & Networking,4,167216,91,82,Soltero,14,2012,3,high
+100583,102056.0,1,Presencial,2.36,3,Mujer,Linkedin,5,206147,91,76,Soltero,19,2015,6,high
+100461,102028.0,1,Presencial,5.845,2,Hombre,Portal Web,1,204697,91,72,Casado,16,2012,5,high
+100336,102057.0,1,Presencial,3.715,3,Mujer,Portal Web,6,210282,91,78,Soltero,22,2016,10,high
+100691,102140.0,1,Presencial,1.69,1,Mujer,Headhunter,1,226118,91,70,Casado,29,2023,1,high
+101559,102107.0,1,Presencial,3.695,4,Mujer,Portal Web,2,251781,91,84,Casado,27,2020,6,high
+100866,102063.0,1,Presencial,2.085,1,Hombre,Portal Web,8,249210,91,88,Casado,22,2014,2,high
+101521,102107.0,1,Presencial,3.34,1,Hombre,Ferias & Networking,6,270398,91,78,Casado,27,2018,9,high
+100657,102111.0,1,Presencial,1.125,2,Mujer,Portal Web,4,292238,91,67,Divorciado,27,2018,4,high
+101542,102033.0,1,Presencial,7.47,1,Mujer,Ferias & Networking,4,288188,91,76,Casado,22,2013,2,high
+100410,102155.0,1,Presencial,3.61,0,Hombre,Ferias & Networking,6,330663,91,69,Casado,33,2022,10,high
+100601,102106.0,1,Presencial,2.3,1,Mujer,Referidos,6,333503,91,79,Casado,30,2019,1,high
+101510,102042.0,1,Presencial,2.325,9,Mujer,Linkedin,8,329309,91,74,Casado,23,2012,5,high
+100957,102091.0,1,Presencial,1.525,0,Hombre,Headhunter,8,364595,91,72,Soltero,32,2019,9,high
+100843,102129.0,1,Presencial,2.26,7,Hombre,Portal Web,4,412815,91,78,Soltero,36,2021,12,high
+101843,102148.0,1,Presencial,2.125,2,Mujer,Referidos,3,767069,91,83,Casado,35,2021,6,high
+100822,102101.0,1,Presencial,1.63,3,Hombre,Linkedin,2,385116,91,67,Soltero,32,2017,5,high
+101713,102058.0,1,Presencial,3.915,1,Hombre,Linkedin,6,410350,91,76,Soltero,29,2015,3,high
+101728,102106.0,1,Presencial,1.33,3,Hombre,Portal Web,11,432741,91,67,Soltero,36,2021,1,high
+100543,102151.0,1,Presencial,4.115,1,Hombre,Referidos,5,432341,91,75,Casado,39,2023,1,high
+101825,102023.0,1,Presencial,2.045,3,Hombre,Referidos,9,428510,91,70,Casado,28,2012,10,high
+100953,102043.0,1,Presencial,2.895,2,Hombre,Referidos,7,429821,91,60,Casado,28,2012,6,high
+100982,102125.0,1,Presencial,1.965,1,Mujer,Headhunter,8,470118,91,86,Viudo,39,2021,9,high
+100374,102066.0,1,Presencial,2.525,3,Mujer,Ferias & Networking,11,449921,91,83,Soltero,33,2016,9,high
+100904,102057.0,1,Presencial,1.92,0,Mujer,Linkedin,10,473299,91,80,Soltero,33,2015,3,high
+100456,102052.0,1,Presencial,2.715,8,Hombre,Linkedin,10,466136,91,70,Casado,32,2013,11,high
+101447,102051.0,1,Presencial,1.985,2,Mujer,Referidos,9,828970,91,67,Casado,32,2013,10,high
+101291,102095.0,1,Presencial,3.15,4,Mujer,Linkedin,6,489706,91,66,Casado,39,2020,1,high
+101179,102065.0,1,Presencial,3.815,0,Mujer,Portal Web,6,505935,91,77,Casado,35,2014,11,high
+101072,102078.0,1,Presencial,1.655,2,Hombre,Portal Web,9,377505,91,82,Soltero,40,2017,7,high
+101494,102065.0,1,Presencial,3.065,10,Mujer,Linkedin,11,271240,91,75,Casado,38,2016,3,high
+101877,102046.0,1,Presencial,2.25,0,Hombre,Portal Web,6,410749,91,79,Casado,36,2014,5,high
+101985,102044.0,1,Presencial,3.135,7,Mujer,Portal Web,7,455066,91,69,Divorciado,35,2013,3,high
+100298,102124.0,1,Presencial,2.53,1,Hombre,Ferias & Networking,6,275496,91,72,Casado,45,2022,4,high
+100627,102118.0,1,Presencial,6.255,0,Mujer,Portal Web,6,274133,91,72,Casado,45,2021,11,high
+100271,102108.0,1,Presencial,5.09,2,Hombre,Portal Web,5,280288,91,75,Soltero,42,2019,2,high
+100453,102092.0,1,Presencial,5.52,8,Mujer,Linkedin,4,387132,91,75,Casado,42,2019,1,high
+101948,102045.0,1,Presencial,3.0,1,Mujer,Portal Web,14,288347,91,69,Casado,38,2014,7,high
+101206,102154.0,1,Presencial,6.615,3,Mujer,Portal Web,11,284400,91,82,Soltero,47,2022,10,high
+101471,102026.0,1,Presencial,1.445,8,Mujer,Linkedin,5,453173,91,71,Soltero,38,2014,3,high
+101810,102074.0,1,Presencial,1.53,1,Mujer,Ferias & Networking,7,294484,91,62,Divorciado,41,2016,7,high
+101312,102153.0,1,Presencial,1.62,1,Hombre,Ferias & Networking,13,800257,91,75,Divorciado,49,2022,9,high
+100014,102086.0,1,Presencial,3.205,3,Hombre,Portal Web,11,396663,91,71,Viudo,44,2018,3,high
+101128,102082.0,1,Presencial,2.335,0,Hombre,Linkedin,5,308017,91,83,Casado,43,2016,9,high
+101455,102032.0,1,Presencial,2.88,3,Hombre,Portal Web,13,312183,91,69,Viudo,39,2012,10,high
+101614,102020.0,1,Presencial,1.87,0,Hombre,Portal Web,6,308408,91,68,Casado,38,2012,10,high
+100000,102085.0,1,Presencial,6.035,7,Mujer,Portal Web,13,815948,91,79,Casado,45,2018,7,high
+100345,102085.0,1,Presencial,1.16,1,Mujer,Portal Web,3,633952,91,83,Casado,45,2017,11,high
+100985,102035.0,1,Presencial,3.42,3,Hombre,Linkedin,13,637505,91,78,Divorciado,42,2015,3,high
+101905,102065.0,1,Presencial,3.98,1,Hombre,Portal Web,5,637519,91,69,Viudo,42,2015,2,high
+101381,102134.0,1,Presencial,2.47,3,Hombre,Portal Web,16,654393,91,85,Viudo,52,2023,3,high
+100380,102118.0,1,Presencial,1.56,2,Hombre,Linkedin,10,658648,91,78,Viudo,48,2020,10,high
+100358,102063.0,1,Presencial,1.585,2,Mujer,Linkedin,8,874696,91,83,Casado,46,2017,7,high
+101403,102016.0,1,Presencial,2.46,1,Hombre,Portal Web,16,662510,91,74,Casado,41,2013,5,high
+101579,102014.0,1,Presencial,3.46,8,Mujer,Linkedin,8,780585,91,74,Viudo,41,2012,7,high
+100776,102103.0,1,Presencial,4.68,2,Hombre,Portal Web,3,674558,91,74,Divorciado,49,2020,2,high
+101427,102070.0,1,Presencial,2.905,2,Hombre,Portal Web,13,857862,91,75,Viudo,44,2015,4,high
+101074,102112.0,1,Presencial,2.135,3,Mujer,Linkedin,5,694744,91,91,Divorciado,48,2018,7,high
+101727,102162.0,1,Presencial,1.27,2,Mujer,Portal Web,9,733623,91,84,Casado,54,2022,12,high
+101423,102071.0,1,Presencial,2.865,10,Hombre,Portal Web,11,737903,91,77,Soltero,49,2017,6,high
+100523,102103.0,1,Presencial,5.54,3,Hombre,Linkedin,14,741382,91,84,Divorciado,52,2020,4,high
+100541,102113.0,1,Presencial,3.33,2,Hombre,Ferias & Networking,4,794077,91,73,Viudo,52,2019,8,high
+101413,102112.0,1,Presencial,1.3,1,Mujer,Portal Web,8,733583,91,82,Divorciado,51,2018,7,high
+100563,102061.0,1,Presencial,5.37,1,Mujer,Referidos,19,735879,91,71,Divorciado,48,2016,8,high
+101508,102018.0,1,Presencial,4.995,3,Mujer,Portal Web,7,735398,91,76,Divorciado,45,2013,4,high
+100214,102003.0,1,Presencial,2.27,4,Hombre,Linkedin,19,737789,91,79,Casado,44,2012,3,high
+100147,102145.0,1,Presencial,2.22,2,Hombre,Portal Web,9,860804,91,82,Casado,57,2022,11,high
+100554,102134.0,1,Presencial,3.81,0,Mujer,Referidos,18,894605,91,69,Casado,56,2022,2,high
+102448,102061.0,1,Presencial,1.775,3,Hombre,Ferias & Networking,1,96258,91,72,Soltero,12,2014,3,high
+104142,102128.0,1,Presencial,4.15,5,Hombre,Portal Web,2,101612,91,81,Soltero,20,2022,2,high
+103918,102134.0,1,Presencial,2.365,1,Mujer,Linkedin,2,143747,91,75,Soltero,22,2022,6,high
+103957,102126.0,1,Presencial,7.035,2,Hombre,Portal Web,3,143590,91,71,Soltero,21,2020,11,high
+103141,102094.0,1,Presencial,3.925,3,Mujer,Linkedin,2,140037,91,81,Casado,18,2017,9,high
+102676,102017.0,1,Presencial,1.665,0,Mujer,Portal Web,1,147227,91,75,Soltero,13,2012,5,high
+102835,102080.0,1,Presencial,1.545,1,Mujer,Portal Web,1,143000,91,78,Soltero,18,2017,11,high
+102873,102047.0,1,Presencial,3.145,3,Hombre,Portal Web,1,162171,91,78,Soltero,17,2015,3,high
+104025,102035.0,1,Presencial,1.845,7,Hombre,Portal Web,4,160588,91,69,Soltero,15,2012,8,high
+102580,102130.0,1,Presencial,1.295,2,Hombre,Linkedin,5,207882,91,70,Soltero,27,2021,12,high
+104143,102127.0,1,Presencial,1.375,8,Hombre,Linkedin,1,210470,91,80,Casado,25,2019,10,high
+102469,102147.0,1,Presencial,1.525,1,Hombre,Referidos,6,244964,91,67,Casado,28,2022,1,high
+102406,102107.0,1,Presencial,3.69,5,Mujer,Portal Web,2,251636,91,84,Casado,27,2020,6,high
+102686,102069.0,1,Presencial,8.085,2,Mujer,Ferias & Networking,7,269545,91,63,Soltero,23,2015,1,high
+102444,102111.0,1,Presencial,1.095,2,Mujer,Portal Web,4,290363,91,67,Divorciado,27,2018,4,high
+102404,102080.0,1,Presencial,1.695,1,Mujer,Referidos,3,331314,91,76,Soltero,27,2016,8,high
+103462,102042.0,1,Presencial,1.695,2,Mujer,Referidos,7,310291,91,91,Soltero,25,2015,8,high
+102557,102106.0,1,Presencial,2.33,1,Mujer,Referidos,6,328785,91,79,Casado,30,2019,1,high
+102947,102038.0,1,Presencial,1.42,2,Mujer,Portal Web,2,346016,91,70,Casado,27,2015,6,high
+103703,102171.0,1,Presencial,2.36,1,Mujer,Portal Web,6,368568,91,66,Soltero,36,2023,5,high
+102843,102050.0,1,Presencial,1.935,0,Hombre,Portal Web,2,373395,91,78,Soltero,27,2014,6,high
+103070,102060.0,1,Presencial,2.215,2,Mujer,Linkedin,9,370329,91,85,Casado,27,2014,4,high
+103129,102148.0,1,Presencial,2.125,2,Mujer,Referidos,3,771946,91,83,Casado,35,2021,6,high
+103155,102110.0,1,Presencial,2.825,1,Hombre,Referidos,11,412002,91,71,Casado,33,2018,5,high
+102214,102058.0,1,Presencial,3.9,0,Hombre,Linkedin,6,412788,91,76,Soltero,30,2015,3,high
+103936,102090.0,1,Presencial,1.69,12,Mujer,Linkedin,5,429502,91,81,Soltero,33,2016,12,high
+102760,102038.0,1,Presencial,1.71,0,Hombre,Headhunter,4,771040,91,81,Casado,31,2015,2,high
+103288,102149.0,1,Presencial,2.45,2,Hombre,Referidos,9,447709,91,72,Casado,38,2021,3,high
+103427,102122.0,1,Presencial,1.62,11,Mujer,Portal Web,4,467720,91,80,Casado,39,2021,7,high
+102494,102132.0,1,Presencial,5.52,2,Hombre,Portal Web,6,770028,91,68,Divorciado,39,2020,10,high
+104063,102124.0,1,Presencial,1.57,0,Hombre,Linkedin,7,767181,91,65,Soltero,37,2019,5,high
+102271,102061.0,1,Presencial,1.875,0,Hombre,Referidos,2,472961,91,78,Casado,34,2016,11,high
+102577,102091.0,1,Presencial,1.525,2,Mujer,Referidos,13,248472,91,72,Soltero,38,2018,10,high
+103441,102092.0,1,Presencial,2.855,2,Hombre,Ferias & Networking,12,256770,91,79,Soltero,40,2019,6,high
+103128,102065.0,1,Presencial,3.78,1,Mujer,Portal Web,6,507514,91,77,Casado,35,2014,11,high
+103413,102052.0,1,Presencial,4.57,7,Mujer,Portal Web,13,525106,91,78,Casado,34,2013,12,high
+103661,102107.0,1,Presencial,1.775,9,Hombre,Portal Web,9,258249,91,70,Casado,40,2019,3,high
+102887,102040.0,1,Presencial,1.3,2,Mujer,Linkedin,5,258748,91,76,Casado,36,2014,5,high
+102830,102092.0,1,Presencial,5.515,9,Mujer,Linkedin,4,388285,91,75,Casado,42,2019,1,high
+103062,102024.0,1,Presencial,1.31,3,Hombre,Ferias & Networking,4,281451,91,74,Casado,37,2013,7,high
+104043,102154.0,1,Presencial,6.57,3,Mujer,Portal Web,11,285923,91,82,Soltero,47,2022,10,high
+102840,102152.0,1,Presencial,1.225,2,Hombre,Linkedin,4,408102,91,70,Casado,46,2021,10,high
+104120,102127.0,1,Presencial,5.83,3,Hombre,Portal Web,9,285546,91,83,Casado,44,2019,7,high
+103785,102026.0,1,Presencial,1.445,7,Mujer,Linkedin,5,453463,91,71,Soltero,38,2014,3,high
+102618,102160.0,1,Presencial,2.49,0,Hombre,Linkedin,3,300358,91,75,Divorciado,48,2022,3,high
+102642,102137.0,1,Presencial,7.555,0,Mujer,Linkedin,6,453296,91,80,Casado,47,2021,5,high
+102475,102036.0,1,Presencial,2.63,1,Hombre,Portal Web,16,298518,91,79,Casado,37,2012,7,high
+102735,102090.0,1,Presencial,1.98,0,Hombre,Referidos,13,460867,91,70,Viudo,46,2019,9,high
+102322,102082.0,1,Presencial,2.415,2,Mujer,Ferias & Networking,16,415486,91,71,Divorciado,45,2018,9,high
+103488,102085.0,1,Presencial,6.045,6,Mujer,Portal Web,13,815205,91,79,Casado,45,2018,7,high
+102452,102053.0,1,Presencial,2.47,1,Hombre,Headhunter,11,306906,91,69,Soltero,40,2014,4,high
+103240,102015.0,1,Presencial,14.005,1,Mujer,Portal Web,12,306377,91,72,Soltero,39,2013,1,high
+102250,102032.0,1,Presencial,2.905,2,Hombre,Portal Web,13,311924,91,69,Viudo,39,2012,10,high
+102460,102058.0,1,Presencial,5.84,3,Hombre,Ferias & Networking,10,835411,91,70,Casado,44,2017,2,high
+103041,102069.0,1,Presencial,1.725,1,Hombre,Ferias & Networking,6,636952,91,80,Viudo,43,2015,11,high
+102246,102048.0,1,Presencial,2.835,1,Mujer,Referidos,5,658614,91,75,Casado,41,2013,7,high
+102800,102016.0,1,Presencial,2.465,1,Hombre,Portal Web,16,662350,91,74,Casado,41,2013,5,high
+103004,102147.0,1,Presencial,1.555,6,Hombre,Portal Web,10,799675,91,80,Casado,53,2023,2,high
+103162,102071.0,1,Presencial,2.85,9,Hombre,Portal Web,11,735305,91,77,Soltero,49,2017,6,high
+103214,102057.0,1,Presencial,3.315,11,Hombre,Portal Web,16,714645,91,72,Casado,46,2015,4,high
+103428,102061.0,1,Presencial,1.955,2,Mujer,Linkedin,9,917286,91,81,Divorciado,45,2014,9,high
+102919,102164.0,1,Presencial,1.085,1,Hombre,Linkedin,5,734316,91,65,Soltero,56,2023,4,high
+102622,102113.0,1,Presencial,3.285,1,Hombre,Ferias & Networking,4,797022,91,73,Viudo,52,2019,8,high
+103586,102113.0,1,Presencial,2.215,0,Mujer,Portal Web,11,736297,91,75,Soltero,51,2018,12,high
+103049,102064.0,1,Presencial,6.315,5,Hombre,Portal Web,3,736348,91,77,Viudo,48,2016,5,high
+103819,102044.0,1,Presencial,1.65,10,Mujer,Portal Web,8,738895,91,78,Viudo,45,2013,9,high
+103714,102133.0,1,Presencial,1.685,10,Mujer,Portal Web,9,820100,91,76,Divorciado,55,2022,12,high
+102319,102047.0,1,Presencial,6.445,1,Hombre,Linkedin,7,818221,91,63,Viudo,49,2015,4,high
+100015,102128.0,1,Presencial,4.145,6,Hombre,Portal Web,2,97471,90,81,Soltero,20,2022,2,high
+101920,102146.0,1,Presencial,2.225,3,Mujer,Linkedin,1,99008,90,81,Soltero,19,2021,3,high
+100226,102019.0,1,Presencial,2.865,1,Hombre,Referidos,2,97929,90,85,Soltero,12,2013,4,high
+100770,102047.0,1,Presencial,2.145,0,Hombre,Portal Web,3,116598,90,77,Soltero,13,2013,9,high
+100995,102080.0,1,Presencial,5.225,3,Mujer,Referidos,3,143024,90,79,Soltero,18,2018,9,high
+100785,102064.0,1,Presencial,1.825,0,Mujer,Linkedin,1,135834,90,81,Divorciado,15,2015,3,high
+100478,102078.0,1,Presencial,1.71,0,Mujer,Portal Web,4,161382,90,79,Soltero,17,2015,6,high
+100371,102162.0,1,Presencial,4.615,0,Mujer,Portal Web,4,164522,90,76,Soltero,25,2023,4,high
+101768,102076.0,1,Presencial,1.535,0,Mujer,Linkedin,2,165463,90,76,Soltero,20,2017,7,high
+101734,102049.0,1,Presencial,2.21,2,Hombre,Referidos,2,161987,90,84,Soltero,18,2015,12,high
+100116,102049.0,1,Presencial,3.645,3,Mujer,Portal Web,4,185575,90,83,Soltero,18,2015,4,high
+100356,102053.0,1,Presencial,6.505,1,Hombre,Ferias & Networking,2,188491,90,75,Divorciado,17,2014,6,high
+100678,102130.0,1,Presencial,2.295,1,Mujer,Referidos,4,193012,90,72,Casado,27,2022,11,high
+101337,102031.0,1,Presencial,3.15,1,Hombre,Headhunter,1,190622,90,68,Soltero,17,2012,12,high
+101221,102052.0,1,Presencial,1.885,9,Mujer,Portal Web,5,212991,90,76,Casado,20,2014,11,high
+101464,102022.0,1,Presencial,1.57,0,Mujer,Portal Web,1,212509,90,72,Casado,18,2013,8,high
+101108,102008.0,1,Presencial,4.17,6,Hombre,Linkedin,5,206756,90,75,Casado,17,2012,10,high
+101618,102114.0,1,Presencial,2.23,2,Hombre,Portal Web,2,229241,90,75,Soltero,28,2021,6,high
+101796,102147.0,1,Presencial,1.495,2,Hombre,Referidos,6,252626,90,67,Casado,29,2022,1,high
+101996,102151.0,1,Presencial,2.12,1,Mujer,Linkedin,2,251588,90,75,Soltero,28,2021,11,high
+100460,102017.0,1,Presencial,1.74,0,Hombre,Portal Web,5,250793,90,82,Soltero,21,2013,9,high
+102143,unknown,2,Presencial,1.07,2,Hombre,Portal Web,2,590000,90,78,Casado,25,2022,2,high
+100606,102142.0,1,Presencial,5.675,2,Mujer,Referidos,6,269081,90,75,Divorciado,31,2022,12,high
+102139,unknown,2,Presencial,6.48,1,Hombre,Ferias & Networking,5,590000,90,67,Casado,25,2021,6,high
+100528,102154.0,1,Presencial,3.51,1,Hombre,Referidos,4,308372,90,69,Soltero,33,2023,4,high
+100196,102137.0,1,Presencial,2.34,1,Mujer,Linkedin,8,309845,90,78,Casado,34,2023,4,high
+100875,102114.0,1,Presencial,4.52,1,Mujer,Linkedin,7,311976,90,78,Soltero,28,2018,7,high
+100125,102083.0,1,Presencial,4.825,1,Mujer,Ferias & Networking,6,305521,90,77,Casado,27,2017,3,high
+100552,102057.0,1,Presencial,2.505,2,Hombre,Linkedin,2,307001,90,74,Casado,27,2016,12,high
+100778,102042.0,1,Presencial,1.675,2,Mujer,Referidos,7,308184,90,91,Soltero,26,2015,8,high
+100435,102043.0,1,Presencial,2.325,1,Hombre,Linkedin,5,308845,90,81,Soltero,23,2013,1,high
+101429,102094.0,1,Presencial,1.48,3,Mujer,Referidos,2,330227,90,69,Soltero,30,2018,7,high
+101596,102038.0,1,Presencial,1.42,1,Mujer,Portal Web,2,347243,90,70,Casado,27,2015,6,high
+101619,102047.0,1,Presencial,4.375,2,Hombre,Referidos,2,332154,90,76,Casado,26,2014,12,high
+100020,102043.0,1,Presencial,0.34,5,Hombre,Portal Web,2,327286,90,82,Casado,23,2012,7,high
+100871,102118.0,1,Presencial,4.265,7,Mujer,Portal Web,3,352267,90,83,Soltero,32,2020,3,high
+100339,102022.0,1,Presencial,1.975,2,Hombre,Ferias & Networking,9,351517,90,64,Casado,25,2013,3,high
+100211,102108.0,1,Presencial,2.585,2,Mujer,Portal Web,7,364626,90,80,Casado,32,2018,11,high
+101303,102099.0,1,Presencial,5.595,2,Hombre,Linkedin,8,788970,90,72,Casado,31,2017,1,high
+100886,102050.0,1,Presencial,1.94,0,Hombre,Portal Web,2,372813,90,78,Soltero,27,2014,6,high
+100202,102060.0,1,Presencial,2.18,3,Mujer,Linkedin,9,366272,90,85,Casado,27,2014,4,high
+100972,102156.0,1,Presencial,1.89,2,Mujer,Portal Web,7,389435,90,79,Soltero,37,2023,3,high
+101438,102148.0,1,Presencial,1.965,0,Hombre,Portal Web,7,410790,90,75,Casado,38,2022,10,high
+101190,102144.0,1,Presencial,3.015,1,Mujer,Ferias & Networking,7,428421,90,69,Casado,38,2022,1,high
+101963,102124.0,1,Presencial,4.725,4,Mujer,Linkedin,10,445992,90,76,Divorciado,38,2021,5,high
+101833,102038.0,1,Presencial,1.715,0,Hombre,Headhunter,4,764500,90,81,Casado,31,2015,2,high
+102094,unknown,2,Presencial,1.32,1,Hombre,Portal Web,4,998000,90,85,Casado,28,2016,2,high
+100095,102095.0,1,Presencial,1.475,2,Hombre,Portal Web,6,452213,90,77,Casado,35,2018,11,high
+100813,102079.0,1,Presencial,5.375,1,Mujer,Portal Web,4,469946,90,78,Soltero,37,2018,10,high
+100104,102058.0,1,Presencial,1.735,8,Hombre,Portal Web,5,845102,90,71,Casado,33,2014,5,high
+102012,unknown,2,Presencial,2.09,1,Mujer,Portal Web,7,1100000,90,80,Casado,34,2019,7,high
+100987,102122.0,1,Presencial,5.045,0,Mujer,Ferias & Networking,13,766009,90,83,Divorciado,40,2020,6,high
+100692,102077.0,1,Presencial,2.87,1,Mujer,Portal Web,11,373245,90,77,Soltero,37,2017,2,high
+101256,102092.0,1,Presencial,2.825,1,Hombre,Ferias & Networking,12,254553,90,79,Soltero,40,2019,6,high
+102020,unknown,2,Presencial,6.63,1,Mujer,Linkedin,11,1203920,90,78,Casado,35,2018,12,high
+100768,102134.0,1,Presencial,2.43,2,Hombre,Linkedin,8,254490,90,74,Divorciado,44,2022,8,high
+101580,102040.0,1,Presencial,1.31,2,Mujer,Linkedin,5,259882,90,76,Casado,35,2014,5,high
+101433,102046.0,1,Presencial,5.625,1,Mujer,Ferias & Networking,11,427941,90,68,Casado,35,2014,3,high
+102075,unknown,2,Presencial,2.7,1,Hombre,Referidos,11,1255430,90,76,Casado,30,2013,3,high
+102142,unknown,2,Presencial,2.48,2,Hombre,Portal Web,3,1255430,90,66,Soltero,36,2019,7,high
+101296,102047.0,1,Presencial,2.81,3,Hombre,Portal Web,12,271423,90,85,Casado,36,2013,10,high
+100347,102017.0,1,Presencial,1.32,3,Hombre,Linkedin,10,265853,90,75,Soltero,35,2013,2,high
+101340,102009.0,1,Presencial,2.095,1,Mujer,Portal Web,7,459130,90,82,Casado,35,2012,11,high
+101398,102111.0,1,Presencial,1.92,1,Hombre,Linkedin,14,273703,90,76,Casado,42,2018,5,high
+101141,102085.0,1,Presencial,5.185,4,Hombre,Portal Web,13,284634,90,81,Divorciado,41,2017,5,high
+101364,102039.0,1,Presencial,4.94,20,Mujer,Portal Web,15,415036,90,81,Soltero,38,2013,12,high
+102149,unknown,2,Presencial,2.07,0,Mujer,Headhunter,3,1409960,90,86,Casado,37,2017,2,high
+101233,102141.0,1,Presencial,6.745,11,Hombre,Portal Web,4,301020,90,63,Divorciado,47,2022,4,high
+100828,102160.0,1,Presencial,2.5,1,Hombre,Linkedin,3,301026,90,75,Divorciado,47,2022,3,high
+100919,102137.0,1,Presencial,7.555,0,Mujer,Linkedin,6,454794,90,80,Casado,47,2021,5,high
+101115,102075.0,1,Presencial,3.76,2,Hombre,Portal Web,11,299403,90,81,Casado,43,2018,2,high
+100920,102068.0,1,Presencial,5.1,0,Mujer,Portal Web,5,302430,90,81,Casado,42,2016,9,high
+101887,102049.0,1,Presencial,4.7,2,Mujer,Portal Web,7,390558,90,74,Viudo,39,2013,6,high
+100421,102036.0,1,Presencial,2.62,1,Hombre,Portal Web,16,298101,90,79,Casado,37,2012,7,high
+100249,102129.0,1,Presencial,1.78,2,Hombre,Ferias & Networking,13,639801,90,69,Soltero,48,2021,8,high
+101841,102098.0,1,Presencial,3.945,3,Hombre,Portal Web,13,303543,90,80,Viudo,46,2020,2,high
+101851,102082.0,1,Presencial,2.39,2,Mujer,Ferias & Networking,16,414399,90,71,Divorciado,45,2018,9,high
+100704,102015.0,1,Presencial,14.045,2,Mujer,Portal Web,12,309140,90,72,Soltero,39,2013,1,high
+102153,unknown,2,Presencial,6.39,1,Mujer,Linkedin,5,1616000,90,68,Casado,41,2019,6,high
+101288,102143.0,1,Presencial,1.535,7,Hombre,Portal Web,11,639015,90,75,Viudo,50,2023,4,high
+100073,102148.0,1,Presencial,7.44,0,Mujer,Linkedin,13,837423,90,81,Divorciado,49,2022,11,high
+101369,102062.0,1,Presencial,1.845,2,Mujer,Referidos,15,635119,90,78,Soltero,45,2017,5,high
+101748,102058.0,1,Presencial,5.81,2,Hombre,Ferias & Networking,10,840198,90,70,Casado,44,2017,2,high
+100739,102140.0,1,Presencial,4.35,3,Mujer,Linkedin,14,674316,90,84,Soltero,50,2021,3,high
+101592,102084.0,1,Presencial,2.96,8,Mujer,Portal Web,9,682212,90,69,Casado,45,2016,4,high
+101135,102048.0,1,Presencial,2.84,2,Mujer,Referidos,5,658749,90,75,Casado,41,2013,7,high
+102098,unknown,2,Presencial,1.8,1,Mujer,Portal Web,16,1616000,90,86,Casado,46,2021,1,high
+101662,102049.0,1,Presencial,3.11,3,Mujer,Linkedin,12,698953,90,83,Viudo,45,2015,9,high
+101972,102030.0,1,Presencial,3.76,2,Mujer,Portal Web,15,696329,90,64,Casado,42,2012,6,high
+102147,unknown,2,Presencial,1.58,2,Hombre,Portal Web,4,1616000,90,80,Casado,49,2022,12,high
+101341,102057.0,1,Presencial,3.335,11,Hombre,Portal Web,16,721054,90,72,Casado,46,2015,4,high
+100310,102061.0,1,Presencial,1.93,3,Mujer,Linkedin,9,913790,90,81,Casado,46,2014,9,high
+100455,102015.0,1,Presencial,3.08,1,Mujer,Portal Web,9,722517,90,83,Casado,44,2013,6,high
+101704,102024.0,1,Presencial,3.4,1,Mujer,Ferias & Networking,12,716900,90,79,Casado,45,2013,3,high
+102117,unknown,2,Presencial,4.05,1,Mujer,Linkedin,10,1616000,90,80,Divorciado,48,2021,1,high
+100938,102154.0,1,Presencial,3.495,2,Hombre,Portal Web,7,742198,90,74,Soltero,54,2022,3,high
+100317,102113.0,1,Presencial,2.21,1,Mujer,Portal Web,11,733757,90,75,Soltero,51,2018,12,high
+101918,102046.0,1,Presencial,2.925,0,Mujer,Ferias & Networking,3,861334,90,77,Casado,47,2015,3,high
+101684,102160.0,1,Presencial,1.03,7,Hombre,Portal Web,12,853835,90,68,Viudo,56,2023,1,high
+100818,102089.0,1,Presencial,4.55,2,Mujer,Linkedin,19,860501,90,73,Casado,51,2018,6,high
+101240,102053.0,1,Presencial,4.635,2,Mujer,Ferias & Networking,11,875171,90,75,Casado,51,2014,5,high
+100632,102025.0,1,Presencial,1.39,0,Mujer,Ferias & Networking,6,917214,90,71,Divorciado,48,2012,7,high
+102057,unknown,2,Presencial,1.97,4,Hombre,Portal Web,5,1616000,90,73,Viudo,59,2022,12,high
+102574,102019.0,1,Presencial,2.855,2,Hombre,Referidos,2,103524,90,85,Soltero,11,2013,4,high
+104124,102105.0,1,Presencial,2.275,2,Mujer,Ferias & Networking,1,122861,90,69,Soltero,17,2018,2,high
+103068,102070.0,1,Presencial,7.325,2,Mujer,Portal Web,1,123646,90,81,Soltero,16,2017,4,high
+103327,102047.0,1,Presencial,2.165,1,Hombre,Portal Web,3,120555,90,77,Soltero,13,2013,9,high
+102806,102040.0,1,Presencial,1.735,1,Hombre,Linkedin,1,142043,90,86,Soltero,15,2014,10,high
+103643,102000.0,1,Presencial,4.99,2,Hombre,Portal Web,1,145466,90,76,Soltero,13,2012,2,high
+102617,102162.0,1,Presencial,4.61,0,Mujer,Portal Web,4,168870,90,76,Soltero,25,2023,4,high
+103386,102140.0,1,Presencial,2.52,1,Mujer,Referidos,3,167277,90,88,Soltero,23,2021,4,high
+103519,102049.0,1,Presencial,2.25,1,Hombre,Referidos,3,162811,90,84,Soltero,17,2015,12,high
+102649,102004.0,1,Presencial,4.565,1,Mujer,Ferias & Networking,4,166581,90,82,Soltero,14,2012,3,high
+102766,102049.0,1,Presencial,3.66,3,Mujer,Portal Web,4,183119,90,83,Soltero,18,2015,4,high
+102529,102053.0,1,Presencial,6.465,2,Hombre,Ferias & Networking,2,186463,90,75,Divorciado,18,2014,6,high
+104006,102133.0,1,Presencial,1.235,2,Hombre,Portal Web,1,187771,90,75,Soltero,25,2021,3,high
+103051,102008.0,1,Presencial,4.18,6,Hombre,Linkedin,5,211970,90,75,Casado,17,2012,10,high
+103508,102137.0,1,Presencial,2.515,0,Hombre,Ferias & Networking,1,247055,90,75,Casado,29,2022,5,high
+102495,102119.0,1,Presencial,7.555,5,Hombre,Linkedin,2,227271,90,66,Casado,28,2022,3,high
+103762,102114.0,1,Presencial,2.23,2,Hombre,Portal Web,2,225798,90,75,Soltero,27,2021,6,high
+102997,102129.0,1,Presencial,1.555,2,Hombre,Ferias & Networking,8,247338,90,70,Casado,29,2021,12,high
+103657,102151.0,1,Presencial,2.16,1,Mujer,Linkedin,2,248372,90,75,Soltero,29,2021,11,high
+102604,102154.0,1,Presencial,3.5,1,Hombre,Referidos,4,305084,90,69,Soltero,33,2023,4,high
+102193,102124.0,1,Presencial,3.175,0,Mujer,Ferias & Networking,6,287345,90,74,Casado,29,2020,6,high
+102204,102052.0,1,Presencial,2.41,1,Hombre,Portal Web,5,287972,90,79,Casado,23,2014,1,high
+103225,102137.0,1,Presencial,2.29,1,Mujer,Linkedin,8,307579,90,78,Casado,34,2023,4,high
+102616,102043.0,1,Presencial,0.305,4,Hombre,Portal Web,2,332390,90,82,Casado,23,2012,7,high
+103412,102105.0,1,Presencial,1.24,1,Mujer,Referidos,5,348516,90,72,Casado,30,2018,4,high
+102371,102111.0,1,Presencial,6.81,0,Mujer,Ferias & Networking,6,366986,90,80,Casado,33,2019,10,high
+102454,102108.0,1,Presencial,2.62,2,Mujer,Portal Web,7,370270,90,80,Casado,32,2018,11,high
+103430,102130.0,1,Presencial,1.255,2,Mujer,Portal Web,5,389757,90,75,Casado,37,2022,6,high
+103401,102113.0,1,Presencial,1.28,3,Mujer,Portal Web,5,768607,90,72,Casado,35,2021,3,high
+103735,102112.0,1,Presencial,2.9,1,Mujer,Linkedin,6,407540,90,75,Soltero,33,2018,6,high
+104066,102026.0,1,Presencial,4.795,4,Hombre,Portal Web,7,410173,90,75,Soltero,28,2013,7,high
+103700,102139.0,1,Presencial,4.825,1,Mujer,Portal Web,7,411768,90,71,Casado,38,2023,6,high
+103150,102147.0,1,Presencial,5.44,2,Mujer,Ferias & Networking,7,407029,90,77,Soltero,38,2022,12,high
+103453,102092.0,1,Presencial,1.975,2,Hombre,Portal Web,7,407654,90,66,Divorciado,32,2017,7,high
+102409,102080.0,1,Presencial,1.855,1,Mujer,Referidos,9,771871,90,79,Soltero,32,2017,2,high
+103536,102069.0,1,Presencial,1.98,5,Mujer,Portal Web,11,412670,90,83,Casado,30,2014,12,high
+102938,102151.0,1,Presencial,4.11,2,Hombre,Referidos,5,431500,90,75,Casado,39,2023,1,high
+102416,102043.0,1,Presencial,2.905,2,Hombre,Referidos,7,425226,90,60,Casado,28,2012,6,high
+103061,102171.0,1,Presencial,5.06,3,Hombre,Portal Web,6,449662,90,72,Casado,40,2023,4,high
+102713,102124.0,1,Presencial,4.705,5,Mujer,Linkedin,10,450558,90,76,Divorciado,38,2021,5,high
+103934,102066.0,1,Presencial,2.5,3,Mujer,Ferias & Networking,11,445264,90,83,Soltero,33,2016,9,high
+103658,102057.0,1,Presencial,1.96,0,Mujer,Linkedin,10,466417,90,80,Soltero,33,2015,3,high
+102538,102052.0,1,Presencial,2.735,8,Hombre,Linkedin,10,469254,90,70,Divorciado,32,2013,11,high
+103079,102098.0,1,Presencial,2.845,1,Mujer,Portal Web,5,488414,90,82,Soltero,38,2019,3,high
+103335,102133.0,1,Presencial,2.71,0,Hombre,Portal Web,11,259076,90,71,Soltero,43,2022,4,high
+103224,102110.0,1,Presencial,5.52,1,Mujer,Portal Web,4,258007,90,70,Divorciado,41,2020,9,high
+102257,102132.0,1,Presencial,5.575,1,Hombre,Referidos,6,265354,90,78,Soltero,43,2020,12,high
+102857,102078.0,1,Presencial,1.63,3,Hombre,Portal Web,9,377685,90,82,Soltero,40,2017,7,high
+103181,102047.0,1,Presencial,2.83,2,Hombre,Portal Web,12,265614,90,85,Casado,36,2013,10,high
+102935,102135.0,1,Presencial,0.11,2,Mujer,Portal Web,10,443095,90,71,Casado,46,2022,6,high
+103930,102108.0,1,Presencial,5.095,2,Hombre,Portal Web,5,280910,90,75,Soltero,42,2019,2,high
+104038,102075.0,1,Presencial,3.505,7,Mujer,Linkedin,11,279479,90,77,Divorciado,40,2016,4,high
+102216,102074.0,1,Presencial,2.0,1,Hombre,Ferias & Networking,9,290122,90,77,Divorciado,39,2015,8,high
+104034,102141.0,1,Presencial,6.735,11,Hombre,Portal Web,4,300989,90,63,Divorciado,47,2022,4,high
+104129,102081.0,1,Presencial,2.855,2,Mujer,Portal Web,7,299364,90,85,Viudo,42,2017,6,high
+102633,102068.0,1,Presencial,5.1,1,Mujer,Portal Web,5,294010,90,81,Casado,42,2016,9,high
+102940,102074.0,1,Presencial,1.55,1,Mujer,Ferias & Networking,7,301942,90,62,Divorciado,41,2016,7,high
+103027,102025.0,1,Presencial,2.545,0,Mujer,Portal Web,5,298639,90,81,Divorciado,39,2013,8,high
+103490,102021.0,1,Presencial,2.455,1,Mujer,Portal Web,3,299955,90,59,Soltero,39,2013,7,high
+102273,102049.0,1,Presencial,4.68,3,Mujer,Portal Web,7,391291,90,74,Viudo,39,2013,6,high
+103581,102098.0,1,Presencial,3.95,3,Hombre,Portal Web,13,309003,90,80,Viudo,46,2020,2,high
+102960,102082.0,1,Presencial,2.31,1,Hombre,Linkedin,5,307093,90,83,Casado,43,2016,9,high
+102264,102148.0,1,Presencial,7.455,0,Mujer,Linkedin,13,838325,90,81,Divorciado,50,2022,11,high
+103631,102085.0,1,Presencial,1.165,2,Mujer,Portal Web,3,640130,90,83,Casado,45,2017,11,high
+102380,102035.0,1,Presencial,3.41,3,Hombre,Linkedin,13,637070,90,78,Divorciado,42,2015,3,high
+102333,102065.0,1,Presencial,3.955,2,Hombre,Portal Web,5,636387,90,69,Viudo,42,2015,2,high
+102269,102025.0,1,Presencial,4.61,3,Hombre,Portal Web,5,658857,90,70,Casado,41,2013,7,high
+103652,102113.0,1,Presencial,4.56,3,Hombre,Ferias & Networking,12,878061,90,80,Soltero,50,2021,4,high
+102961,102065.0,1,Presencial,1.67,0,Mujer,Ferias & Networking,9,655946,90,80,Soltero,43,2014,6,high
+103368,102064.0,1,Presencial,3.165,2,Mujer,Portal Web,17,676679,90,73,Soltero,45,2016,4,high
+103024,102070.0,1,Presencial,2.94,2,Hombre,Portal Web,13,861623,90,75,Viudo,44,2015,4,high
+104105,102043.0,1,Presencial,1.535,6,Hombre,Portal Web,4,675828,90,67,Casado,43,2014,7,high
+102462,102017.0,1,Presencial,3.4,3,Mujer,Ferias & Networking,7,680151,90,73,Casado,41,2012,3,high
+103940,102051.0,1,Presencial,1.725,6,Hombre,Portal Web,18,696033,90,79,Soltero,44,2014,3,high
+102277,102028.0,1,Presencial,6.485,2,Mujer,Portal Web,8,694888,90,77,Viudo,42,2012,1,high
+102738,102024.0,1,Presencial,3.365,1,Mujer,Ferias & Networking,12,714554,90,79,Casado,44,2013,3,high
+103345,102135.0,1,Presencial,2.81,2,Hombre,Portal Web,3,796016,90,83,Viudo,55,2023,1,high
+103518,102154.0,1,Presencial,3.5,2,Hombre,Portal Web,7,734692,90,74,Soltero,54,2022,3,high
+103766,102112.0,1,Presencial,1.295,0,Mujer,Portal Web,8,742294,90,82,Divorciado,50,2018,7,high
+103571,102097.0,1,Presencial,1.72,1,Mujer,Linkedin,5,740664,90,82,Divorciado,50,2017,9,high
+103541,102061.0,1,Presencial,5.385,2,Mujer,Referidos,19,734458,90,71,Divorciado,48,2016,8,high
+103238,102160.0,1,Presencial,1.02,7,Hombre,Portal Web,12,861797,90,68,Viudo,56,2023,1,high
+102797,102137.0,1,Presencial,4.57,1,Mujer,Portal Web,13,839610,90,75,Soltero,54,2021,4,high
+103802,102145.0,1,Presencial,2.19,1,Hombre,Portal Web,9,855287,90,82,Divorciado,57,2022,11,high
+102600,102025.0,1,Presencial,1.39,0,Mujer,Ferias & Networking,6,916653,90,71,Divorciado,48,2012,7,high
+103710,102107.0,1,Presencial,4.97,1,Mujer,Portal Web,7,895339,90,77,Soltero,57,2019,12,high
+100445,102142.0,1,Presencial,5.085,2,Hombre,Linkedin,3,182324,89,68,Casado,24,2021,9,high
+101590,102093.0,1,Presencial,0.6,1,Hombre,Headhunter,4,678886,89,94,Viudo,46,2016,12,high
+101787,102075.0,1,Presencial,6.205,0,Mujer,Portal Web,3,718167,89,83,Divorciado,47,2016,4,high
+100064,102137.0,1,Presencial,4.6,0,Mujer,Portal Web,13,835454,89,75,Soltero,54,2021,4,high
+102719,102064.0,1,Presencial,1.855,1,Mujer,Linkedin,1,138848,89,81,Divorciado,15,2015,3,high
+102242,102106.0,1,Presencial,1.785,1,Mujer,Ferias & Networking,3,142866,89,71,Soltero,18,2018,4,high
+102721,102155.0,1,Presencial,6.39,10,Mujer,Portal Web,1,160509,89,74,Soltero,25,2023,1,high
+102977,102087.0,1,Presencial,3.715,1,Hombre,Referidos,4,162926,89,82,Soltero,18,2016,5,high
+103112,102047.0,1,Presencial,4.38,2,Hombre,Referidos,2,328410,89,76,Casado,26,2014,12,high
+102527,102075.0,1,Presencial,1.475,1,Hombre,Ferias & Networking,2,368234,89,68,Casado,31,2017,10,high
+103948,102158.0,1,Presencial,1.56,5,Mujer,Ferias & Networking,7,288260,89,75,Casado,47,2022,11,high
+103377,102140.0,1,Presencial,2.35,1,Mujer,Linkedin,3,813300,89,76,Viudo,50,2023,3,high
+102907,102093.0,1,Presencial,0.65,0,Hombre,Headhunter,4,680838,89,94,Viudo,45,2016,12,high
+102215,102050.0,1,Presencial,1.535,2,Mujer,Referidos,16,655366,89,79,Divorciado,44,2015,12,high
+100277,102111.0,1,Presencial,5.04,2,Hombre,Portal Web,1,83315,88,81,Soltero,18,2020,9,high
+100796,102123.0,1,Presencial,2.18,3,Mujer,Ferias & Networking,1,80323,88,77,Soltero,17,2020,1,high
+100775,102127.0,1,Presencial,5.465,1,Hombre,Linkedin,15,311008,88,88,Soltero,47,2021,7,high
+100789,102050.0,1,Presencial,1.54,2,Mujer,Referidos,16,656734,88,79,Divorciado,44,2015,12,high
+102571,102123.0,1,Presencial,2.195,2,Mujer,Ferias & Networking,1,82740,88,77,Soltero,17,2020,1,high
+102311,102056.0,1,Presencial,5.845,8,Hombre,Portal Web,7,270023,88,70,Soltero,24,2016,4,high
+102433,102116.0,1,Presencial,2.225,3,Mujer,Referidos,6,351958,88,72,Casado,31,2018,10,high
+103633,102040.0,1,Presencial,1.08,2,Hombre,Portal Web,5,675664,88,71,Soltero,44,2015,6,high
+100319,102102.0,1,Presencial,2.145,0,Hombre,Headhunter,1,75669,87,69,Soltero,17,2020,7,high
+101879,102084.0,1,Presencial,2.185,3,Mujer,Referidos,2,145459,87,82,Soltero,18,2017,9,high
+100635,102064.0,1,Presencial,6.29,1,Mujer,Headhunter,3,286475,87,79,Soltero,24,2014,8,high
+102004,unknown,2,Presencial,3.13,1,Hombre,Portal Web,15,1616000,87,85,Viudo,49,2023,1,high
+101861,102026.0,1,Presencial,3.405,0,Hombre,Portal Web,10,913231,87,71,Casado,46,2013,1,high
+102376,102102.0,1,Presencial,2.135,0,Hombre,Headhunter,1,78906,87,69,Soltero,17,2020,7,high
+102866,102064.0,1,Presencial,6.32,0,Mujer,Headhunter,3,287023,87,79,Soltero,24,2014,8,high
+102516,102107.0,1,Presencial,1.41,3,Mujer,Linkedin,9,470910,87,80,Casado,37,2019,1,high
+103306,102081.0,1,Presencial,4.96,0,Mujer,Ferias & Networking,5,255156,87,67,Casado,39,2017,8,high
+104072,102172.0,1,Presencial,2.87,2,Mujer,Referidos,9,659407,87,74,Casado,51,2023,1,high
+103073,102051.0,1,Presencial,0.875,2,Mujer,Portal Web,18,819746,87,76,Viudo,45,2016,1,high
+102930,102026.0,1,Presencial,3.39,1,Hombre,Portal Web,10,915820,87,71,Divorciado,46,2013,1,high
+100817,102128.0,1,Presencial,4.955,2,Hombre,Linkedin,2,96971,86,68,Soltero,21,2022,11,high
+100370,102100.0,1,Presencial,6.855,2,Hombre,Portal Web,1,231664,86,77,Casado,24,2018,4,high
+100282,102107.0,1,Presencial,2.03,2,Mujer,Referidos,11,870480,86,77,Soltero,38,2018,11,high
+101838,102122.0,1,Presencial,3.195,0,Mujer,Linkedin,3,391788,86,77,Divorciado,45,2022,1,high
+100765,102149.0,1,Presencial,1.83,3,Hombre,Portal Web,13,450123,86,88,Viudo,46,2022,8,high
+100984,102016.0,1,Presencial,2.305,2,Hombre,Portal Web,15,288178,86,82,Divorciado,36,2012,1,high
+103249,102053.0,1,Presencial,1.56,2,Hombre,Portal Web,5,369153,86,82,Casado,27,2014,11,high
+103230,102004.0,1,Presencial,5.655,3,Hombre,Ferias & Networking,10,763722,86,67,Soltero,26,2012,3,high
+103972,102149.0,1,Presencial,1.865,3,Hombre,Portal Web,13,443723,86,88,Viudo,46,2022,8,high
+103269,102149.0,1,Presencial,2.535,2,Hombre,Linkedin,6,300171,86,66,Soltero,48,2022,11,high
+101999,102081.0,1,Presencial,6.245,2,Mujer,Ferias & Networking,3,347254,85,78,Soltero,31,2018,10,high
+100208,102149.0,1,Presencial,2.52,2,Hombre,Linkedin,6,297579,85,66,Soltero,48,2022,11,high
+100155,102092.0,1,Presencial,3.625,1,Mujer,Referidos,15,817823,85,67,Soltero,52,2017,11,high
+100712,102095.0,1,Presencial,1.79,2,Mujer,Linkedin,11,860870,85,80,Casado,56,2019,10,high
+102465,102145.0,1,Presencial,2.485,10,Mujer,Portal Web,5,266625,85,70,Casado,29,2021,5,high
+103892,102122.0,1,Presencial,3.23,0,Mujer,Linkedin,3,390786,85,77,Divorciado,45,2022,1,high
+102270,102114.0,1,Presencial,1.955,2,Mujer,Ferias & Networking,4,681462,85,67,Casado,49,2020,6,high
+104172,102137.0,1,Presencial,3.665,3,Hombre,Linkedin,8,702381,85,73,Soltero,53,2023,1,high
+103654,102080.0,1,Presencial,4.825,3,Hombre,Ferias & Networking,8,720453,85,70,Divorciado,46,2015,12,high
+103354,102092.0,1,Presencial,3.625,1,Mujer,Referidos,15,813478,85,67,Soltero,52,2017,11,high
+102451,102095.0,1,Presencial,1.82,2,Mujer,Portal Web,11,856692,85,80,Casado,56,2019,10,high
+101976,102038.0,1,Presencial,6.74,0,Hombre,Linkedin,2,185711,84,76,Casado,17,2012,10,high
+101651,102145.0,1,Presencial,2.45,10,Mujer,Portal Web,5,266889,84,70,Casado,29,2021,5,high
+100509,102026.0,1,Presencial,1.42,0,Mujer,Linkedin,6,310863,84,71,Soltero,24,2014,3,high
+100801,102137.0,1,Presencial,6.43,10,Hombre,Portal Web,12,491939,84,75,Casado,42,2022,9,high
+100264,102012.0,1,Presencial,2.495,3,Hombre,Referidos,3,439798,84,77,Divorciado,38,2013,5,high
+101086,102118.0,1,Presencial,1.01,0,Mujer,Linkedin,7,441732,84,87,Casado,47,2020,8,high
+100389,102051.0,1,Presencial,1.26,3,Mujer,Referidos,4,678715,84,80,Casado,44,2015,5,high
+100802,102059.0,1,Presencial,2.45,0,Hombre,Portal Web,7,681852,84,77,Viudo,43,2013,11,high
+101463,102045.0,1,Presencial,3.755,1,Hombre,Referidos,8,917225,84,62,Divorciado,45,2013,10,high
+103127,102124.0,1,Presencial,7.025,2,Hombre,Referidos,6,248045,84,75,Soltero,28,2021,5,high
+103237,102072.0,1,Presencial,3.785,0,Mujer,Portal Web,5,432426,84,71,Casado,34,2017,9,high
+103447,102098.0,1,Presencial,3.075,2,Hombre,Ferias & Networking,13,696278,84,69,Viudo,48,2018,2,high
+103370,102083.0,1,Presencial,6.19,5,Mujer,Referidos,18,835033,84,83,Viudo,46,2015,12,high
+100786,102115.0,1,Presencial,1.385,1,Mujer,Referidos,7,250380,83,77,Soltero,27,2020,4,high
+101723,102128.0,1,Presencial,4.21,8,Hombre,Linkedin,2,287452,83,71,Soltero,29,2020,3,high
+101075,102106.0,1,Presencial,4.965,2,Hombre,Linkedin,6,421013,83,72,Soltero,39,2018,5,high
+100815,102127.0,1,Presencial,1.24,12,Mujer,Portal Web,18,699457,83,76,Soltero,52,2022,4,high
+101911,102098.0,1,Presencial,3.03,1,Hombre,Ferias & Networking,13,696171,83,69,Viudo,48,2018,2,high
+100663,102052.0,1,Presencial,1.575,1,Hombre,Referidos,19,916163,83,81,Casado,49,2015,5,high
+104009,102171.0,1,Presencial,1.915,2,Mujer,Portal Web,1,119881,83,84,Casado,22,2023,6,high
+103731,102057.0,1,Presencial,1.405,6,Mujer,Portal Web,2,188077,83,80,Divorciado,21,2016,12,high
+102176,102038.0,1,Presencial,6.765,0,Hombre,Linkedin,2,189783,83,76,Casado,17,2012,10,high
+103697,102128.0,1,Presencial,4.2,8,Hombre,Linkedin,3,287431,83,71,Soltero,29,2020,3,high
+102335,102045.0,1,Presencial,3.75,1,Hombre,Referidos,8,914643,83,62,Divorciado,45,2013,11,high
+102729,102143.0,1,Presencial,2.13,2,Hombre,Portal Web,12,762120,83,74,Divorciado,55,2022,4,high
+100105,102094.0,1,Presencial,2.21,0,Mujer,Referidos,4,311745,82,61,Casado,28,2017,10,high
+102763,102021.0,1,Presencial,5.94,0,Hombre,Portal Web,10,693750,82,77,Casado,43,2012,4,high
+103044,102067.0,1,Presencial,1.75,1,Mujer,Portal Web,11,895127,82,70,Viudo,52,2017,6,high
+100524,102140.0,1,Presencial,2.3,2,Hombre,Portal Web,3,160749,81,61,Soltero,23,2022,8,high
+101543,102033.0,1,Presencial,2.725,1,Hombre,Portal Web,9,385097,81,81,Casado,26,2012,7,high
+100574,102124.0,1,Presencial,5.495,0,Hombre,Linkedin,9,388691,81,76,Soltero,34,2020,4,high
+100090,102139.0,1,Presencial,1.73,1,Mujer,Referidos,10,427089,81,85,Casado,38,2021,7,high
+101412,102106.0,1,Presencial,5.715,1,Hombre,Linkedin,5,465748,81,83,Soltero,37,2019,11,high
+101600,102094.0,1,Presencial,5.19,1,Mujer,Referidos,5,282212,81,82,Soltero,41,2018,8,high
+101186,102102.0,1,Presencial,3.315,12,Hombre,Linkedin,8,800990,81,85,Viudo,48,2018,1,high
+104159,102140.0,1,Presencial,2.285,1,Hombre,Portal Web,3,155403,81,61,Soltero,23,2022,8,high
+104132,102054.0,1,Presencial,0.92,2,Mujer,Portal Web,2,137738,81,72,Soltero,13,2013,5,high
+102696,102094.0,1,Presencial,2.18,0,Mujer,Referidos,4,306773,81,61,Casado,28,2017,10,high
+103970,102141.0,1,Presencial,6.465,2,Hombre,Portal Web,2,367417,81,72,Soltero,36,2023,6,high
+102562,102156.0,1,Presencial,2.195,1,Hombre,Portal Web,6,370732,81,79,Soltero,35,2022,5,high
+103259,102124.0,1,Presencial,5.52,0,Hombre,Linkedin,9,392004,81,76,Soltero,34,2020,4,high
+103117,102139.0,1,Presencial,1.76,0,Mujer,Referidos,10,424599,81,85,Soltero,38,2021,7,high
+103123,102133.0,1,Presencial,1.775,2,Hombre,Portal Web,5,489949,81,75,Casado,42,2022,12,high
+103290,102171.0,1,Presencial,2.23,2,Mujer,Linkedin,3,641550,81,70,Divorciado,50,2022,11,high
+101685,102041.0,1,Presencial,5.125,2,Mujer,Referidos,3,117886,90,64,Soltero,14,2015,5,high
+101329,102054.0,1,Presencial,0.915,3,Mujer,Portal Web,1,137879,92,72,Soltero,13,2013,5,high
+101644,102109.0,1,Presencial,1.78,2,Mujer,Ferias & Networking,3,188343,84,80,Soltero,23,2020,8,high
+102017,unknown,2,Presencial,4.62,0,Mujer,Linkedin,2,641000,90,84,Casado,25,2019,11,high
+101326,102035.0,1,Presencial,2.58,2,Hombre,Portal Web,7,346035,83,77,Casado,27,2014,9,high
+100517,102133.0,1,Presencial,1.765,3,Hombre,Portal Web,5,486540,81,75,Casado,42,2022,12,high
+100097,102080.0,1,Presencial,1.42,7,Hombre,Linkedin,3,490389,96,80,Casado,37,2018,3,high
+100395,102151.0,1,Presencial,3.21,1,Mujer,Referidos,7,278306,98,70,Divorciado,46,2022,6,high
+101816,102103.0,1,Presencial,1.78,2,Hombre,Referidos,7,634817,93,74,Soltero,46,2018,12,high
+101311,102048.0,1,Presencial,2.805,1,Hombre,Referidos,17,661756,89,69,Viudo,42,2014,6,high
+102055,unknown,2,Presencial,1.92,2,Hombre,Referidos,8,1616000,97,63,Casado,42,2013,2,high
+102948,102129.0,1,Presencial,6.6,1,Mujer,Ferias & Networking,9,424742,82,67,Casado,39,2023,1,high
+103875,102080.0,1,Presencial,1.44,8,Hombre,Linkedin,3,485403,96,80,Casado,37,2018,3,high
+102613,102041.0,1,Presencial,2.17,0,Mujer,Linkedin,3,269208,94,78,Casado,34,2012,4,high
+103109,102065.0,1,Presencial,1.355,2,Hombre,Portal Web,7,437030,89,69,Casado,40,2016,12,high
+103191,102048.0,1,Presencial,2.795,2,Hombre,Referidos,17,654623,93,69,Viudo,42,2014,6,high
+103047,102141.0,1,Presencial,1.83,1,Mujer,Referidos,17,835673,83,70,Soltero,52,2022,10,high
+103773,102074.0,1,Presencial,0.21,2,Mujer,Linkedin,5,720121,81,74,Casado,49,2017,9,high
+102488,102169.0,1,Presencial,1.75,1,Mujer,Referidos,13,735658,97,75,Divorciado,55,2023,3,high
+100489,102049.0,1,Presencial,6.02,2,Hombre,Ferias & Networking,1,122376,92,78,Soltero,12,2013,6,high
+100061,102088.0,1,Presencial,1.95,2,Hombre,Ferias & Networking,2,138088,84,73,Soltero,19,2019,3,high
+101830,102016.0,1,Presencial,1.955,2,Mujer,Portal Web,6,272802,84,83,Soltero,21,2012,11,high
+101229,102064.0,1,Presencial,2.19,1,Hombre,Portal Web,5,371029,92,72,Soltero,28,2015,3,high
+102126,unknown,2,Presencial,2.5,1,Mujer,Referidos,2,1049000,94,79,Casado,34,2021,1,high
+100727,102141.0,1,Presencial,3.335,2,Hombre,Linkedin,11,487532,81,62,Soltero,41,2021,11,high
+101487,102053.0,1,Presencial,1.355,0,Mujer,Ferias & Networking,13,266769,80,77,Casado,35,2013,4,high
+101649,102039.0,1,Presencial,3.805,2,Hombre,Referidos,10,302137,96,83,Casado,39,2013,7,high
+100036,102048.0,1,Presencial,3.4,2,Mujer,Portal Web,9,444574,90,81,Viudo,39,2013,4,high
+100811,102116.0,1,Presencial,5.99,2,Hombre,Linkedin,11,636725,85,80,Casado,46,2018,12,high
+100039,102141.0,1,Presencial,1.825,1,Mujer,Referidos,17,834568,82,70,Soltero,52,2022,10,high
+101663,102122.0,1,Presencial,7.0,2,Mujer,Ferias & Networking,8,675433,92,81,Soltero,51,2021,9,high
+101811,102074.0,1,Presencial,0.215,2,Mujer,Linkedin,5,713597,82,74,Casado,49,2017,9,high
+102040,unknown,2,Presencial,3.21,1,Hombre,Linkedin,15,1616000,91,84,Soltero,45,2016,7,high
+101164,102106.0,1,Presencial,2.035,3,Hombre,Referidos,6,799744,91,70,Viudo,53,2019,10,high
+101253,102096.0,1,Presencial,4.955,2,Hombre,Ferias & Networking,11,918287,94,80,Soltero,53,2019,4,high
+104068,102123.0,1,Presencial,2.49,9,Hombre,Linkedin,6,309963,92,69,Soltero,30,2019,11,high
+103239,102036.0,1,Presencial,1.02,1,Mujer,Portal Web,4,364884,95,79,Casado,25,2012,6,high
+103554,102073.0,1,Presencial,2.98,5,Mujer,Portal Web,5,448709,97,75,Casado,33,2016,10,high
+102377,102053.0,1,Presencial,1.35,1,Mujer,Ferias & Networking,13,264732,90,77,Casado,35,2013,4,high
+103527,102151.0,1,Presencial,3.19,0,Mujer,Referidos,7,280210,84,70,Divorciado,46,2022,6,high
+102230,102039.0,1,Presencial,3.81,1,Hombre,Referidos,11,296620,81,83,Casado,39,2013,7,high
+103298,102122.0,1,Presencial,6.99,2,Mujer,Ferias & Networking,8,676796,89,81,Soltero,51,2021,9,high
+102810,102108.0,1,Presencial,4.57,1,Hombre,Linkedin,14,917727,94,80,Divorciado,55,2018,4,high
+100772,102055.0,1,Presencial,1.28,0,Hombre,Portal Web,1,95554,93,84,Soltero,15,2016,5,high
+101802,102115.0,1,Presencial,2.22,9,Mujer,Portal Web,2,183038,89,74,Casado,23,2020,8,high
+101283,102035.0,1,Presencial,3.845,5,Hombre,Portal Web,3,250604,80,85,Casado,21,2014,10,high
+101942,102040.0,1,Presencial,2.38,3,Hombre,Linkedin,4,369235,85,75,Casado,25,2012,3,high
+101763,102168.0,1,Presencial,4.385,0,Hombre,Portal Web,5,388388,94,74,Soltero,37,2023,3,high
+100396,102073.0,1,Presencial,2.97,4,Mujer,Portal Web,5,452748,94,75,Casado,33,2016,10,high
+101042,102107.0,1,Presencial,1.74,8,Hombre,Linkedin,5,491043,92,74,Casado,39,2020,5,high
+100083,102104.0,1,Presencial,1.535,0,Mujer,Referidos,9,375428,96,82,Soltero,45,2020,7,high
+101519,102075.0,1,Presencial,1.74,0,Hombre,Portal Web,13,300186,98,81,Viudo,43,2018,4,high
+101462,102100.0,1,Presencial,1.89,3,Mujer,Portal Web,7,633919,88,72,Divorciado,44,2017,12,high
+100418,102069.0,1,Presencial,1.915,1,Mujer,Linkedin,13,305163,93,74,Divorciado,40,2014,7,high
+100566,102031.0,1,Presencial,1.915,0,Hombre,Linkedin,7,680810,95,82,Divorciado,43,2014,7,high
+100536,102080.0,1,Presencial,3.765,1,Mujer,Linkedin,7,699307,87,70,Divorciado,49,2018,10,high
+100558,102031.0,1,Presencial,5.45,1,Hombre,Ferias & Networking,5,695178,90,79,Soltero,43,2013,1,high
+104046,102132.0,1,Presencial,2.805,14,Mujer,Linkedin,2,136423,87,72,Soltero,22,2022,1,high
+104065,102088.0,1,Presencial,1.97,2,Hombre,Ferias & Networking,2,138150,84,73,Soltero,19,2019,3,high
+102362,102124.0,1,Presencial,3.47,2,Mujer,Portal Web,1,167169,82,61,Soltero,23,2021,4,high
+103742,102127.0,1,Presencial,1.5,1,Hombre,Linkedin,1,227910,83,71,Soltero,26,2020,4,high
+103409,102129.0,1,Presencial,1.215,2,Hombre,Portal Web,6,288172,82,71,Casado,30,2021,3,high
+104067,102066.0,1,Presencial,1.705,2,Mujer,Portal Web,6,289865,84,84,Soltero,25,2016,5,high
+102395,102111.0,1,Presencial,1.805,4,Mujer,Portal Web,3,327270,91,77,Casado,31,2019,8,high
+103994,102040.0,1,Presencial,1.75,6,Mujer,Linkedin,5,368088,88,70,Soltero,28,2015,6,high
+103574,102064.0,1,Presencial,2.2,2,Hombre,Portal Web,5,371715,87,72,Soltero,28,2015,3,high
+103668,102116.0,1,Presencial,1.875,10,Hombre,Portal Web,3,389097,83,80,Casado,35,2021,1,high
+102228,102128.0,1,Presencial,1.55,1,Mujer,Portal Web,4,445437,98,72,Casado,39,2021,7,high
+102471,102072.0,1,Presencial,1.84,3,Hombre,Portal Web,5,264110,92,84,Soltero,40,2017,9,high
+103194,102048.0,1,Presencial,3.4,2,Mujer,Portal Web,9,443206,81,81,Viudo,38,2013,4,high
+103097,102116.0,1,Presencial,6.03,2,Hombre,Linkedin,11,635455,97,80,Casado,46,2018,12,high
+102767,102100.0,1,Presencial,1.89,3,Mujer,Portal Web,7,634051,88,72,Divorciado,45,2017,12,high
+103826,102069.0,1,Presencial,3.6,5,Hombre,Linkedin,4,678529,90,83,Viudo,44,2015,1,high
+102603,102035.0,1,Presencial,2.02,1,Hombre,Portal Web,16,819421,83,78,Soltero,44,2013,11,high
+101477,102049.0,1,Presencial,6.33,8,Mujer,Linkedin,1,103393,83,76,Soltero,12,2013,10,high
+101530,102110.0,1,Presencial,7.04,0,Mujer,Portal Web,2,120345,93,77,Soltero,17,2018,4,high
+100449,102126.0,1,Presencial,5.46,1,Hombre,Portal Web,2,142786,91,83,Soltero,22,2020,8,high
+100068,102076.0,1,Presencial,2.145,2,Hombre,Portal Web,4,207920,95,72,Casado,21,2016,4,high
+101927,102127.0,1,Presencial,1.49,1,Hombre,Linkedin,1,228002,98,71,Soltero,26,2020,4,high
+100905,102067.0,1,Presencial,1.27,9,Hombre,Linkedin,3,231757,96,75,Divorciado,20,2014,8,high
+101006,102062.0,1,Presencial,2.25,0,Hombre,Linkedin,5,230777,83,75,Soltero,21,2014,8,high
+102148,unknown,2,Presencial,1.49,2,Mujer,Portal Web,2,539000,80,67,Soltero,26,2022,12,high
+101992,102116.0,1,Presencial,1.89,11,Hombre,Portal Web,3,389994,88,80,Casado,35,2021,1,high
+100044,102151.0,1,Presencial,3.63,2,Hombre,Ferias & Networking,8,432816,98,78,Casado,37,2021,11,high
+102007,unknown,2,Presencial,5.11,2,Mujer,Portal Web,6,1358450,96,62,Soltero,41,2022,4,high
+101399,102070.0,1,Presencial,2.27,1,Mujer,Portal Web,10,292008,86,74,Soltero,39,2015,4,high
+102161,unknown,2,Presencial,3.93,5,Mujer,Portal Web,4,1409960,85,77,Casado,36,2016,10,high
+100025,102039.0,1,Presencial,3.315,1,Hombre,Portal Web,15,761792,85,67,Viudo,40,2013,1,high
+100457,102112.0,1,Presencial,1.27,8,Hombre,Portal Web,4,656313,97,87,Viudo,49,2020,11,high
+100260,102022.0,1,Presencial,2.05,1,Mujer,Portal Web,5,678305,95,70,Viudo,42,2012,10,high
+101280,102068.0,1,Presencial,2.01,1,Mujer,Portal Web,9,720206,88,79,Casado,47,2016,8,high
+101331,102091.0,1,Presencial,2.37,2,Hombre,Referidos,8,737328,93,81,Casado,49,2017,1,high
+101057,102040.0,1,Presencial,1.6,8,Mujer,Portal Web,10,899738,95,72,Divorciado,45,2012,6,high
+102001,unknown,2,Presencial,1.58,1,Mujer,Linkedin,8,1616000,81,76,Casado,51,2023,2,high
+102102,unknown,2,Presencial,2.48,0,Hombre,Portal Web,5,1616000,92,63,Viudo,49,2019,4,high
+101779,102018.0,1,Presencial,1.57,2,Mujer,Linkedin,14,878820,81,78,Soltero,49,2013,1,high
+102169,unknown,2,Presencial,2.24,7,Mujer,Linkedin,11,1616000,93,74,Soltero,55,2021,4,high
+102656,102115.0,1,Presencial,2.225,8,Mujer,Portal Web,2,181703,89,74,Casado,23,2020,8,high
+102607,102035.0,1,Presencial,3.85,5,Hombre,Portal Web,3,253366,95,85,Casado,21,2014,10,high
+104039,102137.0,1,Presencial,1.27,0,Hombre,Portal Web,6,365149,83,62,Soltero,34,2021,1,high
+103045,102114.0,1,Presencial,0.205,3,Mujer,Linkedin,4,825970,89,75,Soltero,37,2020,8,high
+102184,102069.0,1,Presencial,2.985,1,Mujer,Ferias & Networking,4,824319,87,66,Casado,35,2017,1,high
+103481,102107.0,1,Presencial,1.755,8,Hombre,Linkedin,5,485681,96,74,Casado,39,2020,5,high
+103884,102119.0,1,Presencial,3.545,3,Mujer,Referidos,6,258170,86,69,Casado,40,2018,12,high
+102185,102021.0,1,Presencial,2.465,1,Hombre,Linkedin,11,399263,92,66,Casado,36,2013,9,high
+103852,102122.0,1,Presencial,2.27,1,Mujer,Linkedin,8,273749,81,63,Divorciado,44,2021,2,high
+102478,102104.0,1,Presencial,1.52,0,Mujer,Referidos,9,381403,94,82,Soltero,45,2020,7,high
+102974,102089.0,1,Presencial,1.37,1,Hombre,Referidos,8,309419,92,85,Divorciado,44,2018,11,high
+102716,102114.0,1,Presencial,3.585,2,Mujer,Portal Web,4,308293,87,77,Divorciado,44,2018,9,high
+102388,102039.0,1,Presencial,3.33,1,Hombre,Portal Web,15,758777,87,67,Viudo,40,2013,1,high
+102728,102112.0,1,Presencial,1.25,8,Hombre,Portal Web,4,655701,91,87,Viudo,49,2020,11,high
+103400,102139.0,1,Presencial,2.155,1,Mujer,Linkedin,11,701574,84,72,Viudo,52,2022,2,high
+102576,102080.0,1,Presencial,3.755,1,Mujer,Linkedin,7,702009,80,70,Divorciado,49,2018,10,high
+102658,102039.0,1,Presencial,2.61,1,Hombre,Portal Web,17,721813,91,76,Divorciado,44,2013,9,high
+100896,102028.0,1,Presencial,6.235,3,Hombre,Linkedin,1,95610,80,75,Soltero,12,2013,4,high
+100883,102172.0,1,Presencial,2.18,1,Mujer,Ferias & Networking,4,250238,84,75,Casado,30,2022,8,high
+100825,102100.0,1,Presencial,4.535,8,Mujer,Linkedin,5,293716,87,79,Soltero,27,2017,9,high
+102052,unknown,2,Presencial,4.45,0,Hombre,Linkedin,5,641000,84,76,Divorciado,17,2012,4,high
+101625,102093.0,1,Presencial,2.52,2,Hombre,Ferias & Networking,6,349225,81,83,Soltero,31,2019,3,high
+100447,102035.0,1,Presencial,5.09,1,Mujer,Portal Web,4,350850,91,71,Casado,26,2014,1,high
+101670,102069.0,1,Presencial,2.94,1,Mujer,Headhunter,4,828652,95,66,Casado,35,2017,1,high
+101895,102094.0,1,Presencial,1.905,3,Hombre,Portal Web,15,279538,89,76,Casado,42,2019,5,high
+101571,102078.0,1,Presencial,3.775,9,Hombre,Linkedin,8,297929,82,66,Soltero,42,2016,8,high
+102151,unknown,2,Presencial,1.51,2,Hombre,Ferias & Networking,10,1616000,85,80,Divorciado,45,2021,11,high
+100115,102105.0,1,Presencial,3.3,7,Mujer,Linkedin,8,681281,84,81,Casado,46,2017,8,high
+101198,102039.0,1,Presencial,2.6,2,Hombre,Portal Web,17,721244,95,76,Divorciado,45,2013,9,high
+102135,unknown,2,Presencial,2.04,1,Hombre,Portal Web,2,1616000,82,75,Divorciado,49,2017,10,high
+103612,102028.0,1,Presencial,6.235,2,Hombre,Linkedin,1,100876,85,75,Soltero,12,2013,4,high
+104141,102097.0,1,Presencial,1.69,9,Mujer,Portal Web,1,120730,80,74,Soltero,16,2017,3,high
+102820,102078.0,1,Presencial,2.0,2,Hombre,Referidos,5,189534,96,78,Soltero,22,2018,2,high
+102884,102100.0,1,Presencial,4.535,9,Mujer,Linkedin,5,290456,83,79,Viudo,26,2017,9,high
+103161,102056.0,1,Presencial,5.815,1,Mujer,Linkedin,6,311984,97,71,Soltero,24,2014,5,high
+102726,102068.0,1,Presencial,5.26,1,Mujer,Ferias & Networking,11,275155,88,78,Soltero,39,2016,3,high
+102644,102117.0,1,Presencial,2.01,4,Mujer,Portal Web,5,296613,94,62,Soltero,47,2021,9,high
+104097,102105.0,1,Presencial,3.275,7,Mujer,Portal Web,8,680221,98,81,Casado,46,2017,8,high
+102630,102091.0,1,Presencial,2.37,2,Hombre,Referidos,8,740586,89,81,Casado,49,2017,1,high
+102564,102044.0,1,Presencial,4.335,2,Hombre,Linkedin,5,920230,90,65,Casado,48,2014,5,high
+102965,102018.0,1,Presencial,1.575,3,Mujer,Linkedin,14,879081,81,78,Soltero,49,2013,1,high
+102981,102052.0,1,Presencial,2.51,1,Mujer,Linkedin,12,920219,82,77,Casado,54,2016,8,high
+100780,102081.0,1,Presencial,1.535,2,Hombre,Referidos,2,118184,96,77,Soltero,17,2018,2,high
+100008,102056.0,1,Presencial,5.84,2,Mujer,Linkedin,6,309654,91,71,Soltero,24,2014,5,high
+100764,102085.0,1,Presencial,3.99,2,Mujer,Referidos,3,373022,92,76,Casado,29,2016,4,high
+100154,102075.0,1,Presencial,2.835,2,Mujer,Referidos,10,408952,93,78,Divorciado,31,2017,2,high
+101384,102171.0,1,Presencial,1.18,0,Mujer,Referidos,8,409721,84,74,Casado,38,2023,5,high
+100869,102138.0,1,Presencial,2.955,7,Mujer,Portal Web,4,406138,92,71,Casado,36,2020,12,high
+100975,102132.0,1,Presencial,2.88,0,Hombre,Linkedin,4,469363,81,79,Viudo,38,2019,12,high
+100931,102144.0,1,Presencial,3.345,2,Mujer,Portal Web,13,508108,91,71,Casado,42,2022,8,high
+102130,unknown,2,Presencial,1.97,6,Hombre,Linkedin,5,1616000,84,73,Soltero,31,2014,4,high
+101538,102068.0,1,Presencial,5.31,0,Mujer,Ferias & Networking,11,274579,87,78,Soltero,39,2016,3,high
+100333,102011.0,1,Presencial,3.01,1,Mujer,Referidos,17,676607,96,85,Casado,42,2013,2,high
+100289,102052.0,1,Presencial,2.48,2,Mujer,Linkedin,12,919882,82,77,Casado,54,2016,8,high
+103569,102081.0,1,Presencial,1.555,2,Hombre,Referidos,2,122670,85,77,Soltero,17,2018,2,high
+104081,102078.0,1,Presencial,3.28,3,Mujer,Linkedin,3,115874,90,75,Soltero,17,2018,7,high
+103842,102046.0,1,Presencial,6.995,1,Hombre,Portal Web,1,140927,91,72,Soltero,16,2015,1,high
+102850,102171.0,1,Presencial,1.175,1,Mujer,Referidos,8,410495,91,74,Casado,39,2023,5,high
+103638,102111.0,1,Presencial,4.295,2,Hombre,Linkedin,4,467515,91,87,Casado,36,2018,4,high
+102353,102111.0,1,Presencial,5.54,2,Mujer,Linkedin,3,262465,85,69,Casado,41,2019,11,high
+102491,102026.0,1,Presencial,1.13,2,Mujer,Linkedin,13,407498,81,79,Casado,34,2012,7,high
+102477,102094.0,1,Presencial,1.95,2,Hombre,Portal Web,15,274491,84,76,Casado,42,2019,5,high
+102689,102011.0,1,Presencial,2.975,1,Mujer,Referidos,17,676213,85,85,Casado,42,2013,2,high
+102365,102123.0,1,Presencial,1.565,0,Mujer,Ferias & Networking,18,719200,82,75,Casado,52,2021,1,high
+100404,102085.0,1,Presencial,0.995,1,Mujer,Ferias & Networking,1,96906,81,76,Divorciado,14,2016,8,high
+101091,102057.0,1,Presencial,3.35,3,Hombre,Linkedin,10,756647,98,84,Viudo,43,2015,1,high
+100881,102076.0,1,Presencial,5.765,1,Hombre,Linkedin,3,754284,98,80,Viudo,48,2017,1,high
+102038,unknown,2,Presencial,2.06,1,Hombre,Portal Web,12,1616000,81,82,Casado,44,2018,1,high
+101085,102125.0,1,Presencial,3.43,2,Hombre,Portal Web,18,841377,95,82,Soltero,55,2022,3,high
+102794,102078.0,1,Presencial,5.02,5,Hombre,Portal Web,5,365476,90,72,Casado,31,2017,10,high
+103330,102027.0,1,Presencial,2.845,2,Hombre,Portal Web,5,365914,83,76,Casado,27,2013,9,high
+102702,102147.0,1,Presencial,1.76,3,Hombre,Referidos,9,256082,86,70,Casado,43,2022,8,high
+102657,102110.0,1,Presencial,2.015,0,Mujer,Portal Web,3,286320,87,76,Soltero,42,2018,4,high
+101290,102147.0,1,Presencial,1.775,2,Hombre,Referidos,9,262022,98,70,Casado,43,2022,8,high
+102082,unknown,2,Presencial,5.5,2,Mujer,Linkedin,7,1616000,81,70,Casado,36,2018,8,high
+102114,unknown,2,Presencial,1.44,1,Mujer,Portal Web,5,1616000,91,69,Divorciado,47,2021,5,high
+103622,102050.0,1,Presencial,4.445,2,Hombre,Portal Web,2,313257,97,75,Casado,25,2014,10,high
+104020,102138.0,1,Presencial,4.415,1,Mujer,Referidos,3,309969,83,88,Soltero,47,2021,9,high
+101376,102050.0,1,Presencial,4.575,2,Mujer,Ferias & Networking,4,408855,92,72,Soltero,31,2016,1,high
+100864,102163.0,1,Presencial,5.15,1,Hombre,Portal Web,7,373855,89,82,Casado,44,2023,4,high
+100653,102138.0,1,Presencial,4.415,2,Mujer,Referidos,3,306685,80,88,Soltero,47,2021,9,high
+102445,102050.0,1,Presencial,2.26,11,Mujer,Portal Web,1,188706,91,64,Casado,19,2016,1,high
+103026,102142.0,1,Presencial,2.13,11,Mujer,Linkedin,5,325077,90,86,Casado,33,2022,4,high
+104108,102146.0,1,Presencial,1.51,0,Hombre,Portal Web,12,296578,86,81,Casado,48,2023,4,high
+101390,102146.0,1,Presencial,1.525,1,Hombre,Portal Web,12,293695,80,81,Casado,48,2023,4,high
+102083,unknown,2,Presencial,1.61,0,Mujer,Portal Web,5,1564490,83,71,Soltero,44,2021,2,high
+101566,102147.0,1,Presencial,1.795,12,Hombre,Headhunter,4,919398,96,80,Casado,57,2022,11,high
+103724,102078.0,1,Presencial,4.31,2,Mujer,Linkedin,2,79211,88,72,Soltero,15,2018,8,high
+103302,102028.0,1,Presencial,3.35,2,Hombre,Ferias & Networking,1,98237,91,83,Soltero,10,2012,6,high
+102235,102070.0,1,Presencial,2.105,3,Mujer,Referidos,1,135684,91,75,Soltero,15,2015,1,high
+102553,102108.0,1,Presencial,3.335,2,Mujer,Referidos,3,180398,80,80,Soltero,21,2018,7,high
+103087,102107.0,1,Presencial,4.645,2,Mujer,Portal Web,3,231547,90,66,Soltero,27,2020,8,high
+102248,102117.0,1,Presencial,3.27,0,Mujer,Ferias & Networking,6,286247,98,74,Soltero,29,2020,5,high
+103146,102036.0,1,Presencial,1.975,9,Hombre,Linkedin,5,313478,95,75,Casado,24,2014,2,high
+103360,102050.0,1,Presencial,4.55,3,Mujer,Ferias & Networking,4,405863,84,72,Soltero,31,2016,1,high
+102213,102171.0,1,Presencial,3.64,2,Hombre,Ferias & Networking,5,805961,98,80,Casado,40,2023,4,high
+102443,102148.0,1,Presencial,1.83,3,Mujer,Portal Web,8,428391,96,70,Casado,44,2022,1,high
+100879,102048.0,1,Presencial,1.84,0,Mujer,Ferias & Networking,1,79098,97,74,Soltero,13,2015,7,high
+101021,102096.0,1,Presencial,6.32,10,Hombre,Portal Web,2,98041,88,73,Soltero,16,2018,5,high
+100207,102054.0,1,Presencial,1.635,0,Mujer,Ferias & Networking,3,141510,89,73,Soltero,16,2015,3,high
+100571,102070.0,1,Presencial,2.065,2,Mujer,Referidos,1,143130,82,75,Soltero,15,2015,1,high
+101205,102108.0,1,Presencial,3.32,3,Mujer,Referidos,3,180218,80,80,Soltero,21,2018,7,high
+101677,102108.0,1,Presencial,2.42,1,Mujer,Referidos,7,393510,83,65,Soltero,32,2018,2,high
+100579,102121.0,1,Presencial,2.88,3,Mujer,Portal Web,11,443614,80,69,Casado,45,2019,11,high
+101279,102071.0,1,Presencial,4.01,2,Hombre,Linkedin,3,377951,96,76,Casado,43,2017,12,high
+101638,102039.0,1,Presencial,6.365,2,Mujer,Portal Web,15,301589,82,72,Divorciado,40,2015,4,high
+100111,102136.0,1,Presencial,4.63,3,Mujer,Ferias & Networking,14,716817,95,66,Divorciado,54,2023,2,high
+102039,unknown,2,Presencial,3.66,0,Hombre,Referidos,5,1616000,93,75,Viudo,49,2018,6,high
+102036,unknown,2,Presencial,1.68,8,Hombre,Portal Web,5,1616000,92,76,Viudo,54,2022,1,high
+103382,102054.0,1,Presencial,1.66,1,Mujer,Ferias & Networking,3,143309,83,73,Soltero,16,2015,3,high
+102775,102071.0,1,Presencial,4.025,3,Hombre,Linkedin,3,381346,90,76,Casado,43,2017,12,high
+101145,102115.0,1,Presencial,3.885,2,Hombre,Linkedin,2,78505,93,75,Soltero,18,2020,10,high
+101435,102131.0,1,Presencial,1.595,2,Mujer,Portal Web,6,210588,90,78,Casado,25,2020,12,high
+100686,102082.0,1,Presencial,1.54,1,Hombre,Headhunter,6,804235,86,76,Soltero,34,2016,5,high
+101228,102115.0,1,Presencial,4.27,0,Mujer,Portal Web,12,270875,87,74,Casado,43,2021,1,high
+101267,102119.0,1,Presencial,3.39,5,Mujer,Portal Web,14,264053,82,70,Soltero,42,2020,1,high
+100533,102050.0,1,Presencial,4.53,1,Mujer,Ferias & Networking,10,701712,97,69,Divorciado,44,2014,7,high
+102752,102048.0,1,Presencial,1.825,0,Mujer,Ferias & Networking,1,83900,85,74,Soltero,13,2015,7,high
+103840,102082.0,1,Presencial,1.74,1,Hombre,Portal Web,2,96955,95,73,Soltero,15,2016,7,high
+102903,102037.0,1,Presencial,1.97,3,Hombre,Referidos,4,352992,91,68,Casado,26,2013,5,high
+103158,102082.0,1,Presencial,1.535,1,Hombre,Headhunter,6,804018,95,76,Soltero,34,2016,5,high
+104035,102125.0,1,Presencial,3.31,1,Hombre,Referidos,4,491372,84,72,Soltero,38,2019,4,high
+103665,102032.0,1,Presencial,2.335,4,Mujer,Referidos,5,257667,89,79,Soltero,34,2013,4,high
+104167,102119.0,1,Presencial,3.365,6,Mujer,Portal Web,15,271868,88,70,Soltero,42,2020,1,high
+102693,102034.0,1,Presencial,3.26,2,Hombre,Ferias & Networking,9,394600,95,78,Viudo,39,2013,2,high
+101667,102038.0,1,Presencial,2.385,0,Hombre,Headhunter,18,896665,93,85,Viudo,43,2012,10,high
+102074,unknown,2,Presencial,1.35,0,Hombre,Ferias & Networking,4,1616000,80,83,Viudo,43,2015,12,high
+100605,102028.0,1,Presencial,3.34,2,Mujer,Referidos,9,900905,97,62,Viudo,46,2014,8,high
+104157,102131.0,1,Presencial,1.58,2,Mujer,Portal Web,6,212684,84,78,Casado,25,2020,12,high
+102904,102115.0,1,Presencial,4.245,0,Mujer,Portal Web,12,270020,93,74,Casado,43,2021,1,high
+104015,102143.0,1,Presencial,2.11,1,Mujer,Linkedin,5,635586,84,70,Viudo,48,2020,11,high
+100440,102159.0,1,Presencial,3.05,1,Mujer,Portal Web,7,429579,94,88,Soltero,39,2022,10,high
+102412,102171.0,1,Presencial,6.85,1,Hombre,Referidos,8,452226,81,75,Soltero,40,2023,6,high
+103221,102056.0,1,Presencial,1.815,3,Hombre,Portal Web,6,276306,96,72,Casado,38,2015,5,high
+101152,102061.0,1,Presencial,2.46,0,Mujer,Ferias & Networking,8,274624,83,75,Casado,39,2016,11,high
+101605,102056.0,1,Presencial,1.815,2,Hombre,Portal Web,6,278866,88,72,Casado,38,2015,5,high
+102053,unknown,2,Presencial,1.29,0,Hombre,Portal Web,11,1616000,81,64,Soltero,36,2012,12,high
+103063,102030.0,1,Presencial,4.81,5,Mujer,Linkedin,6,790446,94,82,Casado,30,2013,6,high
+102941,102032.0,1,Presencial,3.71,0,Hombre,Portal Web,9,779978,88,71,Divorciado,42,2013,6,high
+100675,102054.0,1,Presencial,1.92,1,Mujer,Linkedin,2,164252,92,71,Soltero,18,2016,6,high
+100170,102102.0,1,Presencial,5.04,7,Hombre,Portal Web,3,387896,94,63,Casado,35,2020,8,high
+101795,102114.0,1,Presencial,2.195,5,Hombre,Linkedin,15,427144,89,77,Viudo,46,2020,3,high
+101252,102032.0,1,Presencial,3.72,1,Hombre,Portal Web,9,782182,86,71,Divorciado,42,2013,6,high
+103711,102085.0,1,Presencial,2.2,2,Hombre,Ferias & Networking,6,329585,85,75,Soltero,28,2017,5,high
+103572,102099.0,1,Presencial,2.56,9,Mujer,Portal Web,8,390423,90,91,Casado,32,2017,9,high
+102472,102037.0,1,Presencial,2.355,2,Mujer,Referidos,6,393182,90,76,Casado,28,2013,10,high
+104040,102026.0,1,Presencial,1.15,2,Hombre,Portal Web,9,429236,93,71,Soltero,28,2012,3,high
+102809,102134.0,1,Presencial,2.84,0,Mujer,Portal Web,10,264128,84,84,Casado,43,2020,11,high
+103589,102079.0,1,Presencial,1.955,2,Hombre,Referidos,7,457694,81,78,Soltero,40,2017,12,high
+103175,102114.0,1,Presencial,2.165,6,Hombre,Linkedin,15,423519,89,77,Viudo,46,2020,3,high
+101961,102109.0,1,Presencial,2.785,2,Mujer,Linkedin,8,327265,96,78,Viudo,30,2019,1,high
+100063,102007.0,1,Presencial,2.35,1,Hombre,Referidos,5,264076,97,75,Casado,34,2012,1,high
+101284,102100.0,1,Presencial,1.91,3,Mujer,Referidos,11,405250,91,83,Divorciado,44,2018,2,high
+101063,102089.0,1,Presencial,4.545,1,Hombre,Portal Web,12,896019,95,76,Divorciado,47,2019,7,high
+100331,102075.0,1,Presencial,1.975,2,Mujer,Referidos,8,719310,91,73,Casado,47,2016,5,high
+103927,102049.0,1,Presencial,1.775,2,Hombre,Portal Web,3,141213,92,78,Soltero,14,2014,3,high
+102394,102060.0,1,Presencial,1.845,1,Hombre,Ferias & Networking,2,193812,84,62,Soltero,20,2016,2,high
+103807,102128.0,1,Presencial,2.555,2,Hombre,Portal Web,8,308029,87,71,Casado,31,2021,5,high
+102641,102039.0,1,Presencial,3.21,0,Hombre,Portal Web,8,331290,80,81,Casado,26,2014,7,high
+100096,102128.0,1,Presencial,1.5,8,Hombre,Linkedin,10,409114,98,77,Soltero,35,2019,8,high
+102089,unknown,2,Presencial,2.75,1,Hombre,Ferias & Networking,6,1616000,96,69,Divorciado,60,2021,10,high
+104062,102077.0,1,Presencial,1.93,6,Hombre,Portal Web,5,786736,97,72,Soltero,33,2018,7,high
+103043,102112.0,1,Presencial,6.095,2,Hombre,Portal Web,2,470549,88,69,Casado,39,2020,10,high
+102446,102135.0,1,Presencial,2.75,3,Hombre,Portal Web,12,401396,88,78,Soltero,45,2020,5,high
+102975,102089.0,1,Presencial,4.53,2,Hombre,Portal Web,12,896822,98,76,Divorciado,47,2019,7,high
+102951,102067.0,1,Presencial,2.925,3,Mujer,Portal Web,4,898002,97,75,Casado,49,2017,2,high
+101172,102138.0,1,Presencial,4.05,7,Hombre,Portal Web,2,205041,83,74,Viudo,24,2020,5,high
+100895,102083.0,1,Presencial,2.42,1,Mujer,Portal Web,10,367115,86,78,Soltero,28,2015,11,high
+102073,unknown,2,Presencial,1.98,2,Hombre,Portal Web,11,1306940,95,86,Soltero,37,2019,7,high
+101451,102139.0,1,Presencial,1.67,12,Mujer,Linkedin,7,308062,96,74,Viudo,48,2021,11,high
+101104,102031.0,1,Presencial,5.59,1,Mujer,Portal Web,14,460556,90,72,Divorciado,38,2012,2,high
+100263,102119.0,1,Presencial,1.565,2,Hombre,Portal Web,3,878378,95,68,Casado,49,2021,9,high
+100122,102102.0,1,Presencial,1.865,2,Mujer,Ferias & Networking,9,822237,88,81,Viudo,51,2019,8,high
+102181,102023.0,1,Presencial,3.67,0,Hombre,Ferias & Networking,5,289850,94,79,Soltero,22,2013,8,high
+102759,102137.0,1,Presencial,2.25,2,Mujer,Portal Web,3,465300,98,77,Soltero,40,2021,10,high
+103308,102139.0,1,Presencial,1.645,11,Mujer,Linkedin,5,309250,91,74,Viudo,47,2021,11,high
+102688,102119.0,1,Presencial,1.53,3,Hombre,Portal Web,3,876863,89,68,Casado,49,2021,9,high
+100005,102158.0,1,Presencial,1.505,1,Mujer,Referidos,1,102728,80,78,Soltero,21,2022,7,high
+100320,102123.0,1,Presencial,4.39,1,Hombre,Portal Web,2,168109,81,68,Casado,22,2020,8,high
+100259,102106.0,1,Presencial,2.525,1,Mujer,Portal Web,7,407727,93,65,Casado,35,2020,4,high
+100993,102168.0,1,Presencial,1.315,1,Hombre,Portal Web,9,259435,85,72,Casado,44,2023,6,high
+100693,102054.0,1,Presencial,2.315,2,Mujer,Linkedin,13,433625,91,78,Casado,35,2013,10,high
+100603,102139.0,1,Presencial,2.49,2,Mujer,Linkedin,11,916130,95,79,Viudo,59,2022,11,high
+102303,102158.0,1,Presencial,1.525,1,Mujer,Referidos,1,96483,95,78,Soltero,21,2022,7,high
+103796,102105.0,1,Presencial,4.425,1,Mujer,Linkedin,1,103891,85,65,Soltero,17,2018,6,high
+103014,102142.0,1,Presencial,1.52,1,Hombre,Portal Web,3,163690,82,70,Soltero,24,2022,4,high
+104144,102138.0,1,Presencial,4.06,7,Hombre,Portal Web,2,203288,95,74,Viudo,24,2020,5,high
+103463,102060.0,1,Presencial,2.485,1,Mujer,Ferias & Networking,8,637075,88,75,Viudo,44,2016,6,high
+102550,102042.0,1,Presencial,1.48,1,Hombre,Portal Web,13,873238,80,85,Viudo,44,2015,5,high
+103500,102137.0,1,Presencial,0.88,2,Mujer,Linkedin,4,795232,94,78,Viudo,52,2022,11,high
+103501,102054.0,1,Presencial,1.31,2,Mujer,Linkedin,9,734878,89,71,Casado,47,2015,10,high
+102739,102030.0,1,Presencial,5.22,0,Mujer,Portal Web,7,734481,81,74,Divorciado,46,2013,11,high
+100740,102074.0,1,Presencial,2.315,1,Hombre,Linkedin,1,82029,91,83,Soltero,12,2015,1,high
+100829,102148.0,1,Presencial,1.005,2,Mujer,Linkedin,6,228184,91,67,Soltero,29,2023,1,high
+101188,102057.0,1,Presencial,2.19,1,Mujer,Portal Web,2,251897,84,79,Casado,24,2016,7,high
+100019,102084.0,1,Presencial,3.945,3,Hombre,Linkedin,7,288351,94,70,Casado,27,2018,2,high
+100631,102138.0,1,Presencial,5.06,2,Hombre,Portal Web,14,662472,85,70,Divorciado,51,2023,4,high
+100794,102042.0,1,Presencial,1.505,0,Hombre,Portal Web,13,879220,80,85,Viudo,44,2015,5,high
+100538,102137.0,1,Presencial,0.885,2,Mujer,Linkedin,4,800767,80,78,Viudo,51,2022,11,high
+101044,102054.0,1,Presencial,1.31,2,Mujer,Linkedin,9,733997,90,71,Casado,47,2015,9,high
+102457,102074.0,1,Presencial,2.31,1,Hombre,Linkedin,1,82974,90,83,Soltero,12,2015,1,high
+103433,102148.0,1,Presencial,0.97,3,Mujer,Linkedin,6,229674,96,67,Soltero,29,2023,1,high
+103130,102057.0,1,Presencial,2.205,1,Mujer,Portal Web,2,253078,81,79,Casado,24,2016,7,high
+102795,102142.0,1,Presencial,1.99,12,Hombre,Linkedin,7,331772,88,75,Casado,34,2022,8,high
+103108,102092.0,1,Presencial,1.055,2,Hombre,Referidos,6,775334,84,81,Casado,47,2016,12,high
+100386,102104.0,1,Presencial,6.17,3,Mujer,Portal Web,2,166082,97,66,Soltero,22,2020,3,high
+100520,102024.0,1,Presencial,1.475,1,Mujer,Portal Web,3,205280,84,79,Casado,16,2012,1,high
+101163,102100.0,1,Presencial,1.745,0,Hombre,Ferias & Networking,5,286445,97,71,Soltero,27,2017,5,high
+100555,102044.0,1,Presencial,1.105,1,Hombre,Ferias & Networking,8,328863,80,64,Casado,23,2012,8,high
+101674,102164.0,1,Presencial,1.825,3,Mujer,Portal Web,6,365983,91,68,Soltero,36,2022,12,high
+100223,102075.0,1,Presencial,2.315,8,Hombre,Linkedin,6,386124,92,79,Casado,30,2015,12,high
+101602,102044.0,1,Presencial,1.685,10,Mujer,Linkedin,3,388271,89,67,Soltero,27,2013,1,high
+101481,102113.0,1,Presencial,3.445,1,Hombre,Referidos,3,411602,82,77,Soltero,33,2018,5,high
+100668,102145.0,1,Presencial,5.71,1,Hombre,Ferias & Networking,5,792386,86,68,Casado,40,2020,12,high
+101531,102104.0,1,Presencial,3.88,2,Mujer,Ferias & Networking,5,487977,93,76,Soltero,38,2018,4,high
+101733,102059.0,1,Presencial,2.845,2,Mujer,Portal Web,7,484265,97,83,Soltero,33,2014,4,high
+101686,102125.0,1,Presencial,1.83,2,Hombre,Portal Web,13,278527,85,79,Divorciado,43,2020,6,high
+101031,102112.0,1,Presencial,4.14,1,Hombre,Linkedin,9,296283,92,77,Casado,45,2019,11,high
+101516,102023.0,1,Presencial,5.9,2,Mujer,Linkedin,12,661445,89,67,Soltero,41,2013,4,high
+103693,102055.0,1,Presencial,1.845,8,Mujer,Portal Web,5,180760,96,71,Soltero,17,2015,2,high
+103434,102043.0,1,Presencial,3.085,1,Hombre,Linkedin,5,186515,90,77,Soltero,18,2014,1,high
+102195,102142.0,1,Presencial,3.635,0,Hombre,Ferias & Networking,1,231475,92,75,Casado,28,2021,10,high
+103499,102100.0,1,Presencial,1.7,0,Hombre,Ferias & Networking,5,291959,90,71,Soltero,27,2017,5,high
+103913,102044.0,1,Presencial,5.97,3,Mujer,Linkedin,8,306898,85,79,Soltero,25,2015,6,high
+104128,102164.0,1,Presencial,1.85,3,Mujer,Portal Web,6,366785,85,68,Soltero,36,2022,12,high
+103664,102044.0,1,Presencial,1.705,10,Mujer,Linkedin,3,393514,88,67,Soltero,27,2013,1,high
+102698,102113.0,1,Presencial,3.46,2,Hombre,Referidos,3,412371,93,77,Soltero,33,2018,4,high
+103057,102119.0,1,Presencial,1.785,2,Hombre,Portal Web,12,464934,85,76,Divorciado,40,2021,12,high
+102701,102082.0,1,Presencial,6.81,8,Mujer,Linkedin,14,266776,90,76,Casado,41,2018,7,high
+102523,102085.0,1,Presencial,5.795,1,Hombre,Linkedin,12,288487,89,88,Casado,42,2018,10,high
+102296,102112.0,1,Presencial,4.165,1,Hombre,Portal Web,9,296281,86,77,Casado,45,2019,11,high
+103867,102114.0,1,Presencial,6.065,7,Hombre,Portal Web,6,307826,84,77,Divorciado,46,2019,10,high
+102743,102130.0,1,Presencial,2.395,1,Hombre,Linkedin,9,695247,89,63,Divorciado,52,2022,10,high
+101183,102041.0,1,Presencial,5.75,1,Hombre,Ferias & Networking,2,119883,89,75,Soltero,14,2014,11,high
+100467,102043.0,1,Presencial,3.085,2,Hombre,Linkedin,5,187644,81,77,Soltero,17,2014,1,high
+100398,102151.0,1,Presencial,5.175,1,Hombre,Headhunter,4,266865,84,70,Casado,30,2022,9,high
+101518,102129.0,1,Presencial,2.11,1,Hombre,Portal Web,7,246586,96,65,Soltero,27,2020,7,high
+101160,102140.0,1,Presencial,6.575,0,Hombre,Ferias & Networking,7,289311,94,75,Soltero,30,2021,4,high
+101691,102044.0,1,Presencial,5.99,3,Mujer,Linkedin,8,313254,85,79,Soltero,25,2015,6,high
+101119,102044.0,1,Presencial,4.69,4,Hombre,Referidos,3,327091,98,72,Soltero,25,2014,11,high
+100699,102172.0,1,Presencial,2.39,1,Hombre,Referidos,8,792202,93,64,Casado,37,2022,11,high
+101977,102058.0,1,Presencial,2.375,2,Mujer,Referidos,5,432693,93,72,Soltero,29,2013,9,high
+100232,102040.0,1,Presencial,1.345,1,Hombre,Referidos,5,768163,92,83,Soltero,30,2013,1,high
+101656,102119.0,1,Presencial,1.75,2,Hombre,Portal Web,12,470811,81,76,Divorciado,40,2021,12,high
+100341,102085.0,1,Presencial,1.655,1,Mujer,Portal Web,9,243779,87,61,Casado,39,2018,8,high
+100597,102105.0,1,Presencial,4.095,2,Mujer,Linkedin,8,255103,92,79,Casado,39,2018,10,high
+100276,102082.0,1,Presencial,6.77,8,Mujer,Linkedin,14,267580,88,76,Casado,41,2018,7,high
+102028,unknown,2,Presencial,1.39,2,Mujer,Linkedin,12,1358450,97,72,Soltero,35,2016,12,high
+102086,unknown,2,Presencial,2.22,2,Mujer,Linkedin,7,1306940,87,68,Divorciado,39,2021,3,high
+102150,unknown,2,Presencial,3.9,8,Mujer,Portal Web,10,1358450,85,75,Casado,32,2012,12,high
+101689,102085.0,1,Presencial,5.77,2,Hombre,Linkedin,12,284655,86,88,Casado,42,2018,10,high
+101622,102048.0,1,Presencial,4.41,1,Hombre,Ferias & Networking,3,309096,97,81,Soltero,42,2016,2,high
+102022,unknown,2,Presencial,2.07,0,Hombre,Portal Web,6,1616000,94,66,Viudo,47,2020,5,high
+101378,102081.0,1,Presencial,3.78,6,Hombre,Linkedin,6,893594,84,86,Casado,52,2017,2,high
+102035,unknown,2,Presencial,2.86,1,Hombre,Portal Web,23,1900000,83,72,Casado,57,2013,8,high
+103392,102041.0,1,Presencial,5.735,1,Hombre,Ferias & Networking,2,122600,82,75,Soltero,14,2014,11,high
+104092,102129.0,1,Presencial,2.105,2,Hombre,Portal Web,7,253675,83,65,Soltero,27,2020,7,high
+103163,102145.0,1,Presencial,5.715,1,Hombre,Ferias & Networking,5,791189,98,68,Casado,40,2020,12,high
+103323,102081.0,1,Presencial,4.63,2,Mujer,Ferias & Networking,7,274422,92,85,Viudo,39,2016,8,high
+104044,102125.0,1,Presencial,1.84,2,Hombre,Portal Web,13,277936,80,79,Divorciado,44,2020,6,high
+102968,102048.0,1,Presencial,4.445,2,Hombre,Ferias & Networking,3,312292,97,81,Soltero,42,2016,2,high
+103218,102031.0,1,Presencial,2.215,1,Mujer,Portal Web,6,895724,88,88,Viudo,49,2012,3,high
+100426,102043.0,1,Presencial,2.34,0,Mujer,Referidos,1,208498,98,67,Soltero,19,2014,2,high
+100215,102084.0,1,Presencial,1.67,8,Mujer,Portal Web,4,428422,90,65,Casado,33,2016,7,high
+102110,unknown,2,Presencial,1.6,5,Mujer,Linkedin,2,998000,87,76,Soltero,29,2016,11,high
+100074,102045.0,1,Presencial,2.405,2,Hombre,Portal Web,14,440246,90,70,Casado,37,2013,2,high
+100082,102065.0,1,Presencial,5.35,6,Mujer,Portal Web,3,837045,92,72,Soltero,45,2017,5,high
+100406,102018.0,1,Presencial,3.13,1,Mujer,Portal Web,8,797939,98,71,Divorciado,42,2013,2,high
+103300,102024.0,1,Presencial,4.725,3,Mujer,Referidos,8,486856,86,77,Soltero,31,2012,7,high
+102875,102018.0,1,Presencial,3.155,1,Mujer,Portal Web,8,796781,83,71,Divorciado,42,2013,1,high
+100325,102003.0,1,Presencial,4.48,3,Mujer,Linkedin,3,227618,83,77,Casado,18,2012,6,high
+101570,102062.0,1,Presencial,1.35,0,Mujer,Portal Web,3,445745,90,76,Soltero,34,2016,11,high
+101767,102037.0,1,Presencial,1.81,3,Mujer,Portal Web,9,695104,88,73,Viudo,43,2013,7,high
+103677,102003.0,1,Presencial,4.495,2,Mujer,Linkedin,3,226487,92,77,Casado,18,2012,6,high
+103005,102073.0,1,Presencial,5.765,1,Mujer,Portal Web,9,407185,98,86,Casado,31,2016,6,high
+102343,102062.0,1,Presencial,1.35,1,Mujer,Portal Web,3,451669,87,76,Soltero,34,2016,12,high
+100937,102101.0,1,Presencial,0.855,2,Mujer,Linkedin,1,140559,85,77,Soltero,19,2018,6,high
+100565,102154.0,1,Presencial,4.95,0,Hombre,Linkedin,6,227557,89,70,Soltero,28,2022,7,high
+101817,102115.0,1,Presencial,3.105,2,Hombre,Ferias & Networking,3,246416,81,70,Casado,26,2018,10,high
+100769,102150.0,1,Presencial,5.43,7,Hombre,Portal Web,9,390718,91,61,Soltero,37,2022,7,high
+100149,102117.0,1,Presencial,1.94,1,Mujer,Referidos,6,788434,85,77,Casado,36,2020,12,high
+100243,102013.0,1,Presencial,1.49,3,Mujer,Portal Web,6,877505,86,70,Casado,46,2012,12,high
+103215,102109.0,1,Presencial,5.855,2,Mujer,Referidos,1,250693,90,74,Soltero,27,2020,11,high
+103715,102150.0,1,Presencial,5.435,6,Hombre,Portal Web,9,390678,82,61,Soltero,37,2022,7,high
+102367,102117.0,1,Presencial,1.935,1,Mujer,Referidos,6,790710,81,77,Casado,36,2020,12,high
+100152,102110.0,1,Presencial,3.945,0,Hombre,Portal Web,1,180570,90,79,Casado,24,2020,12,high
+101204,102084.0,1,Presencial,1.445,1,Hombre,Linkedin,5,307154,91,64,Casado,28,2017,11,high
+100577,102152.0,1,Presencial,0.955,1,Mujer,Portal Web,5,301061,80,86,Divorciado,47,2021,7,high
+101478,102075.0,1,Presencial,1.69,2,Mujer,Linkedin,3,419357,92,81,Viudo,41,2016,6,high
+102026,unknown,2,Presencial,2.7,1,Mujer,Portal Web,15,1616000,97,79,Casado,58,2017,6,high
+103479,102101.0,1,Presencial,0.825,1,Mujer,Linkedin,1,146416,96,77,Soltero,19,2018,6,high
+102549,102068.0,1,Presencial,1.9,0,Mujer,Linkedin,1,160667,97,82,Soltero,19,2016,9,high
+103588,102110.0,1,Presencial,3.96,0,Hombre,Portal Web,1,185488,92,79,Casado,24,2020,12,high
+103336,102064.0,1,Presencial,2.48,1,Mujer,Portal Web,7,420718,97,76,Casado,38,2017,6,high
+102515,102056.0,1,Presencial,1.98,0,Mujer,Linkedin,10,269612,86,76,Divorciado,36,2013,11,high
+102703,102172.0,1,Presencial,1.645,2,Hombre,Referidos,12,317459,88,70,Casado,50,2023,6,high
+103013,102098.0,1,Presencial,3.505,2,Hombre,Ferias & Networking,13,873262,96,87,Divorciado,45,2017,7,high
+102950,102048.0,1,Presencial,6.205,2,Mujer,Portal Web,18,742229,86,71,Divorciado,47,2015,7,high
+101105,102068.0,1,Presencial,1.91,1,Mujer,Linkedin,1,165775,87,82,Soltero,19,2016,9,high
+101804,102069.0,1,Presencial,3.295,2,Mujer,Portal Web,3,186157,85,71,Soltero,20,2017,2,high
+100402,102096.0,1,Presencial,1.15,5,Mujer,Portal Web,6,326166,89,68,Casado,30,2018,6,high
+102714,102096.0,1,Presencial,1.135,4,Mujer,Portal Web,6,327055,88,68,Casado,30,2018,6,high
+102417,102065.0,1,Presencial,2.01,9,Hombre,Portal Web,1,141722,92,76,Soltero,16,2016,3,high
+100485,102101.0,1,Presencial,1.81,1,Mujer,Ferias & Networking,2,143062,94,72,Casado,18,2017,8,high
+100746,102122.0,1,Presencial,1.895,1,Hombre,Ferias & Networking,3,163646,91,76,Soltero,22,2020,5,high
+100043,102011.0,1,Presencial,1.42,1,Mujer,Portal Web,6,328927,96,82,Soltero,24,2012,12,high
+100600,102010.0,1,Presencial,1.32,1,Mujer,Portal Web,8,408888,98,69,Soltero,27,2012,3,high
+101758,102138.0,1,Presencial,1.01,4,Hombre,Portal Web,5,310423,94,77,Soltero,48,2022,12,high
+101434,102105.0,1,Presencial,4.605,0,Hombre,Referidos,8,310809,85,76,Viudo,44,2018,2,high
+100718,102091.0,1,Presencial,2.46,2,Mujer,Linkedin,9,405082,88,81,Divorciado,43,2017,5,high
+101577,102153.0,1,Presencial,3.925,1,Mujer,Portal Web,7,676172,95,76,Viudo,50,2021,9,high
+101932,102036.0,1,Presencial,2.475,0,Hombre,Portal Web,4,720228,89,71,Casado,43,2012,12,high
+101772,102031.0,1,Presencial,1.695,1,Mujer,Referidos,21,901724,85,80,Casado,49,2013,4,high
+104075,102094.0,1,Presencial,1.4,2,Mujer,Portal Web,1,100872,89,74,Soltero,16,2018,6,high
+102422,102102.0,1,Presencial,4.52,2,Hombre,Ferias & Networking,1,227979,88,75,Soltero,25,2018,10,high
+102502,102026.0,1,Presencial,2.035,0,Mujer,Portal Web,1,226937,82,74,Soltero,19,2013,3,high
+103732,102071.0,1,Presencial,1.305,0,Mujer,Linkedin,7,331890,98,74,Soltero,27,2016,12,high
+102942,102011.0,1,Presencial,1.44,1,Mujer,Portal Web,6,333345,87,82,Soltero,24,2012,12,high
+102336,102069.0,1,Presencial,6.265,8,Mujer,Portal Web,5,351052,92,74,Soltero,29,2017,5,high
+102949,102083.0,1,Presencial,5.88,1,Hombre,Linkedin,6,468818,83,75,Casado,35,2016,6,high
+102673,102103.0,1,Presencial,2.19,1,Hombre,Portal Web,12,264111,82,61,Soltero,41,2019,11,high
+103531,102121.0,1,Presencial,1.68,5,Hombre,Portal Web,10,269868,87,83,Soltero,45,2022,6,high
+102258,102092.0,1,Presencial,5.08,0,Mujer,Referidos,12,285019,82,72,Soltero,41,2017,1,high
+102804,102088.0,1,Presencial,1.56,2,Mujer,Linkedin,14,312036,87,87,Soltero,44,2018,6,high
+102983,102091.0,1,Presencial,2.47,3,Mujer,Linkedin,9,406177,91,81,Divorciado,42,2017,5,high
+103682,102116.0,1,Presencial,2.015,2,Hombre,Ferias & Networking,5,642085,82,72,Viudo,48,2020,9,high
+102583,102153.0,1,Presencial,3.925,2,Mujer,Portal Web,7,682624,92,76,Viudo,50,2021,9,high
+103750,102067.0,1,Presencial,1.475,2,Hombre,Portal Web,3,736279,96,66,Casado,49,2017,9,high
+103287,102031.0,1,Presencial,1.685,2,Mujer,Referidos,20,898122,83,80,Casado,49,2013,4,high
+101973,102144.0,1,Presencial,2.225,1,Mujer,Portal Web,3,138624,84,68,Soltero,23,2023,3,high
+100809,102122.0,1,Presencial,1.77,2,Mujer,Portal Web,1,139161,88,82,Soltero,19,2019,1,high
+100791,102104.0,1,Presencial,2.605,3,Mujer,Referidos,2,166920,92,75,Soltero,22,2019,12,high
+101019,102065.0,1,Presencial,5.735,0,Mujer,Ferias & Networking,4,229014,90,72,Casado,24,2017,9,high
+102014,unknown,2,Presencial,1.78,1,Mujer,Portal Web,2,488000,98,78,Soltero,25,2023,1,high
+101411,102096.0,1,Presencial,3.96,0,Mujer,Portal Web,4,269006,88,76,Casado,28,2020,4,high
+101607,102094.0,1,Presencial,2.38,11,Mujer,Linkedin,5,267730,97,76,Soltero,27,2019,4,high
+100510,102047.0,1,Presencial,1.475,1,Mujer,Portal Web,7,312053,82,74,Casado,25,2015,10,high
+101876,102099.0,1,Presencial,7.6,2,Hombre,Linkedin,2,311691,98,71,Casado,28,2017,9,high
+100067,102071.0,1,Presencial,1.3,0,Mujer,Linkedin,7,333688,85,74,Soltero,27,2016,12,high
+100977,102142.0,1,Presencial,6.395,2,Mujer,Portal Web,3,329986,83,74,Casado,32,2021,4,high
+100508,102171.0,1,Presencial,1.37,1,Hombre,Portal Web,4,405453,92,72,Soltero,38,2023,6,high
+102109,unknown,2,Presencial,3.86,1,Mujer,Portal Web,5,998000,97,82,Casado,32,2019,9,high
+100735,102123.0,1,Presencial,1.6,3,Mujer,Portal Web,12,849030,98,82,Casado,37,2019,2,high
+100585,102077.0,1,Presencial,4.295,3,Mujer,Linkedin,4,845456,82,69,Soltero,36,2017,11,high
+101837,102102.0,1,Presencial,2.835,1,Hombre,Linkedin,9,809260,86,79,Divorciado,39,2020,7,high
+101029,102112.0,1,Presencial,1.67,0,Mujer,Linkedin,15,378245,97,76,Divorciado,43,2018,3,high
+101417,102129.0,1,Presencial,1.005,1,Hombre,Linkedin,11,418469,89,63,Viudo,46,2020,2,high
+100806,102116.0,1,Presencial,4.0,0,Mujer,Referidos,14,657322,93,72,Divorciado,47,2019,5,high
+102064,unknown,2,Presencial,1.34,0,Hombre,Portal Web,6,1616000,92,92,Casado,43,2018,2,high
+101415,102067.0,1,Presencial,1.47,2,Hombre,Portal Web,3,741647,91,66,Casado,49,2017,9,high
+100749,102137.0,1,Presencial,1.86,2,Mujer,Referidos,7,734277,89,71,Casado,53,2021,3,high
+101946,102153.0,1,Presencial,3.59,2,Hombre,Portal Web,9,918753,96,80,Divorciado,58,2023,1,high
+102029,unknown,2,Presencial,5.79,2,Hombre,Portal Web,16,1616000,80,84,Casado,49,2017,9,high
+100257,102132.0,1,Presencial,5.25,8,Mujer,Linkedin,6,856924,94,75,Divorciado,58,2021,9,high
+100674,102108.0,1,Presencial,1.63,0,Mujer,Linkedin,10,920911,84,67,Divorciado,58,2020,7,high
+102101,unknown,2,Presencial,6.23,0,Hombre,Portal Web,26,1616000,92,68,Divorciado,55,2014,1,high
+103623,102089.0,1,Presencial,1.835,1,Mujer,Linkedin,2,83936,80,98,Soltero,16,2019,3,high
+103223,102101.0,1,Presencial,1.79,2,Mujer,Ferias & Networking,2,146479,89,72,Casado,18,2017,8,high
+103929,102119.0,1,Presencial,2.095,2,Mujer,Ferias & Networking,2,182791,84,64,Soltero,22,2019,1,high
+104071,102079.0,1,Presencial,2.44,2,Hombre,Referidos,1,185396,98,75,Soltero,21,2018,1,high
+103387,102070.0,1,Presencial,4.91,2,Mujer,Linkedin,1,187433,98,70,Soltero,21,2016,6,high
+103939,102131.0,1,Presencial,4.54,1,Mujer,Portal Web,4,270882,85,84,Casado,28,2020,10,high
+102428,102096.0,1,Presencial,3.955,0,Mujer,Portal Web,4,270434,81,76,Casado,28,2020,4,high
+102861,102014.0,1,Presencial,4.13,1,Hombre,Ferias & Networking,2,290432,93,82,Casado,21,2012,10,high
+103681,102047.0,1,Presencial,1.485,1,Mujer,Portal Web,7,304771,93,74,Casado,25,2015,10,high
+103822,102142.0,1,Presencial,6.38,2,Mujer,Portal Web,3,330753,85,74,Casado,32,2021,4,high
+102589,102099.0,1,Presencial,7.6,2,Hombre,Linkedin,2,311489,87,71,Casado,28,2017,9,high
+103328,102129.0,1,Presencial,3.505,1,Hombre,Portal Web,3,326682,86,75,Casado,31,2020,2,high
+102350,102041.0,1,Presencial,1.675,1,Mujer,Portal Web,2,388577,91,71,Soltero,28,2014,9,high
+102512,102097.0,1,Presencial,4.66,1,Hombre,Linkedin,11,428675,86,75,Casado,35,2019,7,high
+102685,102010.0,1,Presencial,1.355,1,Mujer,Portal Web,8,409018,98,69,Soltero,27,2012,3,high
+102880,102109.0,1,Presencial,2.545,2,Mujer,Referidos,4,466567,98,77,Soltero,38,2020,12,high
+103850,102077.0,1,Presencial,4.29,2,Mujer,Linkedin,4,850127,90,69,Soltero,36,2017,11,high
+103241,102102.0,1,Presencial,2.825,1,Hombre,Linkedin,9,806013,95,79,Divorciado,39,2020,7,high
+102369,102041.0,1,Presencial,1.55,2,Mujer,Linkedin,6,511828,82,70,Divorciado,36,2015,10,high
+104064,102032.0,1,Presencial,2.535,3,Mujer,Portal Web,7,257764,94,79,Casado,35,2014,6,high
+102813,102105.0,1,Presencial,4.615,1,Hombre,Referidos,8,311511,94,76,Viudo,44,2018,2,high
+102610,102144.0,1,Presencial,4.785,3,Mujer,Referidos,5,660243,84,68,Divorciado,50,2021,9,high
+103726,102112.0,1,Presencial,2.245,2,Mujer,Portal Web,4,695922,82,77,Casado,48,2018,8,high
+101218,102045.0,1,Presencial,3.02,1,Hombre,Ferias & Networking,1,99657,88,80,Soltero,12,2013,8,high
+101310,102056.0,1,Presencial,1.79,0,Hombre,Portal Web,3,163660,81,83,Casado,17,2016,3,high
+101208,102069.0,1,Presencial,1.495,2,Mujer,Portal Web,1,163445,84,76,Soltero,17,2015,5,high
+101332,102119.0,1,Presencial,2.09,1,Mujer,Ferias & Networking,2,183897,84,64,Soltero,22,2019,1,high
+101156,102086.0,1,Presencial,3.04,1,Mujer,Linkedin,5,273003,92,72,Soltero,27,2019,1,high
+100689,102129.0,1,Presencial,3.495,2,Hombre,Portal Web,3,332707,95,75,Casado,31,2020,2,high
+100354,102052.0,1,Presencial,6.06,1,Mujer,Referidos,11,453026,97,72,Casado,32,2015,10,high
+101261,102032.0,1,Presencial,2.54,4,Mujer,Portal Web,7,258081,82,79,Casado,35,2014,6,high
+101439,102121.0,1,Presencial,2.535,2,Mujer,Linkedin,10,433399,88,70,Casado,44,2022,1,high
+101224,102124.0,1,Presencial,2.085,2,Mujer,Portal Web,6,307104,89,83,Casado,47,2021,2,high
+100608,102047.0,1,Presencial,2.765,2,Mujer,Ferias & Networking,13,457527,93,87,Soltero,41,2014,10,high
+100437,102114.0,1,Presencial,1.755,11,Hombre,Portal Web,4,675685,83,86,Casado,50,2020,12,high
+103485,102057.0,1,Presencial,6.645,2,Mujer,Linkedin,1,97212,80,65,Soltero,11,2013,11,high
+104027,102122.0,1,Presencial,1.75,2,Mujer,Linkedin,1,136755,88,82,Soltero,19,2019,1,high
+104149,102131.0,1,Presencial,2.04,1,Mujer,Linkedin,7,251902,93,87,Divorciado,28,2021,3,high
+102890,102042.0,1,Presencial,2.105,2,Hombre,Ferias & Networking,2,312907,92,70,Casado,25,2015,4,high
+103457,102073.0,1,Presencial,3.145,4,Hombre,Portal Web,3,348779,96,85,Casado,29,2016,11,high
+103375,102122.0,1,Presencial,2.525,1,Mujer,Linkedin,10,488929,85,76,Soltero,39,2019,12,high
+103866,102121.0,1,Presencial,2.51,1,Mujer,Linkedin,10,437851,84,70,Casado,44,2022,1,high
+103565,102047.0,1,Presencial,2.765,2,Mujer,Ferias & Networking,13,453673,93,87,Soltero,41,2014,10,high
+103197,102008.0,1,Presencial,3.89,1,Mujer,Portal Web,11,423949,87,79,Soltero,38,2012,9,high
+103938,102026.0,1,Presencial,3.93,9,Hombre,Portal Web,7,894707,88,79,Casado,40,2012,3,high
+103835,102040.0,1,Presencial,1.49,5,Mujer,Portal Web,9,814625,81,58,Divorciado,46,2013,6,high
+103995,102153.0,1,Presencial,3.58,3,Hombre,Portal Web,9,913239,81,80,Divorciado,58,2023,1,high
+101528,102102.0,1,Presencial,1.455,3,Mujer,Linkedin,2,148824,96,77,Soltero,19,2018,1,high
+101505,102076.0,1,Presencial,2.025,5,Mujer,Portal Web,7,332559,97,85,Soltero,27,2015,12,high
+102160,unknown,2,Presencial,2.21,0,Hombre,Portal Web,3,794000,83,78,Casado,28,2019,8,high
+101127,102087.0,1,Presencial,2.99,1,Mujer,Referidos,9,784444,93,82,Casado,34,2016,8,high
+100974,102089.0,1,Presencial,1.645,5,Hombre,Portal Web,3,805397,85,92,Soltero,37,2018,5,high
+101982,102073.0,1,Presencial,2.08,2,Mujer,Ferias & Networking,4,492094,91,69,Soltero,37,2018,4,high
+101771,102092.0,1,Presencial,2.115,2,Hombre,Referidos,10,279513,97,84,Casado,42,2019,3,high
+101220,102072.0,1,Presencial,5.55,5,Mujer,Portal Web,15,914778,85,82,Viudo,47,2017,10,high
+102003,unknown,2,Presencial,4.05,12,Hombre,Portal Web,8,1616000,83,82,Divorciado,49,2023,2,high
+102157,unknown,2,Presencial,0.73,1,Mujer,Portal Web,6,1616000,85,66,Viudo,44,2015,8,high
+103967,102130.0,1,Presencial,3.025,1,Mujer,Linkedin,1,83957,89,76,Soltero,19,2021,11,high
+103022,102045.0,1,Presencial,3.045,1,Hombre,Ferias & Networking,1,100689,89,80,Soltero,12,2013,8,high
+103364,102102.0,1,Presencial,1.49,3,Mujer,Linkedin,2,147472,93,77,Soltero,19,2018,1,high
+102346,102086.0,1,Presencial,3.04,1,Mujer,Linkedin,5,268744,97,72,Soltero,27,2019,1,high
+103417,102079.0,1,Presencial,1.62,3,Hombre,Portal Web,4,265668,96,74,Casado,27,2018,11,high
+103642,102021.0,1,Presencial,5.13,2,Mujer,Referidos,2,267561,80,75,Divorciado,21,2013,6,high
+102556,102128.0,1,Presencial,1.73,3,Mujer,Ferias & Networking,5,390975,83,81,Casado,36,2021,7,high
+103100,102082.0,1,Presencial,1.95,2,Mujer,Linkedin,10,428595,97,80,Soltero,35,2018,5,high
+102790,102035.0,1,Presencial,4.51,0,Hombre,Portal Web,5,485543,95,83,Casado,33,2014,2,high
+103231,102092.0,1,Presencial,2.15,1,Hombre,Referidos,10,278001,96,84,Casado,42,2019,3,high
+102233,102044.0,1,Presencial,1.495,1,Hombre,Ferias & Networking,14,376876,92,80,Viudo,36,2012,10,high
+103222,102051.0,1,Presencial,6.41,1,Mujer,Portal Web,4,286232,90,71,Casado,39,2015,6,high
+103383,102069.0,1,Presencial,2.705,2,Hombre,Portal Web,9,682586,85,81,Divorciado,47,2017,10,high
+103550,102072.0,1,Presencial,5.51,6,Mujer,Portal Web,15,914026,91,82,Viudo,47,2017,10,high
+102392,102151.0,1,Presencial,6.7,1,Hombre,Linkedin,6,838669,95,72,Soltero,56,2023,5,high
+104093,102086.0,1,Presencial,1.27,3,Hombre,Portal Web,14,893905,84,73,Divorciado,52,2019,4,high
+102435,102069.0,1,Presencial,2.095,2,Mujer,Portal Web,13,899570,85,81,Divorciado,48,2014,12,high
+100751,102147.0,1,Presencial,3.575,2,Mujer,Portal Web,2,118206,92,75,Soltero,20,2021,12,high
+101693,102108.0,1,Presencial,2.75,7,Mujer,Portal Web,4,183660,84,80,Soltero,21,2018,5,high
+100212,102068.0,1,Presencial,2.01,0,Hombre,Linkedin,4,245098,90,77,Soltero,21,2014,8,high
+101131,102021.0,1,Presencial,5.125,2,Mujer,Portal Web,2,273683,83,75,Divorciado,22,2013,6,high
+101153,102131.0,1,Presencial,4.43,10,Mujer,Linkedin,4,330181,90,78,Soltero,33,2021,10,high
+100666,102123.0,1,Presencial,6.56,3,Hombre,Referidos,5,408928,84,81,Soltero,36,2021,9,high
+101465,102103.0,1,Presencial,1.625,1,Mujer,Linkedin,5,844532,87,76,Casado,37,2019,9,high
+100964,102101.0,1,Presencial,2.985,2,Hombre,Ferias & Networking,10,659526,96,68,Viudo,47,2018,8,high
+100012,102099.0,1,Presencial,4.985,2,Mujer,Ferias & Networking,13,733778,92,70,Viudo,52,2019,9,high
+103613,102120.0,1,Presencial,0.915,2,Hombre,Ferias & Networking,5,345607,87,71,Soltero,33,2021,2,high
+102635,102083.0,1,Presencial,1.31,2,Mujer,Referidos,10,386575,92,67,Casado,32,2018,5,high
+103562,102123.0,1,Presencial,6.555,2,Hombre,Referidos,5,413312,81,81,Soltero,36,2021,9,high
+103134,102103.0,1,Presencial,1.655,1,Mujer,Linkedin,5,846640,97,76,Casado,37,2019,9,high
+102511,102131.0,1,Presencial,2.53,1,Hombre,Linkedin,10,258477,92,78,Casado,41,2020,2,high
+103309,102110.0,1,Presencial,2.415,1,Hombre,Ferias & Networking,7,289877,81,76,Casado,44,2020,1,high
+102594,102113.0,1,Presencial,5.155,5,Hombre,Linkedin,12,862087,87,80,Casado,52,2021,1,high
+103414,102083.0,1,Presencial,1.91,3,Hombre,Portal Web,13,777291,91,78,Casado,50,2019,3,high
+103786,102172.0,1,Presencial,2.43,2,Mujer,Portal Web,9,856103,95,74,Casado,55,2023,2,high
+103115,102099.0,1,Presencial,4.945,1,Mujer,Ferias & Networking,13,736348,98,70,Viudo,52,2019,9,high
+101269,102138.0,1,Presencial,2.525,1,Mujer,Ferias & Networking,1,76490,81,81,Soltero,18,2021,6,high
+100479,102050.0,1,Presencial,7.215,1,Hombre,Portal Web,2,122530,83,76,Soltero,12,2013,6,high
+100611,102035.0,1,Presencial,2.94,2,Mujer,Ferias & Networking,1,166899,84,77,Soltero,17,2014,6,high
+100077,102134.0,1,Presencial,1.47,3,Hombre,Portal Web,5,227370,86,79,Soltero,28,2021,7,high
+101191,102070.0,1,Presencial,2.05,7,Hombre,Portal Web,4,292841,85,76,Casado,27,2017,9,high
+101548,102017.0,1,Presencial,4.825,3,Mujer,Referidos,11,258060,94,84,Casado,34,2013,9,high
+100475,102101.0,1,Presencial,1.07,0,Hombre,Linkedin,10,677210,83,80,Divorciado,48,2019,6,high
+101792,102073.0,1,Presencial,3.065,1,Mujer,Referidos,4,840074,80,72,Casado,46,2014,12,high
+100182,102050.0,1,Presencial,3.76,3,Hombre,Linkedin,11,758170,88,70,Casado,46,2014,1,high
+104148,102117.0,1,Presencial,3.54,2,Hombre,Portal Web,3,123591,86,69,Soltero,21,2021,12,high
+103733,102050.0,1,Presencial,7.245,2,Hombre,Portal Web,2,115618,82,76,Soltero,12,2013,6,high
+103593,102030.0,1,Presencial,0.14,6,Hombre,Linkedin,2,138784,85,72,Soltero,15,2014,10,high
+103684,102150.0,1,Presencial,4.17,8,Hombre,Portal Web,1,229142,93,82,Soltero,27,2021,8,high
+102704,102081.0,1,Presencial,4.77,2,Hombre,Linkedin,8,768565,90,84,Casado,32,2018,2,high
+102558,102072.0,1,Presencial,3.33,2,Hombre,Referidos,9,257745,90,76,Soltero,38,2016,12,high
+102563,102085.0,1,Presencial,3.995,2,Hombre,Portal Web,10,276075,83,70,Soltero,40,2016,12,high
+103812,102127.0,1,Presencial,3.76,2,Mujer,Ferias & Networking,16,637957,86,72,Viudo,48,2021,5,high
+103448,102052.0,1,Presencial,4.85,2,Mujer,Portal Web,3,913218,97,77,Viudo,48,2013,2,high
+100469,102159.0,1,Presencial,3.25,0,Hombre,Ferias & Networking,2,137456,88,79,Soltero,22,2022,4,high
+100390,102043.0,1,Presencial,2.455,1,Mujer,Portal Web,1,135882,88,85,Divorciado,14,2014,8,high
+101064,102154.0,1,Presencial,3.095,2,Mujer,Referidos,2,203590,94,76,Casado,27,2022,6,high
+100465,102144.0,1,Presencial,2.71,3,Hombre,Referidos,7,372493,98,75,Soltero,35,2022,4,high
+100612,102053.0,1,Presencial,2.36,0,Mujer,Referidos,4,401739,98,79,Casado,40,2014,8,high
+102033,unknown,2,Presencial,6.25,2,Mujer,Portal Web,16,1616000,90,79,Divorciado,39,2014,5,high
+100192,102172.0,1,Presencial,2.645,3,Mujer,Ferias & Networking,4,700499,90,79,Viudo,53,2023,6,high
+102092,unknown,2,Presencial,1.23,6,Mujer,Linkedin,13,1616000,98,95,Viudo,41,2013,6,high
+101189,102120.0,1,Presencial,2.055,0,Hombre,Portal Web,13,893481,90,70,Casado,54,2020,10,high
+102080,unknown,2,Presencial,1.93,0,Mujer,Linkedin,18,1616000,94,75,Viudo,47,2016,8,high
+103444,102035.0,1,Presencial,2.93,3,Mujer,Ferias & Networking,1,168343,87,77,Soltero,16,2014,6,high
+102920,102009.0,1,Presencial,3.77,1,Hombre,Portal Web,3,188884,86,82,Soltero,16,2013,1,high
+103489,102010.0,1,Presencial,2.04,0,Hombre,Portal Web,2,291831,84,79,Soltero,22,2013,2,high
+102530,102171.0,1,Presencial,1.985,0,Hombre,Linkedin,6,365673,97,77,Casado,36,2023,1,high
+102799,102039.0,1,Presencial,5.09,7,Hombre,Portal Web,2,390073,87,79,Casado,29,2014,6,high
+103144,102113.0,1,Presencial,2.35,1,Mujer,Referidos,8,446206,94,86,Casado,35,2018,6,high
+103122,102070.0,1,Presencial,4.115,1,Hombre,Ferias & Networking,5,451897,91,80,Soltero,32,2015,4,high
+103806,102077.0,1,Presencial,1.925,1,Hombre,Portal Web,4,471789,85,79,Soltero,34,2016,9,high
+102640,102017.0,1,Presencial,4.835,2,Mujer,Referidos,11,259263,82,84,Casado,34,2013,9,high
+104146,102079.0,1,Presencial,3.14,2,Hombre,Linkedin,9,288681,89,71,Casado,42,2018,7,high
+104095,102063.0,1,Presencial,2.175,2,Hombre,Ferias & Networking,9,453922,98,73,Viudo,41,2016,4,high
+103777,102033.0,1,Presencial,2.0,12,Hombre,Portal Web,15,641285,91,75,Casado,40,2013,10,high
+103082,102099.0,1,Presencial,2.655,3,Mujer,Linkedin,6,718904,95,75,Soltero,49,2019,1,high
+102544,102073.0,1,Presencial,3.04,0,Mujer,Referidos,4,839740,88,72,Casado,46,2014,12,high
+101964,102061.0,1,Presencial,1.42,1,Mujer,Portal Web,1,77350,88,81,Soltero,12,2014,12,high
+100240,102044.0,1,Presencial,3.92,2,Mujer,Portal Web,4,164678,90,74,Soltero,17,2014,9,high
+101931,102069.0,1,Presencial,6.9,0,Hombre,Portal Web,5,253489,96,81,Casado,25,2017,8,high
+100599,102136.0,1,Presencial,1.595,3,Mujer,Referidos,4,273246,93,78,Casado,30,2022,4,high
+101710,102089.0,1,Presencial,1.655,3,Hombre,Ferias & Networking,6,326801,98,68,Casado,29,2018,6,high
+101322,102077.0,1,Presencial,1.915,2,Hombre,Portal Web,4,466618,86,79,Soltero,34,2016,9,high
+100292,102042.0,1,Presencial,1.6,1,Hombre,Referidos,5,469179,85,78,Casado,32,2014,3,high
+101342,102029.0,1,Presencial,3.845,1,Hombre,Linkedin,4,490162,83,77,Casado,33,2013,8,high
+100681,102039.0,1,Presencial,4.655,2,Hombre,Referidos,3,270076,87,70,Casado,37,2014,11,high
+101959,102079.0,1,Presencial,3.19,3,Hombre,Linkedin,9,284693,86,71,Casado,42,2018,7,high
+101778,102099.0,1,Presencial,2.635,12,Mujer,Portal Web,9,299035,98,70,Soltero,45,2020,2,high
+100715,102115.0,1,Presencial,1.34,2,Hombre,Portal Web,15,455724,92,77,Viudo,45,2020,1,high
+100783,102092.0,1,Presencial,1.815,7,Hombre,Portal Web,8,298529,80,85,Casado,43,2018,5,high
+100928,102075.0,1,Presencial,4.91,1,Mujer,Portal Web,12,636682,98,79,Casado,43,2016,7,high
+101356,102016.0,1,Presencial,1.57,3,Mujer,Ferias & Networking,11,879451,92,79,Viudo,41,2013,7,high
+101027,102008.0,1,Presencial,3.89,3,Hombre,Portal Web,14,861045,85,70,Casado,41,2012,3,high
+102087,unknown,2,Presencial,7.16,9,Mujer,Linkedin,10,1616000,98,79,Casado,42,2012,5,high
+100009,102111.0,1,Presencial,1.39,1,Mujer,Portal Web,13,917750,97,77,Soltero,55,2021,2,high
+102060,unknown,2,Presencial,4.42,3,Hombre,Referidos,16,1616000,82,62,Casado,45,2013,10,high
+102814,102041.0,1,Presencial,2.74,1,Hombre,Referidos,1,103723,89,75,Soltero,11,2012,11,high
+103305,102060.0,1,Presencial,2.04,1,Mujer,Portal Web,2,203154,89,90,Casado,21,2016,12,high
+102711,102098.0,1,Presencial,5.145,1,Mujer,Portal Web,7,365463,80,72,Soltero,33,2020,5,high
+102631,102154.0,1,Presencial,1.445,1,Hombre,Portal Web,10,407992,92,70,Casado,37,2022,5,high
+102634,102046.0,1,Presencial,4.815,2,Mujer,Portal Web,8,448194,88,76,Casado,30,2013,2,high
+102255,102042.0,1,Presencial,1.58,1,Hombre,Referidos,5,469752,81,78,Casado,32,2014,3,high
+103975,102088.0,1,Presencial,3.185,1,Hombre,Portal Web,7,443778,80,71,Soltero,37,2016,10,high
+102440,102032.0,1,Presencial,1.43,0,Hombre,Portal Web,3,507572,80,74,Casado,35,2014,9,high
+103577,102069.0,1,Presencial,2.24,4,Hombre,Portal Web,8,268667,95,76,Casado,39,2016,11,high
+102629,102065.0,1,Presencial,7.07,1,Mujer,Ferias & Networking,10,271281,82,76,Soltero,37,2014,12,high
+102723,102093.0,1,Presencial,2.315,6,Mujer,Portal Web,13,461896,82,74,Viudo,42,2018,1,high
+102918,102172.0,1,Presencial,2.945,0,Hombre,Portal Web,7,389853,82,75,Divorciado,48,2023,5,high
+103725,102115.0,1,Presencial,1.325,2,Hombre,Portal Web,15,457299,94,77,Viudo,45,2020,1,high
+103601,102092.0,1,Presencial,1.85,7,Hombre,Portal Web,8,298957,91,85,Casado,43,2018,5,high
+102808,102053.0,1,Presencial,2.385,1,Mujer,Referidos,4,396418,85,79,Casado,41,2014,8,high
+102839,102122.0,1,Presencial,1.62,4,Hombre,Referidos,8,654339,97,79,Casado,47,2019,3,high
+102211,102016.0,1,Presencial,1.585,3,Mujer,Ferias & Networking,11,881899,97,79,Viudo,41,2013,7,high
+103795,102065.0,1,Presencial,1.995,2,Mujer,Portal Web,9,879821,89,78,Viudo,49,2017,6,high
+102309,102120.0,1,Presencial,2.065,0,Hombre,Portal Web,13,893347,96,70,Casado,54,2020,10,high
+100855,102007.0,1,Presencial,4.625,2,Mujer,Linkedin,2,95604,91,72,Soltero,10,2012,4,high
+101955,102015.0,1,Presencial,4.33,9,Mujer,Portal Web,2,251801,80,77,Casado,20,2013,2,high
+101426,102133.0,1,Presencial,2.705,9,Mujer,Linkedin,7,288710,94,76,Soltero,31,2022,4,high
+100235,102110.0,1,Presencial,3.64,5,Mujer,Portal Web,5,365409,85,76,Casado,31,2018,1,high
+101432,102089.0,1,Presencial,1.71,2,Mujer,Portal Web,3,411351,84,76,Casado,32,2017,7,high
+100592,102065.0,1,Presencial,7.105,1,Mujer,Ferias & Networking,10,271937,94,76,Soltero,37,2014,12,high
+101849,102131.0,1,Presencial,1.61,2,Hombre,Linkedin,13,290277,92,80,Soltero,47,2022,10,high
+101176,102144.0,1,Presencial,4.5,7,Hombre,Linkedin,10,284287,90,85,Soltero,47,2022,8,high
+100237,102101.0,1,Presencial,2.36,10,Mujer,Linkedin,14,409842,88,78,Soltero,43,2018,7,high
+101050,102058.0,1,Presencial,0.535,1,Mujer,Portal Web,8,439318,94,71,Soltero,42,2016,10,high
+101852,102054.0,1,Presencial,2.885,2,Mujer,Portal Web,8,702302,89,78,Viudo,46,2016,4,high
+101759,102146.0,1,Presencial,2.19,1,Mujer,Portal Web,13,715178,86,71,Casado,52,2021,9,high
+101878,102053.0,1,Presencial,3.335,4,Hombre,Portal Web,10,741986,86,76,Divorciado,45,2013,7,high
+101706,102009.0,1,Presencial,2.015,0,Mujer,Referidos,8,878877,89,79,Casado,48,2012,7,high
+102490,102036.0,1,Presencial,2.91,0,Hombre,Ferias & Networking,1,169169,87,75,Soltero,15,2012,7,high
+102227,102135.0,1,Presencial,2.75,2,Hombre,Referidos,2,189117,89,78,Soltero,24,2021,2,high
+102192,102115.0,1,Presencial,1.72,2,Mujer,Referidos,4,225035,81,71,Casado,24,2018,10,high
+103198,102015.0,1,Presencial,4.29,10,Mujer,Portal Web,2,246660,81,77,Casado,20,2013,2,high
+103233,102110.0,1,Presencial,3.63,5,Mujer,Portal Web,5,372527,89,76,Casado,30,2018,1,high
+103510,102106.0,1,Presencial,3.4,0,Hombre,Linkedin,4,386898,98,78,Divorciado,32,2018,6,high
+103442,102077.0,1,Presencial,3.66,3,Hombre,Portal Web,8,509804,90,78,Divorciado,35,2015,5,high
+103949,102093.0,1,Presencial,3.395,9,Hombre,Portal Web,7,427230,98,84,Soltero,38,2016,10,high
+103561,102072.0,1,Presencial,4.315,3,Mujer,Portal Web,5,270921,84,71,Casado,38,2015,10,high
+103107,102039.0,1,Presencial,4.685,3,Hombre,Referidos,3,266359,80,70,Casado,37,2014,11,high
+104163,102144.0,1,Presencial,4.51,7,Hombre,Linkedin,10,284793,95,85,Soltero,47,2022,8,high
+103950,102099.0,1,Presencial,2.61,12,Mujer,Linkedin,9,300258,90,70,Soltero,45,2020,2,high
+103941,102101.0,1,Presencial,2.33,11,Mujer,Linkedin,14,410600,89,78,Casado,43,2018,7,high
+102987,102086.0,1,Presencial,2.565,8,Mujer,Portal Web,9,799339,90,74,Casado,47,2019,6,high
+103919,102120.0,1,Presencial,2.845,2,Mujer,Portal Web,6,795483,84,79,Divorciado,50,2021,7,high
+103960,102059.0,1,Presencial,3.165,8,Hombre,Referidos,8,881911,93,72,Casado,44,2015,4,high
+102731,102146.0,1,Presencial,2.205,1,Mujer,Portal Web,13,714967,97,71,Casado,52,2021,9,high
+104078,102054.0,1,Presencial,2.88,3,Mujer,Portal Web,8,702317,87,78,Viudo,46,2016,4,high
+101941,102026.0,1,Presencial,2.03,3,Hombre,Referidos,2,213824,98,78,Soltero,18,2013,2,high
+102093,unknown,2,Presencial,5.41,0,Mujer,Ferias & Networking,4,488000,89,62,Soltero,23,2021,6,high
+102088,unknown,2,Presencial,4.96,1,Mujer,Portal Web,3,488000,82,65,Soltero,20,2018,4,high
+102013,unknown,2,Presencial,2.0,2,Mujer,Linkedin,4,743000,96,79,Casado,30,2022,11,high
+100642,102139.0,1,Presencial,2.165,5,Mujer,Linkedin,7,347865,92,88,Casado,32,2020,6,high
+101924,102145.0,1,Presencial,2.45,3,Mujer,Portal Web,6,450484,93,69,Casado,37,2020,11,high
+101349,102083.0,1,Presencial,2.48,9,Mujer,Portal Web,7,787647,95,70,Divorciado,34,2016,12,high
+100504,102072.0,1,Presencial,2.445,2,Mujer,Referidos,5,511137,91,75,Soltero,35,2015,4,high
+101956,102022.0,1,Presencial,5.325,6,Mujer,Linkedin,7,267423,97,70,Divorciado,35,2012,5,high
+100488,102114.0,1,Presencial,3.61,2,Hombre,Linkedin,5,277927,84,83,Casado,44,2020,12,high
+101524,102116.0,1,Presencial,1.725,1,Mujer,Portal Web,10,451137,82,76,Soltero,43,2020,4,high
+100575,102094.0,1,Presencial,2.98,3,Mujer,Referidos,15,294567,91,81,Casado,44,2019,5,high
+100625,102086.0,1,Presencial,2.535,7,Mujer,Portal Web,9,799596,96,74,Casado,46,2019,6,high
+101355,102120.0,1,Presencial,2.85,3,Mujer,Portal Web,6,796214,83,79,Divorciado,50,2021,7,high
+100256,102049.0,1,Presencial,1.51,7,Hombre,Linkedin,3,796074,82,72,Casado,45,2015,6,high
+100188,102124.0,1,Presencial,1.12,2,Mujer,Ferias & Networking,9,778277,85,75,Casado,53,2021,3,high
+100218,102017.0,1,Presencial,1.81,9,Hombre,Linkedin,9,915728,95,63,Divorciado,45,2012,10,high
+102289,102116.0,1,Presencial,2.02,6,Mujer,Linkedin,3,188553,81,74,Casado,22,2019,7,high
+102626,102137.0,1,Presencial,1.455,4,Mujer,Portal Web,3,223166,98,68,Casado,25,2020,5,high
+102825,102118.0,1,Presencial,3.44,5,Mujer,Portal Web,1,206662,91,85,Casado,26,2021,1,high
+103138,102075.0,1,Presencial,7.89,0,Mujer,Referidos,2,232324,80,70,Soltero,23,2017,3,high
+103959,102125.0,1,Presencial,3.715,6,Hombre,Portal Web,1,271148,96,79,Soltero,30,2022,6,high
+102405,102086.0,1,Presencial,2.155,2,Mujer,Portal Web,3,266313,93,84,Casado,26,2018,1,high
+104126,102084.0,1,Presencial,2.79,2,Hombre,Linkedin,3,346535,96,80,Soltero,31,2019,2,high
+102781,102083.0,1,Presencial,2.465,10,Mujer,Portal Web,7,790729,93,70,Divorciado,34,2016,12,high
+103186,102072.0,1,Presencial,2.455,1,Mujer,Referidos,5,507573,88,75,Soltero,35,2015,4,high
+102654,102048.0,1,Presencial,3.84,2,Mujer,Ferias & Networking,8,261663,92,68,Casado,34,2013,12,high
+102584,102109.0,1,Presencial,3.345,0,Mujer,Portal Web,12,419029,88,69,Soltero,40,2018,8,high
+102756,102045.0,1,Presencial,2.435,0,Mujer,Referidos,5,277639,87,78,Casado,36,2013,10,high
+103484,102159.0,1,Presencial,1.9,2,Mujer,Portal Web,4,279363,86,77,Casado,46,2022,11,high
+103252,102114.0,1,Presencial,3.595,2,Hombre,Linkedin,5,277256,95,83,Casado,44,2020,12,high
+102590,102131.0,1,Presencial,1.615,2,Hombre,Linkedin,13,290363,94,80,Soltero,47,2022,10,high
+104045,102112.0,1,Presencial,3.42,2,Mujer,Portal Web,8,298014,82,81,Casado,44,2019,12,high
+103533,102156.0,1,Presencial,1.825,2,Mujer,Referidos,12,655545,93,70,Viudo,50,2022,8,high
+103985,102049.0,1,Presencial,1.515,8,Hombre,Linkedin,3,795917,97,72,Casado,45,2015,6,high
+103573,102017.0,1,Presencial,1.84,8,Hombre,Linkedin,9,919113,81,63,Divorciado,45,2012,10,high
+101097,102120.0,1,Presencial,5.45,4,Mujer,Portal Web,2,140343,86,72,Soltero,20,2020,6,high
+100026,102088.0,1,Presencial,1.73,1,Mujer,Portal Web,1,148328,87,66,Soltero,19,2017,12,high
+101717,102084.0,1,Presencial,3.08,3,Mujer,Ferias & Networking,1,163079,90,74,Soltero,21,2018,8,high
+100016,102146.0,1,Presencial,4.02,1,Hombre,Linkedin,5,203055,95,79,Casado,26,2021,12,high
+101421,102148.0,1,Presencial,4.665,2,Mujer,Portal Web,4,203226,87,78,Casado,26,2021,10,high
+101250,102038.0,1,Presencial,1.495,0,Mujer,Portal Web,5,186984,89,79,Divorciado,17,2013,7,high
+100915,102172.0,1,Presencial,5.88,1,Hombre,Portal Web,4,230418,86,80,Divorciado,29,2022,12,high
+100391,102151.0,1,Presencial,1.495,0,Mujer,Linkedin,5,286767,82,70,Soltero,31,2022,7,high
+100335,102131.0,1,Presencial,5.56,3,Mujer,Portal Web,5,330503,81,85,Soltero,34,2022,12,high
+100570,102111.0,1,Presencial,7.51,4,Hombre,Portal Web,9,392729,91,71,Casado,32,2018,5,high
+101116,102145.0,1,Presencial,2.05,1,Hombre,Portal Web,4,827088,87,75,Divorciado,38,2021,7,high
+100472,102124.0,1,Presencial,2.09,1,Mujer,Referidos,5,420582,90,84,Soltero,42,2019,6,high
+100636,102015.0,1,Presencial,1.98,1,Mujer,Portal Web,11,269571,93,74,Divorciado,35,2013,1,high
+101036,102138.0,1,Presencial,1.01,2,Mujer,Linkedin,4,279036,80,76,Casado,45,2022,7,high
+101909,102029.0,1,Presencial,2.715,2,Hombre,Linkedin,10,279687,90,72,Casado,37,2014,2,high
+100130,102028.0,1,Presencial,1.08,0,Hombre,Referidos,10,277124,84,75,Casado,37,2013,12,high
+101109,102041.0,1,Presencial,7.145,10,Hombre,Portal Web,9,817157,88,75,Viudo,44,2015,6,high
+100273,102054.0,1,Presencial,2.345,4,Mujer,Linkedin,8,694421,86,82,Soltero,45,2015,6,high
+101912,102111.0,1,Presencial,2.635,1,Hombre,Referidos,19,877586,85,68,Soltero,50,2018,8,high
+100416,102057.0,1,Presencial,2.15,2,Mujer,Referidos,12,738016,80,81,Divorciado,46,2013,11,high
+100493,102078.0,1,Presencial,5.94,2,Hombre,Portal Web,3,834817,97,80,Viudo,51,2017,2,high
+101214,102089.0,1,Presencial,1.69,2,Hombre,Portal Web,14,893896,83,77,Casado,52,2016,5,high
+102715,102122.0,1,Presencial,1.18,2,Hombre,Referidos,1,163835,82,74,Soltero,23,2021,10,high
+102461,102148.0,1,Presencial,4.695,1,Mujer,Portal Web,4,200219,81,78,Casado,26,2021,10,high
+102344,102035.0,1,Presencial,5.765,3,Hombre,Linkedin,2,226036,81,64,Casado,19,2013,4,high
+102400,102035.0,1,Presencial,1.515,2,Hombre,Portal Web,9,386412,90,70,Soltero,28,2014,4,high
+103166,102153.0,1,Presencial,3.405,7,Mujer,Portal Web,7,428942,83,66,Soltero,39,2023,3,high
+103998,102145.0,1,Presencial,2.06,2,Hombre,Portal Web,4,826522,82,75,Divorciado,38,2021,7,high
+102221,102124.0,1,Presencial,2.08,0,Mujer,Referidos,5,416042,80,84,Soltero,42,2019,6,high
+102259,102015.0,1,Presencial,1.98,1,Mujer,Referidos,11,264237,81,74,Divorciado,35,2013,1,high
+102749,102146.0,1,Presencial,4.23,1,Mujer,Ferias & Networking,9,640828,82,75,Viudo,50,2023,5,high
+103620,102041.0,1,Presencial,7.155,11,Hombre,Portal Web,9,818142,96,75,Viudo,44,2015,6,high
+103346,102115.0,1,Presencial,6.675,2,Hombre,Referidos,11,699410,96,81,Soltero,50,2020,5,high
+101008,102107.0,1,Presencial,6.355,3,Mujer,Ferias & Networking,1,75517,90,80,Soltero,17,2019,12,high
+100997,102143.0,1,Presencial,5.88,1,Hombre,Portal Web,1,119344,86,72,Soltero,20,2021,5,high
+100581,102137.0,1,Presencial,5.545,1,Mujer,Ferias & Networking,1,180275,96,85,Soltero,26,2023,3,high
+101300,102089.0,1,Presencial,3.11,2,Mujer,Portal Web,5,325991,82,77,Casado,31,2019,9,high
+101640,102029.0,1,Presencial,2.135,2,Mujer,Portal Web,7,388798,85,85,Casado,29,2014,9,high
+100127,102035.0,1,Presencial,1.49,1,Hombre,Portal Web,9,386702,86,70,Soltero,28,2014,4,high
+101132,102115.0,1,Presencial,6.035,2,Hombre,Linkedin,8,489279,93,70,Soltero,40,2020,8,high
+101725,102031.0,1,Presencial,2.12,2,Mujer,Portal Web,6,488016,80,81,Casado,33,2013,10,high
+100300,102041.0,1,Presencial,2.645,2,Mujer,Portal Web,13,269865,95,66,Casado,34,2012,9,high
+101598,102118.0,1,Presencial,6.32,2,Hombre,Ferias & Networking,5,266895,92,69,Soltero,41,2019,1,high
+101110,102161.0,1,Presencial,5.04,2,Mujer,Referidos,5,449228,94,77,Soltero,45,2022,5,high
+102079,unknown,2,Presencial,2.63,1,Mujer,Portal Web,4,1358450,80,81,Soltero,35,2016,3,high
+101675,102146.0,1,Presencial,4.19,0,Mujer,Ferias & Networking,9,639218,87,75,Viudo,50,2023,5,high
+101475,102075.0,1,Presencial,1.8,3,Hombre,Portal Web,10,433559,97,69,Casado,42,2015,2,high
+100505,102044.0,1,Presencial,2.555,2,Mujer,Referidos,12,721934,94,78,Soltero,45,2013,12,high
+102158,unknown,2,Presencial,1.79,1,Mujer,Referidos,27,1900000,87,74,Viudo,54,2013,9,high
+103452,102093.0,1,Presencial,1.75,1,Hombre,Portal Web,1,99940,90,76,Soltero,15,2016,9,high
+102627,102143.0,1,Presencial,5.875,0,Hombre,Portal Web,1,122573,80,72,Soltero,20,2021,5,high
+102272,102137.0,1,Presencial,5.52,0,Mujer,Ferias & Networking,1,187188,98,85,Soltero,25,2023,3,high
+103338,102035.0,1,Presencial,0.875,2,Mujer,Portal Web,4,181235,95,78,Soltero,17,2014,2,high
+103996,102172.0,1,Presencial,5.85,1,Hombre,Portal Web,4,227082,82,80,Divorciado,29,2022,12,high
+103595,102086.0,1,Presencial,4.76,2,Hombre,Ferias & Networking,6,492019,96,77,Casado,35,2016,3,high
+102486,102039.0,1,Presencial,0.955,2,Hombre,Referidos,8,255595,95,72,Soltero,35,2014,4,high
+102188,102028.0,1,Presencial,5.825,0,Mujer,Ferias & Networking,3,374012,82,76,Divorciado,37,2012,8,high
+102356,102075.0,1,Presencial,1.77,2,Hombre,Portal Web,10,434387,97,69,Casado,42,2015,2,high
+102370,102055.0,1,Presencial,0.965,1,Mujer,Ferias & Networking,12,680450,82,67,Casado,43,2013,11,high
+103512,102044.0,1,Presencial,2.555,2,Mujer,Referidos,12,718187,80,78,Soltero,45,2013,12,high
+103190,102111.0,1,Presencial,2.635,2,Hombre,Referidos,19,875637,89,68,Soltero,51,2018,8,high
+102958,102057.0,1,Presencial,2.155,2,Mujer,Referidos,12,736821,89,81,Divorciado,46,2013,11,high
+102358,102111.0,1,Presencial,3.77,7,Mujer,Portal Web,1,100460,94,73,Soltero,16,2018,4,high
+100434,102110.0,1,Presencial,3.115,1,Mujer,Ferias & Networking,5,286593,90,79,Soltero,42,2018,3,high
+102164,unknown,2,Presencial,3.78,2,Hombre,Linkedin,7,1461470,83,77,Casado,40,2018,9,high
+103680,102109.0,1,Presencial,3.03,1,Hombre,Ferias & Networking,7,492568,83,79,Soltero,38,2019,7,high
+101762,102146.0,1,Presencial,3.925,1,Mujer,Referidos,10,409810,94,80,Divorciado,37,2022,10,high
+101529,102006.0,1,Presencial,2.22,5,Hombre,Portal Web,1,250393,82,84,Soltero,19,2012,3,high
+101971,102018.0,1,Presencial,1.955,3,Hombre,Linkedin,5,270353,95,89,Soltero,20,2012,8,high
+101840,102160.0,1,Presencial,1.8,2,Hombre,Portal Web,13,287743,86,75,Divorciado,46,2022,11,high
+102852,102006.0,1,Presencial,2.215,5,Hombre,Portal Web,1,252449,85,84,Soltero,19,2012,3,high
+102209,102014.0,1,Presencial,5.41,1,Mujer,Portal Web,3,267540,80,84,Casado,22,2013,5,high
+100272,102049.0,1,Presencial,2.16,3,Mujer,Linkedin,6,251460,80,75,Casado,19,2013,2,high
+100759,102110.0,1,Presencial,1.3,3,Mujer,Ferias & Networking,6,269059,86,75,Soltero,29,2021,5,high
+100186,102014.0,1,Presencial,5.435,1,Mujer,Portal Web,3,267708,83,84,Casado,22,2013,5,high
+100343,102125.0,1,Presencial,1.975,2,Mujer,Linkedin,5,285772,86,79,Soltero,30,2021,1,high
+101718,102080.0,1,Presencial,3.47,3,Hombre,Portal Web,2,391361,80,69,Soltero,30,2016,6,high
+101069,102109.0,1,Presencial,4.66,1,Mujer,Portal Web,4,917058,96,75,Divorciado,50,2018,1,high
+103318,102049.0,1,Presencial,2.13,3,Mujer,Linkedin,6,249880,92,75,Casado,20,2013,2,high
+103093,102039.0,1,Presencial,4.705,2,Mujer,Referidos,5,266305,92,70,Divorciado,21,2012,7,high
+102867,102089.0,1,Presencial,3.275,10,Hombre,Portal Web,8,367619,84,78,Soltero,32,2019,1,high
+103131,102158.0,1,Presencial,2.28,1,Hombre,Ferias & Networking,9,280984,87,80,Casado,45,2022,3,high
+103065,102172.0,1,Presencial,2.235,2,Hombre,Referidos,12,290605,85,68,Soltero,47,2023,3,high
+103164,102160.0,1,Presencial,1.81,3,Hombre,Portal Web,13,290378,89,75,Divorciado,47,2022,11,high
+103099,102123.0,1,Presencial,2.745,0,Hombre,Linkedin,4,289173,88,75,Casado,43,2019,4,high
+103342,102127.0,1,Presencial,4.81,11,Mujer,Linkedin,12,715281,94,73,Soltero,53,2022,7,high
+102427,102059.0,1,Presencial,6.37,0,Hombre,Portal Web,18,713768,89,78,Casado,47,2015,9,high
+103312,102109.0,1,Presencial,4.69,2,Mujer,Portal Web,4,914132,80,75,Divorciado,50,2018,2,high
+100414,102152.0,1,Presencial,2.95,5,Hombre,Portal Web,7,297320,96,77,Divorciado,47,2022,12,high
+100228,102023.0,1,Presencial,1.385,7,Hombre,Portal Web,6,385064,95,69,Soltero,37,2013,10,high
+101111,102109.0,1,Presencial,1.31,3,Mujer,Ferias & Networking,8,449826,94,74,Soltero,44,2018,4,high
+101835,102093.0,1,Presencial,5.835,6,Hombre,Linkedin,6,699720,91,63,Casado,47,2017,1,high
+100031,102127.0,1,Presencial,4.85,11,Mujer,Linkedin,12,720179,85,73,Soltero,53,2022,7,high
+103116,102125.0,1,Presencial,2.0,2,Mujer,Linkedin,5,285905,97,79,Soltero,30,2021,1,high
+103169,102134.0,1,Presencial,5.565,2,Hombre,Portal Web,3,300917,87,81,Divorciado,48,2023,6,high
+100123,102038.0,1,Presencial,1.89,2,Hombre,Ferias & Networking,5,212360,86,75,Casado,20,2014,10,high
+102112,unknown,2,Presencial,2.27,7,Hombre,Linkedin,1,692000,83,74,Soltero,26,2020,6,high
+100174,102031.0,1,Presencial,2.68,23,Hombre,Headhunter,4,407694,82,63,Divorciado,36,2014,5,high
+101213,102141.0,1,Presencial,2.035,11,Mujer,Linkedin,15,438318,93,66,Soltero,48,2022,5,high
+102902,102135.0,1,Presencial,2.04,1,Mujer,Referidos,2,289409,83,70,Casado,31,2022,9,high
+104007,102093.0,1,Presencial,1.71,1,Mujer,Portal Web,6,658181,96,70,Soltero,45,2017,1,high
+100203,102100.0,1,Presencial,3.865,10,Hombre,Linkedin,6,255003,86,86,Soltero,40,2018,7,high
+101696,102129.0,1,Presencial,7.595,1,Mujer,Ferias & Networking,5,391199,96,79,Divorciado,46,2019,11,high
+100145,102118.0,1,Presencial,1.62,2,Mujer,Portal Web,16,697634,91,81,Divorciado,51,2021,4,high
+100444,102055.0,1,Presencial,1.4,6,Hombre,Linkedin,12,722063,94,76,Viudo,47,2016,7,high
+101980,102047.0,1,Presencial,2.56,1,Mujer,Portal Web,13,721014,90,70,Soltero,46,2014,10,high
+101578,102037.0,1,Presencial,3.53,8,Mujer,Portal Web,9,819490,92,86,Soltero,45,2013,8,high
+100969,102071.0,1,Presencial,2.36,6,Hombre,Linkedin,5,913006,85,79,Soltero,49,2017,4,high
+101547,102085.0,1,Presencial,1.875,2,Hombre,Referidos,12,879943,86,77,Viudo,49,2016,12,high
+101533,102036.0,1,Presencial,1.925,0,Hombre,Portal Web,10,738048,93,79,Soltero,47,2015,5,high
+103136,102083.0,1,Presencial,1.56,2,Hombre,Portal Web,5,271901,97,75,Casado,24,2016,6,high
+103706,102111.0,1,Presencial,1.53,1,Hombre,Portal Web,6,391862,89,75,Viudo,35,2021,3,high
+103333,102031.0,1,Presencial,2.695,23,Hombre,Headhunter,4,406613,85,63,Divorciado,36,2014,5,high
+102517,102053.0,1,Presencial,3.86,0,Hombre,Linkedin,4,280577,91,71,Casado,37,2014,3,high
+102819,102129.0,1,Presencial,7.61,2,Mujer,Ferias & Networking,5,384166,94,79,Divorciado,46,2019,11,high
+104101,102118.0,1,Presencial,2.295,2,Hombre,Ferias & Networking,4,654188,81,71,Divorciado,48,2020,3,high
+102901,102069.0,1,Presencial,2.81,2,Hombre,Ferias & Networking,12,662326,87,70,Casado,45,2017,4,high
+103895,102037.0,1,Presencial,1.85,8,Hombre,Linkedin,14,777327,97,78,Soltero,43,2012,10,high
+103042,102071.0,1,Presencial,2.39,6,Hombre,Linkedin,5,919140,96,79,Soltero,49,2017,4,high
+101707,102092.0,1,Presencial,2.19,2,Mujer,Portal Web,1,101968,96,71,Soltero,15,2017,1,high
+100799,102096.0,1,Presencial,0.935,4,Mujer,Referidos,2,162553,90,74,Soltero,19,2017,3,high
+101845,102060.0,1,Presencial,6.205,2,Mujer,Linkedin,10,391574,87,76,Soltero,39,2015,4,high
+100011,102037.0,1,Presencial,1.865,8,Hombre,Portal Web,14,780391,95,78,Soltero,43,2012,10,high
+101990,102023.0,1,Presencial,5.305,2,Mujer,Portal Web,9,916188,86,79,Viudo,48,2012,4,high
+103619,102092.0,1,Presencial,2.18,1,Mujer,Portal Web,1,100471,96,71,Viudo,15,2017,1,high
+103497,102075.0,1,Presencial,6.39,3,Mujer,Linkedin,2,286217,88,83,Casado,24,2015,4,high
+102348,102091.0,1,Presencial,2.045,2,Mujer,Portal Web,7,388735,80,76,Casado,32,2017,5,high
+103610,102118.0,1,Presencial,1.64,3,Mujer,Portal Web,16,694357,81,81,Divorciado,51,2021,4,high
+103016,102023.0,1,Presencial,5.285,2,Mujer,Portal Web,9,916404,87,79,Viudo,48,2012,4,high
+101572,102103.0,1,Presencial,1.89,3,Mujer,Portal Web,2,251612,81,69,Casado,27,2020,3,high
+100190,102044.0,1,Presencial,1.3,2,Hombre,Linkedin,2,350478,86,78,Casado,28,2016,1,high
+100560,102084.0,1,Presencial,5.515,3,Hombre,Portal Web,14,419722,89,74,Casado,38,2016,8,high
+103437,102103.0,1,Presencial,1.85,2,Mujer,Portal Web,2,247573,94,69,Casado,27,2020,3,high
+104136,102172.0,1,Presencial,1.615,0,Mujer,Portal Web,3,408487,87,84,Soltero,38,2023,1,high
+101024,102043.0,1,Presencial,5.725,1,Mujer,Ferias & Networking,4,311881,90,75,Soltero,24,2014,2,high
+101807,102086.0,1,Presencial,0.955,9,Hombre,Portal Web,8,366827,84,75,Casado,31,2018,1,high
+101442,102172.0,1,Presencial,1.585,1,Mujer,Portal Web,3,405606,96,84,Soltero,38,2023,1,high
+100876,102096.0,1,Presencial,1.935,3,Mujer,Linkedin,5,829120,91,72,Soltero,39,2020,4,high
+100988,102049.0,1,Presencial,1.64,1,Mujer,Ferias & Networking,12,489218,86,74,Casado,34,2014,12,high
+100909,102100.0,1,Presencial,1.53,0,Mujer,Headhunter,11,284211,98,74,Casado,43,2019,2,high
+100069,102074.0,1,Presencial,1.72,2,Hombre,Portal Web,14,277795,90,86,Casado,41,2018,4,high
+102501,102096.0,1,Presencial,1.96,3,Mujer,Linkedin,5,829523,87,72,Soltero,39,2020,4,high
+103451,102030.0,1,Presencial,1.93,2,Hombre,Portal Web,6,758197,89,79,Soltero,43,2013,11,high
+103250,102007.0,1,Presencial,5.04,5,Mujer,Portal Web,5,678275,83,88,Divorciado,42,2012,9,high
+101335,102141.0,1,Presencial,3.1,2,Hombre,Ferias & Networking,3,512138,96,75,Casado,42,2022,4,high
+100941,102130.0,1,Presencial,4.075,10,Hombre,Portal Web,8,266869,84,68,Casado,42,2020,9,high
+101641,102063.0,1,Presencial,1.68,3,Mujer,Portal Web,15,640218,84,71,Viudo,44,2017,4,high
+100771,102030.0,1,Presencial,8.11,1,Hombre,Ferias & Networking,8,675162,90,82,Soltero,42,2013,10,high
+103886,102077.0,1,Presencial,1.555,3,Hombre,Portal Web,8,247272,90,78,Soltero,24,2016,12,high
+103407,102141.0,1,Presencial,3.135,2,Hombre,Ferias & Networking,3,509216,84,75,Casado,43,2022,4,high
+103958,102007.0,1,Presencial,6.01,7,Hombre,Portal Web,9,268659,96,82,Soltero,34,2012,2,high
+103056,102051.0,1,Presencial,1.95,1,Hombre,Portal Web,9,280623,94,75,Soltero,36,2013,4,high
+102611,102063.0,1,Presencial,1.66,2,Mujer,Portal Web,15,639862,90,71,Viudo,44,2017,4,high
+102212,102069.0,1,Presencial,1.485,2,Mujer,Referidos,5,674922,92,79,Casado,44,2015,2,high
+102966,102067.0,1,Presencial,3.93,2,Hombre,Portal Web,8,819437,88,65,Viudo,43,2014,10,high
+100587,102067.0,1,Presencial,3.965,2,Hombre,Portal Web,8,822117,89,65,Viudo,43,2014,10,high
+101672,102069.0,1,Presencial,1.48,2,Mujer,Referidos,5,674425,95,79,Casado,44,2015,2,high
+102278,102025.0,1,Presencial,4.335,3,Hombre,Ferias & Networking,6,246938,89,77,Casado,20,2012,12,high
+103632,102130.0,1,Presencial,4.055,10,Hombre,Portal Web,8,270389,82,68,Casado,42,2020,9,high
+100542,102029.0,1,Presencial,3.27,3,Mujer,Linkedin,2,143382,91,82,Soltero,12,2012,12,high
+101274,102129.0,1,Presencial,4.47,4,Hombre,Portal Web,2,253108,98,78,Soltero,28,2021,10,high
+100728,102050.0,1,Presencial,3.335,1,Mujer,Portal Web,3,390279,98,75,Soltero,27,2013,7,high
+102643,102136.0,1,Presencial,3.14,2,Hombre,Referidos,1,100689,89,78,Soltero,18,2020,5,high
+102769,102050.0,1,Presencial,3.35,1,Mujer,Portal Web,3,389484,83,75,Soltero,27,2013,7,high
+103820,102062.0,1,Presencial,5.41,2,Hombre,Linkedin,3,486742,84,77,Divorciado,36,2017,5,high
+100980,102065.0,1,Presencial,3.685,7,Hombre,Linkedin,3,390474,81,80,Divorciado,31,2017,1,high
+100388,102136.0,1,Presencial,4.015,1,Mujer,Headhunter,3,471808,81,77,Casado,40,2021,6,high
+103516,102136.0,1,Presencial,4.03,1,Mujer,Headhunter,3,467505,89,77,Casado,40,2021,6,high
+103460,102015.0,1,Presencial,1.5,1,Hombre,Linkedin,12,512305,85,84,Casado,33,2012,11,high
+101854,102037.0,1,Presencial,3.43,1,Mujer,Portal Web,4,206319,87,76,Casado,16,2012,4,high
+101169,102015.0,1,Presencial,1.495,1,Hombre,Linkedin,12,504558,98,84,Casado,32,2012,11,high
+102127,unknown,2,Presencial,4.03,2,Mujer,Linkedin,9,1306940,88,78,Divorciado,32,2014,5,high
+101988,102028.0,1,Presencial,2.075,2,Hombre,Portal Web,4,276849,82,82,Soltero,37,2013,4,high
+102218,102037.0,1,Presencial,3.435,2,Mujer,Portal Web,4,201128,94,76,Casado,16,2012,4,high
+102473,102144.0,1,Presencial,3.215,0,Mujer,Linkedin,5,425517,95,75,Casado,46,2022,10,high
+100848,102044.0,1,Presencial,1.945,2,Hombre,Referidos,3,653783,87,86,Casado,43,2015,2,high
+102054,unknown,2,Presencial,2.91,1,Hombre,Linkedin,17,1616000,85,74,Divorciado,41,2012,11,high
+102695,102044.0,1,Presencial,1.95,2,Hombre,Referidos,3,658682,81,86,Casado,43,2015,2,high
+101039,102154.0,1,Presencial,1.16,1,Hombre,Portal Web,6,739483,82,77,Divorciado,55,2023,5,high
+101729,102089.0,1,Presencial,1.85,1,Mujer,Referidos,8,288676,86,81,Casado,26,2016,8,high
+100114,102077.0,1,Presencial,1.71,1,Mujer,Ferias & Networking,1,146775,92,63,Soltero,18,2017,9,high
+103966,102077.0,1,Presencial,1.735,1,Mujer,Ferias & Networking,1,146460,98,63,Soltero,18,2017,9,high
+101513,102157.0,1,Presencial,4.74,2,Mujer,Linkedin,12,718690,84,81,Soltero,53,2022,6,high
+102964,102109.0,1,Presencial,2.46,0,Mujer,Portal Web,18,716730,96,75,Viudo,52,2021,4,high
+100349,102162.0,1,Presencial,5.91,6,Mujer,Portal Web,1,78566,80,76,Soltero,20,2023,10,high
+101714,102154.0,1,Presencial,3.96,3,Mujer,Portal Web,2,137930,86,64,Soltero,23,2023,9,high
+100842,102135.0,1,Presencial,1.77,11,Hombre,Linkedin,3,138489,81,78,Soltero,24,2023,8,high
+100101,102171.0,1,Presencial,6.275,6,Hombre,Portal Web,4,162042,86,69,Soltero,26,2023,9,high
+100385,102171.0,1,Presencial,2.82,12,Mujer,Portal Web,4,184788,96,69,Casado,26,2023,7,high
+101930,102142.0,1,Presencial,2.65,1,Hombre,Portal Web,1,205952,98,71,Casado,29,2023,11,high
+100854,102142.0,1,Presencial,1.795,1,Mujer,Linkedin,3,227327,82,77,Soltero,29,2023,11,high
+100368,102172.0,1,Presencial,5.25,7,Mujer,Portal Web,5,228406,80,70,Casado,30,2023,8,high
+101149,102170.0,1,Presencial,3.185,0,Hombre,Linkedin,1,246055,84,79,Soltero,31,2023,8,high
+100088,102150.0,1,Presencial,1.985,2,Hombre,Portal Web,5,293544,87,66,Casado,32,2023,8,high
+101929,102142.0,1,Presencial,3.885,3,Hombre,Portal Web,2,307230,92,78,Casado,34,2023,12,high
+101553,102169.0,1,Presencial,1.865,2,Hombre,Referidos,3,307517,97,84,Soltero,34,2023,12,high
+100168,102162.0,1,Presencial,3.295,3,Hombre,Referidos,2,352914,86,83,Casado,35,2023,10,high
+101902,102165.0,1,Presencial,4.035,1,Hombre,Portal Web,10,404855,87,83,Casado,39,2023,9,high
+101945,102171.0,1,Presencial,1.44,1,Mujer,Headhunter,11,407545,84,85,Soltero,38,2023,8,high
+100024,102158.0,1,Presencial,0.85,3,Hombre,Portal Web,6,424966,87,74,Casado,40,2023,9,high
+101867,102171.0,1,Presencial,1.86,7,Mujer,Linkedin,10,487421,80,75,Soltero,43,2023,9,high
+101136,102172.0,1,Presencial,6.155,3,Mujer,Referidos,9,888997,89,79,Casado,43,2023,9,high
+102118,unknown,2,Presencial,4.76,17,Mujer,Linkedin,4,1616000,86,74,Soltero,39,2023,8,high
+101770,102171.0,1,Presencial,1.65,1,Hombre,Portal Web,5,381314,95,74,Casado,46,2023,10,high
+101405,102172.0,1,Presencial,1.99,0,Hombre,Portal Web,3,272212,81,79,Casado,46,2023,7,high
+100109,102147.0,1,Presencial,1.86,1,Mujer,Ferias & Networking,12,279346,94,75,Soltero,47,2023,11,high
+100355,102157.0,1,Presencial,1.855,2,Hombre,Linkedin,8,298691,97,69,Casado,49,2023,8,high
+100940,102143.0,1,Presencial,2.43,0,Mujer,Referidos,7,425192,98,75,Casado,50,2023,10,high
+101679,102141.0,1,Presencial,5.68,3,Hombre,Portal Web,6,800918,89,80,Casado,52,2023,9,high
+102002,unknown,2,Presencial,2.16,12,Hombre,Linkedin,10,1616000,97,69,Divorciado,48,2023,9,high
+101646,102144.0,1,Presencial,4.0,0,Hombre,Portal Web,7,873149,81,69,Soltero,53,2023,9,high
+100261,102152.0,1,Presencial,7.105,2,Mujer,Linkedin,8,720776,86,75,Soltero,55,2023,11,high
+102084,unknown,2,Presencial,2.62,3,Mujer,Portal Web,14,1616000,89,76,Divorciado,50,2023,7,high
+102071,unknown,2,Presencial,0.87,1,Hombre,Portal Web,11,1616000,85,72,Viudo,51,2023,11,high
+102045,unknown,2,Presencial,3.19,3,Hombre,Portal Web,11,1616000,97,65,Casado,53,2023,9,high
+102066,unknown,2,Presencial,3.62,3,Hombre,Referidos,5,1616000,97,84,Casado,55,2023,12,high
+100462,102171.0,1,Presencial,2.675,2,Mujer,Referidos,18,899631,83,82,Casado,60,2023,8,high
+102156,unknown,2,Presencial,4.23,2,Hombre,Portal Web,22,1616000,92,76,Soltero,63,2023,12,high
+104060,102154.0,1,Presencial,3.975,3,Mujer,Portal Web,2,143225,98,64,Soltero,23,2023,9,high
+103028,102135.0,1,Presencial,1.765,10,Hombre,Linkedin,3,136659,94,78,Soltero,24,2023,8,high
+102828,102150.0,1,Presencial,2.55,3,Mujer,Linkedin,2,163644,91,76,Soltero,24,2023,7,high
+104056,102167.0,1,Presencial,1.97,2,Mujer,Portal Web,2,162075,92,67,Soltero,26,2023,9,high
+103821,102136.0,1,Presencial,5.63,6,Hombre,Linkedin,1,188328,93,76,Soltero,26,2023,7,high
+103790,102142.0,1,Presencial,1.79,2,Mujer,Linkedin,3,226542,84,77,Soltero,29,2023,11,high
+103389,102172.0,1,Presencial,5.24,8,Mujer,Portal Web,5,230498,97,70,Casado,30,2023,8,high
+102585,102142.0,1,Presencial,3.9,3,Hombre,Portal Web,2,313355,91,78,Casado,34,2023,12,high
+104086,102169.0,1,Presencial,1.895,2,Hombre,Referidos,3,313049,96,84,Soltero,34,2023,12,high
+102778,102139.0,1,Presencial,6.45,4,Hombre,Linkedin,4,411337,80,77,Casado,38,2023,9,high
+102432,102165.0,1,Presencial,4.005,2,Hombre,Linkedin,10,411363,96,83,Casado,39,2023,9,high
+102990,102172.0,1,Presencial,6.13,4,Mujer,Referidos,9,890608,91,79,Casado,43,2023,9,high
+102423,102171.0,1,Presencial,1.605,2,Hombre,Portal Web,5,378845,93,74,Soltero,46,2023,10,high
+103289,102147.0,1,Presencial,1.885,1,Mujer,Ferias & Networking,12,274387,84,75,Soltero,47,2023,11,high
+102386,102171.0,1,Presencial,1.18,1,Hombre,Referidos,11,286394,97,74,Divorciado,48,2023,10,high
+103154,102171.0,1,Presencial,5.915,3,Hombre,Linkedin,5,308396,90,77,Divorciado,49,2023,8,high
+103727,102157.0,1,Presencial,1.82,2,Hombre,Linkedin,8,297922,97,69,Casado,49,2023,8,high
+103332,102143.0,1,Presencial,2.43,1,Mujer,Referidos,7,424714,92,75,Viudo,50,2023,10,high
+103839,102139.0,1,Presencial,3.42,4,Mujer,Portal Web,3,642391,98,71,Casado,50,2023,7,high
+103755,102161.0,1,Presencial,2.995,2,Mujer,Portal Web,16,700814,90,69,Soltero,53,2023,11,high
+103976,102171.0,1,Presencial,2.775,0,Mujer,Portal Web,5,677071,93,66,Divorciado,53,2023,9,high
+104115,102144.0,1,Presencial,3.99,1,Hombre,Portal Web,7,876285,84,69,Soltero,53,2023,9,high
+103920,102152.0,1,Presencial,7.1,1,Mujer,Linkedin,8,719102,91,75,Soltero,55,2023,11,high
+103151,102171.0,1,Presencial,2.695,3,Mujer,Referidos,18,898994,89,82,Casado,60,2023,8,high
