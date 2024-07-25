@@ -1,4 +1,4 @@
-﻿id_colaborador;id_ultimo_jefe;seniority;modalidad_trabajo;distancia_oficina;dias_baja_salud;genero;canal_reclutamiento;permanencia_promedio;fecha_nacimiento;salario;performance_score;psi_score;fecha_incorporacion;estado_civil
+﻿id_employee;id_last_boss;seniority;work_modality;office_distance;low_health_days;gender;recruitment_channel;average_permanence;birth_date;salary;performance_score;psi_score;join_date;marital_estatus
 100486;102115;1;Híbrida;0.795;2;Hombre;Ferias & Networking;2;19/01/1997;181654;99;81;24/07/2021;Soltero
 103752;102074;1;Híbrida;1.715;1;Mujer;Ferias & Networking;1;20/08/1999;140986;97;75;27/01/2018;Soltero
 103937;102150;1;Híbrida;2.375;1;Hombre;Portal Web;6;29/10/1984;406690;96;69;24/04/2022;Soltero
