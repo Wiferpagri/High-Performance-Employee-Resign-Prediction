@@ -1,6 +1,6 @@
 # High Performance Employee Resign Prediction
 
-High performance employee resign prediction using graphs, supervised and unsupervised learning
+High performance employee resign prediction using graphs, supervised and unsupervised learning. This data was taken from Indra Hackday 2024 - People Analytics. The winner from this competiton had 0.5614 F1 score on test data. Applying various techniques such as graph embeddings and Feature Engineering we were able to get 0.5889 F1 score using a Neural Network.
   
 ## Installation guide
 
