@@ -1,10 +1,8 @@
 # High Performance Employee Resign Prediction
 
-High performance employee resign prediction using graphs, supervised and unsupervised learning. This data was taken from Indra Hackday 2024 - People Analytics. The winner from this competiton had 0.5614 F1 score on test data. Applying various techniques such as graph embeddings and Feature Engineering we were able to get 0.5889 F1 score using a Neural Network.
-  
-## Installation guide
+High performance employee resign prediction using graphs (with node embeddings) and supervised learning. This data was taken from Indra Hackday 2024 - People Analytics. The winner from this competiton had 0.5614 F1 score on test data. Applying various techniques such as graph embeddings and Feature Engineering we were able to get 0.6004 F1 score using XGBoost Classifier.
 
-Please read [install.md](install.md) for details on how to set up this project.
+Applying a dimensionality reduction technique named Recursive Feature Extraction with the XGBoost Classifier, the number of features (no node embeddings features included) was reduced from 50+ to only 4, finding that employee's seniority and the interaction between employee and boss gender are the most important features to predict the early resignation of an employee with high performance.
 
 ## Project Organization
 
@@ -58,4 +56,4 @@ Please read [install.md](install.md) for details on how to set up this project.
             └── visualize.py
 
 ---
-Project based on the [cookiecutter conda data science project template](https://github.com/jvelezmagic/cookiecutter-conda-data-science).
+Project based on the [cookiecutter conda data science project template](https://github.com/Wiferpagri/cookiecutter-data-science-personal).
