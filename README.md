@@ -1,8 +1,30 @@
 # High Performance Employee Resign Prediction
 
+## Summary
+
 High performance employee resign prediction using graphs (with node embeddings) and supervised learning. This data was taken from Indra Hackday 2024 - People Analytics. The winner from this competiton had 0.5614 F1 score on test data. Applying various techniques such as graph embeddings and Feature Engineering we were able to get 0.6106 F1 score using XGBoost Classifier.
 
 Applying a dimensionality reduction technique named Recursive Feature Extraction with the XGBoost Classifier, the number of features (no node embeddings features included) was reduced from 50+ to only 21, finding that employee's seniority and the interaction between employee and boss gender are the most important features to predict the early resignation of an employee with high performance.
+
+**Key insights:** Employee gender, boss gender, employee performance and seniority were the features that influence the most in the early employee resign.
+
+# Introduction
+
+Employee early resign may have considerable consequences for the business, such as time and money invested in training, make a new for the position which implies time and resources from HHRR, etc. Knowing the motives that make employees to early resing can be a great advantage for business in order to save time, money and resources.
+
+In this project, it's primordial to find those features that influence the most in employee resing, helping the business to take actions to prevent this phenomena.
+
+# Business objectives
+
+**Main objective:** Identify the reasons that make employees to resign in their first 6 months.
+
+**Secondary objectives:** Take actions to prevent early resign from employees.
+
+### Author
+
+William Pabon, Data Scientist
+
+[LinkedIn](https://www.linkedin.com/in/william-ferney-pabon-grimaldi-026846236/)
 
 ## Project Organization
 
